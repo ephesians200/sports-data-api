@@ -8,34 +8,34 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J1 League",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "Jubilo Iwata",
       "awayTeam": "Omiya Ardija",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "8'"
+      "time": "34'"
     },
     {
       "homeTeam": "Imabari",
       "awayTeam": "Sagan Tosu",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "9'"
+      "time": "34'"
     },
     {
       "homeTeam": "Oita Trinita",
       "awayTeam": "Ehime FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "J2 League",
-      "time": "9'"
+      "time": "34'"
     },
     {
       "homeTeam": "Thespakusatsu Gunma",
@@ -44,16 +44,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J3 League",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "Tegevajaro Miyazaki",
       "awayTeam": "FC Ryukyu",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "J3 League",
-      "time": "7'"
+      "time": "32'"
     },
     {
       "homeTeam": "Cheongju",
@@ -62,7 +62,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "K League 2",
-      "time": "11'"
+      "time": "37'"
     },
     {
       "homeTeam": "FC Seoul",
@@ -71,34 +71,34 @@
       "awayScore": 0,
       "status": "Live",
       "league": "K League 1",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Changchun Yatai",
       "awayTeam": "Qingdao Jonoon",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Super League",
-      "time": "11'"
+      "time": "37'"
     },
     {
       "homeTeam": "Team Thoren",
       "awayTeam": "Karlberg",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Ettan - Norra",
-      "time": "11'"
+      "time": "37'"
     },
     {
       "homeTeam": "Ulytau",
       "awayTeam": "Atyrau",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Daejeon Korail",
@@ -107,43 +107,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "K3 League",
-      "time": "12'"
-    },
-    {
-      "homeTeam": "Nõmme United",
-      "awayTeam": "Viimsi",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Esiliiga A",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "FCI Levadia II",
-      "awayTeam": "Tartu Welco",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Esiliiga A",
-      "time": "41'"
-    },
-    {
-      "homeTeam": "FC Tallinn",
-      "awayTeam": "Nõmme Kalju II",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Esiliiga A",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "Tallinna Kalev II",
-      "awayTeam": "Elva",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Esiliiga A",
-      "time": "40'"
+      "time": "37'"
     },
     {
       "homeTeam": "Marseille",
@@ -170,16 +134,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Edf Logrono W",
       "awayTeam": "Alhama",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Primera División Femenina",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Pogon Szczecin W",
@@ -188,7 +152,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ekstraliga Women",
-      "time": "7'"
+      "time": "33'"
     },
     {
       "homeTeam": "UKS Łódź",
@@ -197,7 +161,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ekstraliga Women",
-      "time": "10'"
+      "time": "35'"
     },
     {
       "homeTeam": "Akademia Piłkarska LG",
@@ -206,7 +170,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ekstraliga Women",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Benfica B",
@@ -215,7 +179,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Segunda Liga",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Penafiel",
@@ -224,7 +188,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Segunda Liga",
-      "time": "12'"
+      "time": "37'"
     },
     {
       "homeTeam": "Sporting CP B",
@@ -233,7 +197,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Segunda Liga",
-      "time": "10'"
+      "time": "36'"
     },
     {
       "homeTeam": "Dynamo Dresden U19",
@@ -242,7 +206,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "U19 Bundesliga",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Wikielec",
@@ -251,7 +215,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "III Liga - Group 1",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Torpedo Miass",
@@ -260,16 +224,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Second League A - Fall Season Silver",
-      "time": "10'"
+      "time": "35'"
     },
     {
-      "homeTeam": "Real Pharm",
-      "awayTeam": "Atlet",
+      "homeTeam": "Rukh Vynnyky U19",
+      "awayTeam": "Shakhtar Donetsk U19",
       "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "Druha Liga",
-      "time": "38'"
+      "league": "U19 League",
+      "time": "34'"
     },
     {
       "homeTeam": "Metalist 1925 U19",
@@ -278,7 +242,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "U19 League",
-      "time": "6'"
+      "time": "31'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -346,20 +310,11 @@
     {
       "homeTeam": "FC Bacau",
       "awayTeam": "ASA Targu Mures",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Liga II",
-      "time": "11'"
-    },
-    {
-      "homeTeam": "Tatran Bohunice",
-      "awayTeam": "Pelhřimov",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "4. liga - Divizie D",
-      "time": "4'"
+      "time": "36'"
     },
     {
       "homeTeam": "FC Levante Badalona",
@@ -368,25 +323,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Primera División Femenina",
-      "time": "7'"
+      "time": "32'"
     },
     {
       "homeTeam": "Górnik Zabrze U19",
       "awayTeam": "Śląsk Wrocław U19",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Central Youth League",
-      "time": "7'"
+      "time": "32'"
     },
     {
       "homeTeam": "Sporting Braga U19",
       "awayTeam": "Vitoria Guimaraes U19",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Júniores U19",
-      "time": "12'"
+      "time": "37'"
     },
     {
       "homeTeam": "Tondela U19",
@@ -395,16 +350,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Júniores U19",
-      "time": "7'"
+      "time": "32'"
     },
     {
       "homeTeam": "Glostrup",
       "awayTeam": "Herlev",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Denmark Series - Group 1",
-      "time": "7'"
+      "time": "36'"
     },
     {
       "homeTeam": "Chelsea U21",
@@ -413,34 +368,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League 2 Division One",
-      "time": "11'"
-    },
-    {
-      "homeTeam": "I.S.P.E",
-      "awayTeam": "Hantharwady United",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "National League",
-      "time": "41'"
+      "time": "37'"
     },
     {
       "homeTeam": "Newcastle United U18",
       "awayTeam": "Stoke City U18",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "U18 Premier League - North",
-      "time": "10'"
+      "time": "35'"
     },
     {
       "homeTeam": "Manchester United U18",
       "awayTeam": "Manchester City U18",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "U18 Premier League - North",
-      "time": "8'"
+      "time": "34'"
     },
     {
       "homeTeam": "Leeds United U18",
@@ -449,10 +395,64 @@
       "awayScore": 0,
       "status": "Live",
       "league": "U18 Premier League - North",
-      "time": "9'"
+      "time": "34'"
+    },
+    {
+      "homeTeam": "Aston Villa U18",
+      "awayTeam": "Crystal Palace U18",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "U18 Premier League - South",
+      "time": "35'"
+    },
+    {
+      "homeTeam": "Fulham U18",
+      "awayTeam": "Southampton U18",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "Live",
+      "league": "U18 Premier League - South",
+      "time": "33'"
+    },
+    {
+      "homeTeam": "Reading U18",
+      "awayTeam": "West Ham United U18",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "U18 Premier League - South",
+      "time": "34'"
+    },
+    {
+      "homeTeam": "Resovia U19",
+      "awayTeam": "Znicz Pruszków U19",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Central Youth League",
+      "time": "37'"
+    },
+    {
+      "homeTeam": "Tai'an Tiankuang",
+      "awayTeam": "Wuhan Three Towns II",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "League Two",
+      "time": "36'"
+    },
+    {
+      "homeTeam": "Ayutthaya FC",
+      "awayTeam": "Buriram United",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Thai League 1",
+      "time": "36'"
     }
   ],
-  "lastUpdated": "2025-09-27T10:11:44.375Z",
+  "lastUpdated": "2025-09-27T10:36:39.029Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 50,
