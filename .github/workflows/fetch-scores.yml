@@ -5,9 +5,6 @@ on:
     - cron: '*/15 * * * *'  # Runs every 15 minutes
   workflow_dispatch:  # Allows manual trigger
 
-permissions:
-  contents: write
-
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
@@ -15,26 +12,45 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '18'
         
-    - name: Fetch sports data
+    - name: Fetch and update sports data
       env:
         SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        # Fetch the data
         node fetch-scores.js
         
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add live-scores.json
-        if ! git diff --staged --quiet; then
-          git commit -m "Update live scores $(date)"
-          git push
+        # Upload using GitHub API
+        CONTENT=$(base64 -i live-scores.json | tr -d '\n')
+        SHA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+          "https://api.github.com/repos/${{ github.repository }}/contents/live-scores.json" | \
+          jq -r '.sha // empty')
+        
+        if [ -n "$SHA" ]; then
+          # File exists, update it
+          curl -X PUT \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"message\": \"Update live scores $(date)\",
+              \"content\": \"$CONTENT\",
+              \"sha\": \"$SHA\"
+            }" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/live-scores.json"
+        else
+          # File doesn't exist, create it
+          curl -X PUT \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"message\": \"Create live scores $(date)\",
+              \"content\": \"$CONTENT\"
+            }" \
+            "https://api.github.com/repos/${{ github.repository }}/contents/live-scores.json"
         fi
