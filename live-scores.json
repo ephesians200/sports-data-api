@@ -2,22 +2,94 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Tristan Suarez",
-      "awayTeam": "Racing Cordoba",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera Nacional",
-      "time": "20'"
-    },
-    {
-      "homeTeam": "Defensa Y Justicia",
-      "awayTeam": "Boca Juniors",
+      "homeTeam": "Tormenta",
+      "awayTeam": "Richmond Kickers",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Profesional Argentina",
-      "time": "36'"
+      "league": "USL League One",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Naples",
+      "awayTeam": "Alta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "USL League One",
+      "time": "4'"
+    },
+    {
+      "homeTeam": "Chattanooga Red Wolves",
+      "awayTeam": "Union Omaha",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "USL League One",
+      "time": "5'"
+    },
+    {
+      "homeTeam": "Detroit City",
+      "awayTeam": "Louisville City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "USL Championship",
+      "time": "5'"
+    },
+    {
+      "homeTeam": "Indy Eleven",
+      "awayTeam": "FC Tulsa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "USL Championship",
+      "time": "5'"
+    },
+    {
+      "homeTeam": "Chile U20",
+      "awayTeam": "New Zealand U20",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "World Cup - U20",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Paraguay U20",
+      "awayTeam": "Panama U20",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "World Cup - U20",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Puebla",
+      "awayTeam": "Guadalajara Chivas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga MX",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Atlas",
+      "awayTeam": "Necaxa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga MX",
+      "time": "8'"
+    },
+    {
+      "homeTeam": "Pachuca",
+      "awayTeam": "Atletico San Luis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga MX",
+      "time": "10'"
     },
     {
       "homeTeam": "Marseille",
@@ -38,13 +110,22 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Nacional Asuncion",
-      "awayTeam": "Libertad Asuncion",
+      "homeTeam": "Municipal",
+      "awayTeam": "Achuapa",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Division Profesional - Clausura",
+      "league": "Liga Nacional",
       "time": "6'"
+    },
+    {
+      "homeTeam": "Nacional Asuncion",
+      "awayTeam": "Libertad Asuncion",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Division Profesional - Clausura",
+      "time": "41'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -110,67 +191,31 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Moca",
-      "awayTeam": "Atlético Pantoja",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Mayor",
-      "time": "35'"
-    },
-    {
-      "homeTeam": "Tritons Vallarta",
-      "awayTeam": "Cimarrones",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Colima",
-      "awayTeam": "Reboceros La Piedad",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "31'"
-    },
-    {
       "homeTeam": "Brusque",
       "awayTeam": "Guarani Campinas",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Serie C",
-      "time": "6'"
+      "time": "41'"
     },
     {
-      "homeTeam": "Cordobés",
-      "awayTeam": "Zacatepec 1948",
+      "homeTeam": "Diriangén",
+      "awayTeam": "Jalapa",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "24'"
+      "league": "Primera Division",
+      "time": "10'"
     },
     {
-      "homeTeam": "Deportivo Zap",
-      "awayTeam": "FC Santiago",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "32'"
-    },
-    {
-      "homeTeam": "Mexicali FC",
-      "awayTeam": "Montañeses",
+      "homeTeam": "Universitario",
+      "awayTeam": "Cusco",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "36'"
+      "league": "Primera División",
+      "time": "10'"
     },
     {
       "homeTeam": "Calvary",
@@ -191,145 +236,127 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Toronto FC",
-      "awayTeam": "Inter Miami",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Portland Hearts of Pine",
-      "awayTeam": "Texoma",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "USL League One",
-      "time": "71'"
-    },
-    {
-      "homeTeam": "Juventude",
-      "awayTeam": "Internacional",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Serie A",
-      "time": "47'"
-    },
-    {
-      "homeTeam": "Mixco",
-      "awayTeam": "Cobán Imperial",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Nacional",
-      "time": "72'"
-    },
-    {
-      "homeTeam": "Alianza Petrolera",
-      "awayTeam": "Llaneros",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera A",
-      "time": "65'"
-    },
-    {
-      "homeTeam": "Zamora FC",
-      "awayTeam": "Academia Anzoátegui",
+      "homeTeam": "Western Springs",
+      "awayTeam": "Western Suburbs",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Primera División",
-      "time": "77'"
-    },
-    {
-      "homeTeam": "UCV",
-      "awayTeam": "Rayo Zuliano",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "75'"
-    },
-    {
-      "homeTeam": "Puerto Cabello",
-      "awayTeam": "Estudiantes de Merida FC",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "79'"
-    },
-    {
-      "homeTeam": "Matagalpa",
-      "awayTeam": "Rancho Santana",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Primera Division",
-      "time": "59'"
-    },
-    {
-      "homeTeam": "CD Marathon",
-      "awayTeam": "Victoria",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Liga Nacional",
-      "time": "77'"
-    },
-    {
-      "homeTeam": "Cerro Largo",
-      "awayTeam": "Penarol",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Primera División - Clausura",
-      "time": "72'"
-    },
-    {
-      "homeTeam": "XV de Piracicaba",
-      "awayTeam": "Comercial",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Copa Paulista",
-      "time": "67'"
+      "league": "National League - National",
+      "time": "11'"
     },
     {
       "homeTeam": "El Nacional",
       "awayTeam": "Mushuc Runa SC",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 4,
       "status": "Live",
       "league": "Liga Pro",
-      "time": "HT"
+      "time": "78'"
     },
     {
       "homeTeam": "Vasco DA Gama",
       "awayTeam": "Cruzeiro",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "Serie A",
-      "time": "HT"
+      "time": "78'"
+    },
+    {
+      "homeTeam": "Juventude",
+      "awayTeam": "Internacional",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Serie A",
+      "time": "83'"
+    },
+    {
+      "homeTeam": "Defensa Y Justicia",
+      "awayTeam": "Boca Juniors",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Profesional Argentina",
+      "time": "51'"
+    },
+    {
+      "homeTeam": "Moca",
+      "awayTeam": "Atlético Pantoja",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Mayor",
+      "time": "50'"
+    },
+    {
+      "homeTeam": "Tritons Vallarta",
+      "awayTeam": "Cimarrones",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "49'"
+    },
+    {
+      "homeTeam": "Deportivo Zap",
+      "awayTeam": "FC Santiago",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "49'"
+    },
+    {
+      "homeTeam": "Mexicali FC",
+      "awayTeam": "Montañeses",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "53'"
     },
     {
       "homeTeam": "Aurora",
       "awayTeam": "Nacional Potosí",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Primera División",
+      "time": "80'"
+    },
+    {
+      "homeTeam": "Tristan Suarez",
+      "awayTeam": "Racing Cordoba",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Primera Nacional",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Colima",
+      "awayTeam": "Reboceros La Piedad",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Cordobés",
+      "awayTeam": "Zacatepec 1948",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
       "time": "HT"
     }
   ],
-  "lastUpdated": "2025-09-27T22:36:02.271Z",
+  "lastUpdated": "2025-09-27T23:11:19.264Z",
   "source": "api-football",
-  "totalMatches": 36,
-  "liveMatches": 36,
+  "totalMatches": 39,
+  "liveMatches": 39,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
