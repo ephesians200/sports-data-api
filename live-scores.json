@@ -8,7 +8,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J1 League",
-      "time": "1'"
+      "time": "13'"
+    },
+    {
+      "homeTeam": "Avispa Fukuoka",
+      "awayTeam": "Sanfrecce Hiroshima",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "J1 League",
+      "time": "12'"
     },
     {
       "homeTeam": "Montedio Yamagata",
@@ -17,7 +26,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "1'"
+      "time": "12'"
     },
     {
       "homeTeam": "Iwaki",
@@ -26,16 +35,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "1'"
+      "time": "12'"
     },
     {
       "homeTeam": "JEF United Chiba",
       "awayTeam": "Roasso Kumamoto",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "J2 League",
-      "time": "1'"
+      "time": "13'"
     },
     {
       "homeTeam": "Tochigi City",
@@ -44,7 +53,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J3 League",
-      "time": "1'"
+      "time": "12'"
+    },
+    {
+      "homeTeam": "Kanazawa",
+      "awayTeam": "Kamatamare Sanuki",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "J3 League",
+      "time": "9'"
     },
     {
       "homeTeam": "Azul Claro Numazu",
@@ -53,7 +71,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J3 League",
-      "time": "1'"
+      "time": "12'"
     },
     {
       "homeTeam": "Nara Club",
@@ -62,7 +80,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J3 League",
-      "time": "1'"
+      "time": "12'"
     },
     {
       "homeTeam": "Kitakyushu",
@@ -71,7 +89,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J3 League",
-      "time": "1'"
+      "time": "12'"
     },
     {
       "homeTeam": "Veertien Mie",
@@ -80,16 +98,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "4'"
+      "time": "15'"
     },
     {
       "homeTeam": "Okinawa SV",
       "awayTeam": "Grulla Morioka",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "4'"
+      "time": "15'"
     },
     {
       "homeTeam": "Parceiro Nagano W",
@@ -98,7 +116,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "WE League",
-      "time": "2'"
+      "time": "13'"
     },
     {
       "homeTeam": "Marseille",
@@ -119,13 +137,22 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Hradec Králové U19",
-      "awayTeam": "Viktoria Plzeň U19",
+      "homeTeam": "Zbrojovka Brno U19",
+      "awayTeam": "Sigma Olomouc U19",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "1. Liga U19",
-      "time": "1'"
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Hradec Králové U19",
+      "awayTeam": "Viktoria Plzeň U19",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "1. Liga U19",
+      "time": "12'"
     },
     {
       "homeTeam": "UCSA",
@@ -134,7 +161,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Persha Liga",
-      "time": "3'"
+      "time": "14'"
     },
     {
       "homeTeam": "PSM Makassar",
@@ -143,7 +170,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga 1",
-      "time": "34'"
+      "time": "45'"
     },
     {
       "homeTeam": "Kuala Lumpur FA",
@@ -152,16 +179,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Super League",
-      "time": "3'"
+      "time": "14'"
     },
     {
       "homeTeam": "Cesena U20",
       "awayTeam": "Napoli U20",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Campionato Primavera - 1",
-      "time": "2'"
+      "time": "14'"
     },
     {
       "homeTeam": "Rodina Moskva II",
@@ -170,7 +197,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Second League A - Fall Season Silver",
-      "time": "4'"
+      "time": "15'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -236,49 +263,22 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Třinec",
-      "awayTeam": "Vrchovina",
-      "homeScore": 5,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "3. liga - MSFL",
-      "time": "45'"
-    },
-    {
       "homeTeam": "Zlín II",
       "awayTeam": "Hlučín",
-      "homeScore": 3,
+      "homeScore": 4,
       "awayScore": 0,
       "status": "Live",
       "league": "3. liga - MSFL",
-      "time": "31'"
-    },
-    {
-      "homeTeam": "Brandýs nad Labem",
-      "awayTeam": "Přepeře",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "4. liga - Divizie C",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Křimice",
-      "awayTeam": "Benešov",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "4. liga - Divizie A",
-      "time": "45'"
+      "time": "42'"
     },
     {
       "homeTeam": "Mariánské Lázně",
       "awayTeam": "Olympie Březová",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "4. liga - Divizie B",
-      "time": "31'"
+      "time": "42'"
     },
     {
       "homeTeam": "Tatran Bohunice",
@@ -287,7 +287,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "4. liga - Divizie D",
-      "time": "1'"
+      "time": "4'"
     },
     {
       "homeTeam": "Líšeň II",
@@ -296,16 +296,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "4. liga - Divizie D",
-      "time": "34'"
+      "time": "45'"
     },
     {
       "homeTeam": "České Budějovice II",
       "awayTeam": "Dukla Praha II",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "3. liga - CFL A",
-      "time": "28'"
+      "time": "39'"
     },
     {
       "homeTeam": "Velké Hamry",
@@ -314,34 +314,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "3. liga - CFL B",
-      "time": "29'"
-    },
-    {
-      "homeTeam": "Jablonec II",
-      "awayTeam": "Hradec Králové II",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "3. liga - CFL B",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Neratovice-Byškovice",
-      "awayTeam": "Ústí nad Orlicí",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "3. liga - CFL B",
-      "time": "45'"
+      "time": "41'"
     },
     {
       "homeTeam": "Wisła Kraków U19",
       "awayTeam": "Lech Poznań U19",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Central Youth League",
+      "time": "14'"
+    },
+    {
+      "homeTeam": "Miedź Legnica U19",
+      "awayTeam": "Jagiellonia U19",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Central Youth League",
-      "time": "3'"
+      "time": "10'"
     },
     {
       "homeTeam": "Shan United",
@@ -350,16 +341,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "National League",
-      "time": "4'"
+      "time": "15'"
+    },
+    {
+      "homeTeam": "Žilina W",
+      "awayTeam": "Trenčín W",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "I Liga - Women",
+      "time": "9'"
     },
     {
       "homeTeam": "Petržalka W",
       "awayTeam": "Slovan Bratislava W",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "I Liga - Women",
-      "time": "36'"
+      "time": "45'"
     },
     {
       "homeTeam": "Master 7",
@@ -368,7 +368,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Lao League",
-      "time": "2'"
+      "time": "13'"
     },
     {
       "homeTeam": "Polet Dorćol",
@@ -377,16 +377,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Srpska Liga - Belgrade",
-      "time": "3'"
+      "time": "14'"
     },
     {
       "homeTeam": "Aretxabaleta",
       "awayTeam": "Eibar III",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Tercera División RFEF - Group 4",
-      "time": "3'"
+      "time": "14'"
     },
     {
       "homeTeam": "Padova U19",
@@ -395,7 +395,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Campionato Primavera - 2",
-      "time": "1'"
+      "time": "12'"
     },
     {
       "homeTeam": "Ascoli U19",
@@ -404,7 +404,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Campionato Primavera - 2",
-      "time": "2'"
+      "time": "14'"
     },
     {
       "homeTeam": "Sudtirol U19",
@@ -413,7 +413,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Campionato Primavera - 2",
-      "time": "4'"
+      "time": "15'"
     },
     {
       "homeTeam": "PSIS Semarang",
@@ -422,16 +422,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga 2",
-      "time": "34'"
+      "time": "45'"
     },
     {
       "homeTeam": "Sriwijaya FC",
       "awayTeam": "Persiraja Banda Aceh",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "Liga 2",
-      "time": "34'"
+      "time": "45'"
     },
     {
       "homeTeam": "Văn Hiến",
@@ -440,19 +440,19 @@
       "awayScore": 0,
       "status": "Live",
       "league": "V.League 2",
-      "time": "3'"
+      "time": "14'"
     },
     {
-      "homeTeam": "Hlinsko",
-      "awayTeam": "Vysoké Mýto",
+      "homeTeam": "Bắc Ninh",
+      "awayTeam": "Sanna Khanh Hoa",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "4. liga - Divizie C",
-      "time": "32'"
+      "league": "V.League 2",
+      "time": "11'"
     }
   ],
-  "lastUpdated": "2025-09-27T09:04:44.985Z",
+  "lastUpdated": "2025-09-27T09:15:32.856Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 50,
