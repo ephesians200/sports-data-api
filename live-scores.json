@@ -60,9 +60,9 @@
       "awayTeam": "Tottenham",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "Live",
+      "status": "Not Started",
       "league": "Premier League",
-      "time": "23'"
+      "time": "15:00"
     },
     {
       "homeTeam": "Atletico Madrid",
@@ -72,30 +72,12 @@
       "status": "FT",
       "league": "La Liga",
       "time": "90'"
-    },
-    {
-      "homeTeam": "Inter Milan",
-      "awayTeam": "Napoli",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Serie A",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "Wolfsburg",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Bundesliga",
-      "time": "85'"
     }
   ],
-  "lastUpdated": "2025-09-27T07:14:14.357Z",
+  "lastUpdated": "2025-09-27T07:20:44.885Z",
   "source": "football-data",
-  "totalMatches": 10,
-  "liveMatches": 7,
-  "finishedMatches": 3,
-  "upcomingMatches": 0
+  "totalMatches": 8,
+  "liveMatches": 5,
+  "finishedMatches": 2,
+  "upcomingMatches": 1
 }
