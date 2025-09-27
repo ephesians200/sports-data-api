@@ -2,40 +2,40 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Portland Hearts of Pine",
-      "awayTeam": "Texoma",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "USL League One",
-      "time": "28'"
-    },
-    {
       "homeTeam": "El Nacional",
       "awayTeam": "Mushuc Runa SC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Liga Pro",
-      "time": "3'"
+      "time": "39'"
     },
     {
       "homeTeam": "Vasco DA Gama",
       "awayTeam": "Cruzeiro",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Serie A",
-      "time": "3'"
+      "time": "40'"
     },
     {
       "homeTeam": "Juventude",
       "awayTeam": "Internacional",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Serie A",
-      "time": "3'"
+      "time": "41'"
+    },
+    {
+      "homeTeam": "Defensa Y Justicia",
+      "awayTeam": "Boca Juniors",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Profesional Argentina",
+      "time": "10'"
     },
     {
       "homeTeam": "Marseille",
@@ -54,51 +54,6 @@
       "status": "Live",
       "league": "Ligue 1",
       "time": "Live"
-    },
-    {
-      "homeTeam": "Mixco",
-      "awayTeam": "Cobán Imperial",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Nacional",
-      "time": "29'"
-    },
-    {
-      "homeTeam": "Alianza Petrolera",
-      "awayTeam": "Llaneros",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera A",
-      "time": "22'"
-    },
-    {
-      "homeTeam": "Zamora FC",
-      "awayTeam": "Academia Anzoátegui",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "UCV",
-      "awayTeam": "Rayo Zuliano",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Puerto Cabello",
-      "awayTeam": "Estudiantes de Merida FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "34'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -164,49 +119,58 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Matagalpa",
-      "awayTeam": "Rancho Santana",
+      "homeTeam": "Moca",
+      "awayTeam": "Atlético Pantoja",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Mayor",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Tritons Vallarta",
+      "awayTeam": "Cimarrones",
       "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "Primera Division",
-      "time": "33'"
+      "league": "Liga Premier Serie A",
+      "time": "9'"
     },
     {
-      "homeTeam": "CD Marathon",
-      "awayTeam": "Victoria",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeTeam": "Colima",
+      "awayTeam": "Reboceros La Piedad",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
-      "league": "Liga Nacional",
-      "time": "34'"
+      "league": "Liga Premier Serie A",
+      "time": "6'"
+    },
+    {
+      "homeTeam": "Deportivo Zap",
+      "awayTeam": "FC Santiago",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "7'"
+    },
+    {
+      "homeTeam": "Mexicali FC",
+      "awayTeam": "Montañeses",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "11'"
     },
     {
       "homeTeam": "Aurora",
       "awayTeam": "Nacional Potosí",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Primera División",
-      "time": "4'"
-    },
-    {
-      "homeTeam": "Cerro Largo",
-      "awayTeam": "Penarol",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera División - Clausura",
-      "time": "32'"
-    },
-    {
-      "homeTeam": "XV de Piracicaba",
-      "awayTeam": "Comercial",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Copa Paulista",
-      "time": "29'"
+      "time": "40'"
     },
     {
       "homeTeam": "Calvary",
@@ -227,112 +191,22 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Forge",
-      "awayTeam": "Pacific FC",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Canadian Premier League",
-      "time": "67'"
-    },
-    {
-      "homeTeam": "San Lorenzo",
-      "awayTeam": "Godoy Cruz",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Profesional Argentina",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Japan U20",
-      "awayTeam": "Egypt U20",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "World Cup - U20",
-      "time": "73'"
-    },
-    {
-      "homeTeam": "Korea Republic U20",
-      "awayTeam": "Ukraine U20",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "World Cup - U20",
-      "time": "73'"
-    },
-    {
-      "homeTeam": "Sportivo Luqueno",
-      "awayTeam": "Cerro Porteno",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division Profesional - Clausura",
-      "time": "78'"
-    },
-    {
-      "homeTeam": "Alianza FC",
-      "awayTeam": "Herrera",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga Panameña de Fútbol",
-      "time": "48'"
-    },
-    {
-      "homeTeam": "Atlántico",
-      "awayTeam": "Universidad O&M",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga Mayor",
-      "time": "74'"
-    },
-    {
-      "homeTeam": "Ponte Preta",
-      "awayTeam": "Nautico Recife",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Serie C",
-      "time": "71'"
-    },
-    {
-      "homeTeam": "Comerciantes Unidos",
-      "awayTeam": "FBC Melgar",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "75'"
-    },
-    {
-      "homeTeam": "Renaissance Berkane",
-      "awayTeam": "ASC Kara",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "CAF Champions League",
-      "time": "78'"
-    },
-    {
-      "homeTeam": "Santa Cruz",
-      "awayTeam": "Barra",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Serie D",
-      "time": "63'"
-    },
-    {
       "homeTeam": "Toronto FC",
       "awayTeam": "Inter Miami",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "HT"
+      "time": "70'"
+    },
+    {
+      "homeTeam": "Portland Hearts of Pine",
+      "awayTeam": "Texoma",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "USL League One",
+      "time": "46'"
     },
     {
       "homeTeam": "CA Estudiantes",
@@ -341,7 +215,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Primera Nacional",
-      "time": "HT"
+      "time": "75'"
     },
     {
       "homeTeam": "Colorado Rapids II",
@@ -350,7 +224,52 @@
       "awayScore": 1,
       "status": "Live",
       "league": "MLS Next Pro",
-      "time": "HT"
+      "time": "79'"
+    },
+    {
+      "homeTeam": "Mixco",
+      "awayTeam": "Cobán Imperial",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Nacional",
+      "time": "46'"
+    },
+    {
+      "homeTeam": "Zamora FC",
+      "awayTeam": "Academia Anzoátegui",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera División",
+      "time": "52'"
+    },
+    {
+      "homeTeam": "UCV",
+      "awayTeam": "Rayo Zuliano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera División",
+      "time": "50'"
+    },
+    {
+      "homeTeam": "Puerto Cabello",
+      "awayTeam": "Estudiantes de Merida FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Primera División",
+      "time": "53'"
+    },
+    {
+      "homeTeam": "Alianza FC",
+      "awayTeam": "Herrera",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga Panameña de Fútbol",
+      "time": "84'"
     },
     {
       "homeTeam": "Imbabura",
@@ -359,13 +278,67 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Liga Pro Serie B",
+      "time": "77'"
+    },
+    {
+      "homeTeam": "CD Marathon",
+      "awayTeam": "Victoria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga Nacional",
+      "time": "52'"
+    },
+    {
+      "homeTeam": "Cerro Largo",
+      "awayTeam": "Penarol",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Primera División - Clausura",
+      "time": "47'"
+    },
+    {
+      "homeTeam": "Santa Cruz",
+      "awayTeam": "Barra",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Serie D",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Alianza Petrolera",
+      "awayTeam": "Llaneros",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera A",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Matagalpa",
+      "awayTeam": "Rancho Santana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Primera Division",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "XV de Piracicaba",
+      "awayTeam": "Comercial",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Copa Paulista",
       "time": "HT"
     }
   ],
-  "lastUpdated": "2025-09-27T21:34:17.706Z",
+  "lastUpdated": "2025-09-27T22:11:00.288Z",
   "source": "api-football",
-  "totalMatches": 40,
-  "liveMatches": 40,
+  "totalMatches": 37,
+  "liveMatches": 37,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
