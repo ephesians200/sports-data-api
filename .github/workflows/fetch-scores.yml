@@ -1,0 +1,33 @@
+name: Fetch Live Scores
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Runs every 15 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: Fetch sports data
+      env:
+        SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
+      run: |
+        node fetch-scores.js
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add live-scores.json
+        git diff --staged --quiet || git commit -m "Update live scores $(date)"
+        git push
