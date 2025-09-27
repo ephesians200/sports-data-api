@@ -2,346 +2,265 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Sortland",
-      "awayTeam": "Skjervøy",
+      "homeTeam": "Harstad",
+      "awayTeam": "Ulfstind",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "3. Division - Girone 1",
-      "time": "34'"
+      "time": "21'"
     },
     {
-      "homeTeam": "Sandefjord II",
-      "awayTeam": "Fjøra",
-      "homeScore": 2,
+      "homeTeam": "Junkeren",
+      "awayTeam": "Frigg",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. Division - Girone 1",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Askøy",
+      "awayTeam": "Fana",
+      "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
       "league": "3. Division - Girone 4",
-      "time": "34'"
+      "time": "21'"
     },
     {
-      "homeTeam": "Stord",
-      "awayTeam": "Vindbjart",
+      "homeTeam": "Lyngbø",
+      "awayTeam": "Gneist",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. Division - Girone 4",
+      "time": "20'"
+    },
+    {
+      "homeTeam": "Sola",
+      "awayTeam": "Brodd",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
       "league": "3. Division - Girone 5",
-      "time": "34'"
+      "time": "20'"
     },
     {
-      "homeTeam": "Bollstanäs W",
-      "awayTeam": "Elfsborg",
-      "homeScore": 1,
+      "homeTeam": "Flint",
+      "awayTeam": "Kvik Halden",
+      "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "Elitettan",
-      "time": "31'"
+      "league": "3. Division - Girone 6",
+      "time": "20'"
     },
     {
-      "homeTeam": "KIF Örebro",
-      "awayTeam": "Team TG FF W",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Elitettan",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Meshakhte",
-      "awayTeam": "Merani Martvili",
+      "homeTeam": "SF Grei",
+      "awayTeam": "Drøbak / Frogn",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Erovnuli Liga 2",
-      "time": "31'"
+      "league": "3. Division - Girone 6",
+      "time": "21'"
     },
     {
-      "homeTeam": "AIK",
-      "awayTeam": "Häcken",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Damallsvenskan",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Eskilsminne",
-      "awayTeam": "Husqvarna",
+      "homeTeam": "IF Ready",
+      "awayTeam": "Fram",
       "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Ettan - Södra",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Ljungskile SK",
-      "awayTeam": "Torslanda",
-      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
-      "league": "Ettan - Södra",
-      "time": "35'"
+      "league": "3. Division - Girone 6",
+      "time": "22'"
     },
     {
-      "homeTeam": "IF Karlstad",
-      "awayTeam": "Enköping",
+      "homeTeam": "Ørn Horten",
+      "awayTeam": "Oppsal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. Division - Girone 6",
+      "time": "20'"
+    },
+    {
+      "homeTeam": "Gamla Upsala W",
+      "awayTeam": "Häcken II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Elitettan",
+      "time": "20'"
+    },
+    {
+      "homeTeam": "EB / Streymur II",
+      "awayTeam": "AB",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "1. Deild",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Skeid",
+      "awayTeam": "Asane",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "1. Division",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Stjørdals-Blink",
+      "awayTeam": "Asker",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. Division - Group 2",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Eidsvold",
+      "awayTeam": "Strommen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "2. Division - Group 2",
+      "time": "20'"
+    },
+    {
+      "homeTeam": "Grorud",
+      "awayTeam": "Strindheim",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. Division - Group 2",
+      "time": "20'"
+    },
+    {
+      "homeTeam": "Hønefoss",
+      "awayTeam": "Follo",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Ettan - Norra",
-      "time": "34'"
+      "league": "2. Division - Group 2",
+      "time": "21'"
     },
     {
-      "homeTeam": "Stocksund",
-      "awayTeam": "Gefle IF",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ettan - Norra",
-      "time": "32'"
-    },
-    {
-      "homeTeam": "Sollentuna",
-      "awayTeam": "Stockholm Internazionale",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ettan - Norra",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Ahlafors",
-      "awayTeam": "Skara",
-      "homeScore": 1,
+      "homeTeam": "Tidaholms GoIF",
+      "awayTeam": "Kumla",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Division 2 - Norra Götaland",
-      "time": "33'"
+      "time": "21'"
     },
     {
-      "homeTeam": "Smedby",
-      "awayTeam": "Farsta",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division 2 - Södra Svealand",
-      "time": "32'"
-    },
-    {
-      "homeTeam": "Eker Örebro",
-      "awayTeam": "Atvidabergs FF",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division 2 - Södra Svealand",
-      "time": "35'"
-    },
-    {
-      "homeTeam": "Nyköping",
-      "awayTeam": "Sylvia",
+      "homeTeam": "Grebbestad",
+      "awayTeam": "Haga",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
-      "league": "Division 2 - Södra Svealand",
-      "time": "32'"
+      "league": "Division 2 - Norra Götaland",
+      "time": "19'"
     },
     {
-      "homeTeam": "Västra Frölunda",
-      "awayTeam": "Astrio",
+      "homeTeam": "Täby",
+      "awayTeam": "Sunnersta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Division 2 - Norra Svealand",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Ytterhogdal",
+      "awayTeam": "Korsnäs",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Division 2 - Norra Svealand",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Zhenys",
+      "awayTeam": "Turan Turkistan",
       "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
-      "league": "Division 2 - Västra Götaland",
-      "time": "34'"
+      "league": "Premier League",
+      "time": "18'"
     },
     {
-      "homeTeam": "Laagri",
-      "awayTeam": "Vaprus",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Meistriliiga",
-      "time": "3'"
-    },
-    {
-      "homeTeam": "FS Jelgava",
-      "awayTeam": "Auda",
+      "homeTeam": "FC Slutsk",
+      "awayTeam": "FC Vitebsk",
       "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "Virsliga",
-      "time": "35'"
-    },
-    {
-      "homeTeam": "Shenyang Urban",
-      "awayTeam": "Heilongjiang Lava Spring",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Suzhou Dongwu",
-      "awayTeam": "Nanjing City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Shanghai Jiading",
-      "awayTeam": "Guangzhou E-Power",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "34'"
+      "league": "Premier League",
+      "time": "22'"
     },
     {
       "homeTeam": "Shenzhen Juniors",
       "awayTeam": "Dalian Huayi",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "status": "Live",
       "league": "League One",
-      "time": "3'"
+      "time": "45'"
     },
     {
-      "homeTeam": "Regar-TadAZ",
-      "awayTeam": "Khujand",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Vysshaya Liga",
-      "time": "35'"
-    },
-    {
-      "homeTeam": "Augšdaugava",
-      "awayTeam": "Rēzekne FA",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "1. Liga",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Kvant",
-      "awayTeam": "Dinamo Bryansk",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Second League - Group 3",
-      "time": "31'"
-    },
-    {
-      "homeTeam": "Strogino",
-      "awayTeam": "Znamya Truda",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Second League - Group 3",
-      "time": "33'"
-    },
-    {
-      "homeTeam": "Zvezda St. Petersburg",
-      "awayTeam": "Torpedo Vladimir",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Second League - Group 2",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Bumprom",
-      "awayTeam": "Lida",
+      "homeTeam": "Osipovichy",
+      "awayTeam": "Gomel II",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "1. Division",
-      "time": "33'"
+      "time": "17'"
     },
     {
-      "homeTeam": "Brentford",
-      "awayTeam": "Manchester United",
-      "homeScore": 0,
+      "homeTeam": "B 93",
+      "awayTeam": "Middelfart",
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Premier League",
-      "time": "4'"
+      "league": "1. Division",
+      "time": "19'"
     },
     {
-      "homeTeam": "HB Koge",
-      "awayTeam": "Hvidovre",
+      "homeTeam": "Hillerød",
+      "awayTeam": "AC Horsens",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "1. Division",
-      "time": "33'"
+      "time": "21'"
     },
     {
-      "homeTeam": "Crewe",
-      "awayTeam": "Notts County",
+      "homeTeam": "Atmosfera",
+      "awayTeam": "Neptūną Klaipėda",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "League Two",
-      "time": "4'"
+      "league": "1 Lyga",
+      "time": "18'"
+    },
+    {
+      "homeTeam": "Uta Arad",
+      "awayTeam": "Csikszereda",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga I",
+      "time": "20'"
     },
     {
       "homeTeam": "Oldham",
       "awayTeam": "Barnet",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "League Two",
-      "time": "4'"
-    },
-    {
-      "homeTeam": "Swansea",
-      "awayTeam": "Millwall",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "4'"
-    },
-    {
-      "homeTeam": "Coventry",
-      "awayTeam": "Birmingham",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "4'"
-    },
-    {
-      "homeTeam": "Wrexham",
-      "awayTeam": "Derby",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "4'"
-    },
-    {
-      "homeTeam": "AFC Wimbledon",
-      "awayTeam": "Wycombe",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "4'"
-    },
-    {
-      "homeTeam": "Leyton Orient",
-      "awayTeam": "Stevenage",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "4'"
+      "time": "45'"
     },
     {
       "homeTeam": "Marseille",
@@ -362,97 +281,178 @@
       "time": "Live"
     },
     {
-      "homeTeam": "SV Elversberg",
-      "awayTeam": "Holstein Kiel",
+      "homeTeam": "Dunkerque",
+      "awayTeam": "Amiens",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 2",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Laval",
+      "awayTeam": "Montpellier",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "2. Bundesliga",
-      "time": "33'"
+      "league": "Ligue 2",
+      "time": "21'"
     },
     {
-      "homeTeam": "Karlsruher SC",
-      "awayTeam": "1. FC Magdeburg",
+      "homeTeam": "Getafe",
+      "awayTeam": "Levante",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "2. Bundesliga",
-      "time": "34'"
+      "league": "La Liga",
+      "time": "19'"
     },
     {
-      "homeTeam": "SC Paderborn 07",
-      "awayTeam": "1. FC Kaiserslautern",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "2. Bundesliga",
-      "time": "35'"
-    },
-    {
-      "homeTeam": "Vejgaard B",
-      "awayTeam": "Vanløse",
+      "homeTeam": "Brønshøj",
+      "awayTeam": "Lyseng",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "3. Division",
-      "time": "33'"
+      "time": "22'"
     },
     {
-      "homeTeam": "Ishøj",
-      "awayTeam": "FC Helsingor",
+      "homeTeam": "FA 2000",
+      "awayTeam": "Næsby",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. Division",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Brabrand",
+      "awayTeam": "Thisted FC",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "2. Division",
-      "time": "32'"
+      "time": "21'"
     },
     {
-      "homeTeam": "Baník Ostrava W",
-      "awayTeam": "Sparta Praha W",
+      "homeTeam": "Vendsyssel FF",
+      "awayTeam": "VSK Århus",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. Division",
+      "time": "16'"
+    },
+    {
+      "homeTeam": "Erzgebirge Aue",
+      "awayTeam": "TSV 1860 München",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. Liga",
+      "time": "18'"
+    },
+    {
+      "homeTeam": "MSV Duisburg",
+      "awayTeam": "FC Ingolstadt 04",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. Liga",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Hansa Rostock",
+      "awayTeam": "Havelse",
       "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "1. Liga Women",
-      "time": "35'"
+      "league": "3. Liga",
+      "time": "18'"
     },
     {
-      "homeTeam": "Dugopolje",
-      "awayTeam": "Bsk Bijelo Brdo",
+      "homeTeam": "FC Schweinfurt 05",
+      "awayTeam": "Alemannia Aachen",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "First NL",
-      "time": "34'"
+      "league": "3. Liga",
+      "time": "21'"
     },
     {
-      "homeTeam": "Boreham Wood",
-      "awayTeam": "Woking",
+      "homeTeam": "SV Wehen",
+      "awayTeam": "FC Saarbrücken",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "National League",
-      "time": "4'"
+      "league": "3. Liga",
+      "time": "21'"
     },
     {
-      "homeTeam": "Akhmat",
-      "awayTeam": "Akron",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Vorskla Poltava",
-      "awayTeam": "Viktoriya Mykolaivka",
+      "homeTeam": "Koninklijke HFC",
+      "awayTeam": "Quick Boys",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Persha Liga",
-      "time": "31'"
+      "league": "Tweede Divisie",
+      "time": "19'"
+    },
+    {
+      "homeTeam": "Persijap",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga 1",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Persita",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 1",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Bayer Leverkusen U19",
+      "awayTeam": "Wehen Wiesbaden U19",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "U19 Bundesliga",
+      "time": "19'"
+    },
+    {
+      "homeTeam": "Göppinger SV",
+      "awayTeam": "TSV Singen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Oberliga - Baden-Württemberg",
+      "time": "20'"
+    },
+    {
+      "homeTeam": "Backnang",
+      "awayTeam": "Essingen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Oberliga - Baden-Württemberg",
+      "time": "19'"
+    },
+    {
+      "homeTeam": "Plauen",
+      "awayTeam": "Einheit Rudolstadt",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Oberliga - Nordost-Süd",
+      "time": "14'"
     }
   ],
-  "lastUpdated": "2025-09-27T11:34:28.711Z",
+  "lastUpdated": "2025-09-27T12:21:49.179Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 50,
