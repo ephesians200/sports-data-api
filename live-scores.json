@@ -1,7 +1,80 @@
 {
   "success": true,
-  "matches": [],
-  "lastUpdated": "2024-01-01T00:00:00.000Z",
-  "source": "initial",
-  "totalMatches": 0
+  "matches": [
+    {
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "75'"
+    },
+    {
+      "homeTeam": "Chelsea",
+      "awayTeam": "Man City",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "45'"
+    },
+    {
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "La Liga",
+      "time": "60'"
+    },
+    {
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Bundesliga",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "PSG",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "82'"
+    },
+    {
+      "homeTeam": "Juventus",
+      "awayTeam": "AC Milan",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie A",
+      "time": "67'"
+    },
+    {
+      "homeTeam": "Manchester United",
+      "awayTeam": "Tottenham",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "23'"
+    },
+    {
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Valencia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "La Liga",
+      "time": "90'"
+    }
+  ],
+  "lastUpdated": "2025-09-27T05:20:46.749Z",
+  "source": "thesportsdb",
+  "totalMatches": 8
 }
