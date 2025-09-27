@@ -2,31 +2,13 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Talleres Remedios",
-      "awayTeam": "Chaco For Ever",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera Nacional",
-      "time": "35'"
-    },
-    {
       "homeTeam": "Manta FC",
       "awayTeam": "Macara",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Liga Pro",
-      "time": "8'"
-    },
-    {
-      "homeTeam": "Sligo Rovers",
-      "awayTeam": "St Patrick's Athl.",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier Division",
-      "time": "24'"
+      "time": "33'"
     },
     {
       "homeTeam": "Fortaleza EC",
@@ -35,7 +17,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Serie A",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "Cagliari",
@@ -44,7 +26,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Serie A",
-      "time": "24'"
+      "time": "45'"
     },
     {
       "homeTeam": "Tottenham",
@@ -53,7 +35,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "9'"
+      "time": "33'"
     },
     {
       "homeTeam": "Heracles",
@@ -62,61 +44,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Eredivisie",
-      "time": "6'"
-    },
-    {
-      "homeTeam": "FC Zurich",
-      "awayTeam": "FC ST. Gallen",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Super League",
-      "time": "38'"
-    },
-    {
-      "homeTeam": "Union St. Gilloise",
-      "awayTeam": "KVC Westerlo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Jupiler Pro League",
-      "time": "24'"
-    },
-    {
-      "homeTeam": "FK Košice",
-      "awayTeam": "Tatran Prešov",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Super Liga",
-      "time": "37'"
-    },
-    {
-      "homeTeam": "Deportivo Laferrere",
-      "awayTeam": "Argentino de Merlo",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera B Metropolitana",
-      "time": "35'"
-    },
-    {
-      "homeTeam": "Deportivo Armenio",
-      "awayTeam": "Excursionistas",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera B Metropolitana",
-      "time": "36'"
-    },
-    {
-      "homeTeam": "Fénix",
-      "awayTeam": "Argentino Quilmes",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera B Metropolitana",
-      "time": "38'"
+      "time": "31'"
     },
     {
       "homeTeam": "Paris Saint Germain",
@@ -125,7 +53,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "4'"
+      "time": "29'"
     },
     {
       "homeTeam": "Marseille",
@@ -146,31 +74,13 @@
       "time": "Live"
     },
     {
-      "homeTeam": "VfL Bochum",
-      "awayTeam": "Fortuna Düsseldorf",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "2. Bundesliga",
-      "time": "29'"
-    },
-    {
-      "homeTeam": "Velež",
-      "awayTeam": "Zrinjski",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Premijer Liga",
-      "time": "39'"
-    },
-    {
       "homeTeam": "Villarreal",
       "awayTeam": "Athletic Club",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "La Liga",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "Las Palmas",
@@ -179,7 +89,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Segunda División",
-      "time": "7'"
+      "time": "31'"
     },
     {
       "homeTeam": "Deportivo Pereira",
@@ -188,25 +98,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Primera A",
-      "time": "7'"
+      "time": "32'"
     },
     {
       "homeTeam": "Mosta",
       "awayTeam": "Floriana",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Premier League",
-      "time": "9'"
+      "time": "33'"
     },
     {
-      "homeTeam": "Buducnost Podgorica",
-      "awayTeam": "Petrovac",
+      "homeTeam": "Estoril",
+      "awayTeam": "Sporting CP",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "First League",
-      "time": "39'"
+      "league": "Primeira Liga",
+      "time": "3'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -275,10 +185,10 @@
       "homeTeam": "Lyon W",
       "awayTeam": "Paris Saint Germain W",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Feminine Division 1",
-      "time": "9'"
+      "time": "34'"
     },
     {
       "homeTeam": "Gimnastic",
@@ -287,16 +197,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Primera División RFEF - Group 2",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "Marbella",
       "awayTeam": "Real Betis II",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Primera División RFEF - Group 2",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "Aserri FC",
@@ -305,16 +215,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Liga de Ascenso",
-      "time": "7'"
-    },
-    {
-      "homeTeam": "Vittoriosa Stars",
-      "awayTeam": "Mgarr United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Challenge League",
-      "time": "38'"
+      "time": "32'"
     },
     {
       "homeTeam": "Serranense",
@@ -323,16 +224,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Mineiro - 3",
-      "time": "3'"
-    },
-    {
-      "homeTeam": "Balsicas Atlético",
-      "awayTeam": "Bala Azul",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Tercera División RFEF - Group 13",
-      "time": "40'"
+      "time": "27'"
     },
     {
       "homeTeam": "Independiente Petrolero",
@@ -341,52 +233,34 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Primera División",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "FAR Rabat",
       "awayTeam": "Real de Banjul",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "CAF Champions League",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "MC Alger",
       "awayTeam": "Fassell",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "CAF Champions League",
-      "time": "9'"
+      "time": "34'"
     },
     {
       "homeTeam": "Olympique Safi",
       "awayTeam": "NIGELEC",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "CAF Confederation Cup",
-      "time": "9'"
-    },
-    {
-      "homeTeam": "Liverpool Montevideo",
-      "awayTeam": "Boston River",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera División - Clausura",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "Esportivo",
-      "awayTeam": "Aimoré",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Copa Gaúcha",
-      "time": "38'"
+      "time": "33'"
     },
     {
       "homeTeam": "Calvary",
@@ -407,52 +281,178 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Lugano",
-      "awayTeam": "Canuelas",
+      "homeTeam": "Angostura FC",
+      "awayTeam": "Marítimo",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Primera C",
-      "time": "37'"
+      "league": "Segunda División",
+      "time": "2'"
     },
     {
-      "homeTeam": "Rampla Juniors",
-      "awayTeam": "Rentistas",
-      "homeScore": 2,
+      "homeTeam": "Real Frontera",
+      "awayTeam": "Trujillanos FC",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Segunda División",
-      "time": "39'"
+      "time": "4'"
     },
     {
-      "homeTeam": "Uruguay Montevideo",
-      "awayTeam": "Colón",
+      "homeTeam": "Petare FC",
+      "awayTeam": "Mineros de Guyana",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 0,
       "status": "Live",
       "league": "Segunda División",
-      "time": "39'"
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Bolívar",
+      "awayTeam": "Dinamo de Puerto La Cruz",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Segunda División",
+      "time": "4'"
+    },
+    {
+      "homeTeam": "Monagas II",
+      "awayTeam": "Aragua FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Segunda División",
+      "time": "4'"
+    },
+    {
+      "homeTeam": "Urena SC",
+      "awayTeam": "Atletico el Vigia FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Segunda División",
+      "time": "3'"
     },
     {
       "homeTeam": "Nueva Chicago",
       "awayTeam": "Agropecuario",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Primera Nacional",
-      "time": "69'"
+      "time": "90'"
     },
     {
-      "homeTeam": "Aldosivi",
-      "awayTeam": "Argentinos JRS",
+      "homeTeam": "Halifax Tides W",
+      "awayTeam": "Vancouver Rise W",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Northern Super League",
+      "time": "75'"
+    },
+    {
+      "homeTeam": "Flamengo U20",
+      "awayTeam": "Sampaio Correa FE U20",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Carioca U20",
+      "time": "74'"
+    },
+    {
+      "homeTeam": "Fluminense U20",
+      "awayTeam": "Maricá U20",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Carioca U20",
+      "time": "72'"
+    },
+    {
+      "homeTeam": "Paks",
+      "awayTeam": "Puskas Academy",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "NB I",
+      "time": "73'"
+    },
+    {
+      "homeTeam": "Cracovia Krakow",
+      "awayTeam": "Gornik Zabrze",
       "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ekstraklasa",
+      "time": "62'"
+    },
+    {
+      "homeTeam": "Excelsior",
+      "awayTeam": "PSV Eindhoven",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Eredivisie",
+      "time": "75'"
+    },
+    {
+      "homeTeam": "Celje",
+      "awayTeam": "Maribor",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "1. SNL",
+      "time": "55'"
+    },
+    {
+      "homeTeam": "Velež",
+      "awayTeam": "Zrinjski",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Premijer Liga",
+      "time": "47'"
+    },
+    {
+      "homeTeam": "Saint Etienne",
+      "awayTeam": "Guingamp",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Ligue 2",
+      "time": "75'"
+    },
+    {
+      "homeTeam": "Austria Vienna (Am)",
+      "awayTeam": "SKU Amstetten",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. Liga",
+      "time": "75'"
+    },
+    {
+      "homeTeam": "Kortrijk",
+      "awayTeam": "AS Eupen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Challenger Pro League",
+      "time": "76'"
+    },
+    {
+      "homeTeam": "Waasland-beveren",
+      "awayTeam": "Seraing United",
+      "homeScore": 2,
       "awayScore": 1,
       "status": "Live",
-      "league": "Liga Profesional Argentina",
+      "league": "Challenger Pro League",
       "time": "77'"
     }
   ],
-  "lastUpdated": "2025-09-27T19:09:09.310Z",
+  "lastUpdated": "2025-09-27T19:34:14.030Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 50,
