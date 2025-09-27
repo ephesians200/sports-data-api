@@ -29,7 +29,7 @@ function getSampleData() {
         {
             homeTeam: { name: "Liverpool" },
             awayTeam: { name: "Arsenal" },
-            score: { home: 2, away: 1 },
+            score: { fullTime: { home: 2, away: 1 } },
             status: "IN_PLAY",
             competition: { name: "Premier League" },
             minute: 75
@@ -37,7 +37,7 @@ function getSampleData() {
         {
             homeTeam: { name: "Chelsea" },
             awayTeam: { name: "Man City" },
-            score: { home: 0, away: 1 },
+            score: { fullTime: { home: 0, away: 1 } },
             status: "IN_PLAY",
             competition: { name: "Premier League" },
             minute: 45
@@ -45,7 +45,7 @@ function getSampleData() {
         {
             homeTeam: { name: "Barcelona" },
             awayTeam: { name: "Real Madrid" },
-            score: { home: 1, away: 1 },
+            score: { fullTime: { home: 1, away: 1 } },
             status: "IN_PLAY",
             competition: { name: "La Liga" },
             minute: 60
@@ -53,7 +53,7 @@ function getSampleData() {
         {
             homeTeam: { name: "Bayern Munich" },
             awayTeam: { name: "Borussia Dortmund" },
-            score: { home: 3, away: 0 },
+            score: { fullTime: { home: 3, away: 0 } },
             status: "FINISHED",
             competition: { name: "Bundesliga" },
             minute: 90
@@ -61,7 +61,7 @@ function getSampleData() {
         {
             homeTeam: { name: "PSG" },
             awayTeam: { name: "Marseille" },
-            score: { home: 2, away: 2 },
+            score: { fullTime: { home: 2, away: 2 } },
             status: "IN_PLAY",
             competition: { name: "Ligue 1" },
             minute: 82
@@ -69,7 +69,7 @@ function getSampleData() {
         {
             homeTeam: { name: "Juventus" },
             awayTeam: { name: "AC Milan" },
-            score: { home: 1, away: 0 },
+            score: { fullTime: { home: 1, away: 0 } },
             status: "IN_PLAY",
             competition: { name: "Serie A" },
             minute: 67
@@ -77,34 +77,18 @@ function getSampleData() {
         {
             homeTeam: { name: "Manchester United" },
             awayTeam: { name: "Tottenham" },
-            score: { home: 0, away: 0 },
-            status: "IN_PLAY",
+            score: { fullTime: { home: 0, away: 0 } },
+            status: "SCHEDULED",
             competition: { name: "Premier League" },
-            minute: 23
+            utcDate: "2025-09-27T15:00:00Z"
         },
         {
             homeTeam: { name: "Atletico Madrid" },
             awayTeam: { name: "Valencia" },
-            score: { home: 2, away: 1 },
+            score: { fullTime: { home: 2, away: 1 } },
             status: "FINISHED",
             competition: { name: "La Liga" },
             minute: 90
-        },
-        {
-            homeTeam: { name: "Inter Milan" },
-            awayTeam: { name: "Napoli" },
-            score: { home: 1, away: 3 },
-            status: "FINISHED",
-            competition: { name: "Serie A" },
-            minute: 90
-        },
-        {
-            homeTeam: { name: "Eintracht Frankfurt" },
-            awayTeam: { name: "Wolfsburg" },
-            score: { home: 2, away: 1 },
-            status: "IN_PLAY",
-            competition: { name: "Bundesliga" },
-            minute: 85
         }
     ];
 }
@@ -124,35 +108,53 @@ function getStatus(status) {
     }
 }
 
-function getMatchTime(status, minute) {
-    if (status === 'IN_PLAY' || status === 'PAUSED') {
-        return minute ? `${minute}'` : 'Live';
-    } else if (status === 'FINISHED') {
+function getMatchTime(match) {
+    if (match.status === 'IN_PLAY' || match.status === 'PAUSED') {
+        return match.minute ? `${match.minute}'` : 'Live';
+    } else if (match.status === 'FINISHED') {
         return '90\'';
-    } else {
+    } else if (match.status === 'SCHEDULED' || match.status === 'TIMED') {
+        if (match.utcDate) {
+            const matchTime = new Date(match.utcDate);
+            return matchTime.toLocaleTimeString('en-US', { 
+                hour: '2-digit', 
+                minute: '2-digit',
+                hour12: false 
+            });
+        }
         return 'TBD';
     }
+    return 'TBD';
 }
 
-async function fetchFootballData() {
+async function fetchTodaysMatches() {
+    const today = new Date().toISOString().split('T')[0];
     const allMatches = [];
     
     try {
-        console.log('Fetching live matches from Football-Data.org...');
+        console.log(`Fetching today's matches (${today}) from Football-Data.org...`);
         
-        // Fetch today's matches (includes live and finished)
-        const todayUrl = 'https://api.football-data.org/v4/matches';
+        // Get all of today's matches (live, upcoming, finished)
+        const todayUrl = `https://api.football-data.org/v4/matches?dateFrom=${today}&dateTo=${today}`;
         const response = await fetchData(todayUrl);
         
         console.log(`Received ${response.matches?.length || 0} matches from API`);
         
         if (response.matches && response.matches.length > 0) {
-            // Process all matches
             response.matches.forEach(match => {
                 if (match.homeTeam && match.awayTeam) {
                     allMatches.push(match);
                 }
             });
+            
+            console.log(`Processing ${allMatches.length} valid matches`);
+            
+            // Log match statuses for debugging
+            const statusCounts = {};
+            allMatches.forEach(match => {
+                statusCounts[match.status] = (statusCounts[match.status] || 0) + 1;
+            });
+            console.log('Match statuses:', statusCounts);
         }
         
     } catch (error) {
@@ -169,12 +171,12 @@ async function main() {
         let allMatches = [];
         
         try {
-            // Fetch from Football-Data.org
-            const footballDataMatches = await fetchFootballData();
-            allMatches = footballDataMatches;
+            // Fetch today's matches (includes live, upcoming, and finished)
+            const todaysMatches = await fetchTodaysMatches();
+            allMatches = todaysMatches;
             
         } catch (error) {
-            console.log('All APIs failed, using sample data:', error.message);
+            console.log('API failed, using sample data:', error.message);
             allMatches = getSampleData();
         }
 
@@ -188,20 +190,20 @@ async function main() {
         const processedMatches = allMatches.map(match => ({
             homeTeam: match.homeTeam?.name || match.homeTeam?.shortName || 'Team A',
             awayTeam: match.awayTeam?.name || match.awayTeam?.shortName || 'Team B',
-            homeScore: match.score?.fullTime?.home || match.score?.home || 0,
-            awayScore: match.score?.fullTime?.away || match.score?.away || 0,
+            homeScore: match.score?.fullTime?.home ?? match.score?.home ?? 0,
+            awayScore: match.score?.fullTime?.away ?? match.score?.away ?? 0,
             status: getStatus(match.status),
             league: match.competition?.name || 'Football',
-            time: getMatchTime(match.status, match.minute)
+            time: getMatchTime(match)
         }));
 
-        // Remove duplicates and limit to 40 matches
+        // Remove duplicates and limit to 50 matches
         const uniqueMatches = processedMatches.filter((match, index, self) => 
             index === self.findIndex(m => 
                 m.homeTeam === match.homeTeam && 
                 m.awayTeam === match.awayTeam
             )
-        ).slice(0, 40);
+        ).slice(0, 50);
 
         const output = {
             success: true,
@@ -230,15 +232,15 @@ async function main() {
             matches: sampleMatches.map(match => ({
                 homeTeam: match.homeTeam.name,
                 awayTeam: match.awayTeam.name,
-                homeScore: match.score.home,
-                awayScore: match.score.away,
+                homeScore: match.score.fullTime.home,
+                awayScore: match.score.fullTime.away,
                 status: getStatus(match.status),
                 league: match.competition.name,
-                time: getMatchTime(match.status, match.minute)
+                time: getMatchTime(match)
             })),
             lastUpdated: new Date().toISOString(),
             source: 'fallback',
-            totalMatches: 10,
+            totalMatches: 8,
             error: error.message
         };
         
