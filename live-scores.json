@@ -72,9 +72,120 @@
       "status": "FT",
       "league": "La Liga",
       "time": "90'"
+    },
+    {
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Napoli",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Serie A",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "RB Leipzig",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Bundesliga",
+      "time": "55'"
+    },
+    {
+      "homeTeam": "Ajax",
+      "awayTeam": "PSV",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Eredivisie",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Porto",
+      "awayTeam": "Benfica",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga Portugal",
+      "time": "78'"
+    },
+    {
+      "homeTeam": "Flamengo",
+      "awayTeam": "Palmeiras",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Serie A Brazil",
+      "time": "35'"
+    },
+    {
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "River Plate",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Primera Division",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Club America",
+      "awayTeam": "Chivas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga MX",
+      "time": "62'"
+    },
+    {
+      "homeTeam": "Leicester City",
+      "awayTeam": "Newcastle",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Sevilla",
+      "awayTeam": "Real Sociedad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "La Liga",
+      "time": "15'"
+    },
+    {
+      "homeTeam": "AC Milan",
+      "awayTeam": "Roma",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Serie A",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "Wolfsburg",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Bundesliga",
+      "time": "85'"
+    },
+    {
+      "homeTeam": "Lyon",
+      "awayTeam": "Monaco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "70'"
     }
   ],
-  "lastUpdated": "2025-09-27T05:40:41.497Z",
-  "source": "thesportsdb",
-  "totalMatches": 8
+  "lastUpdated": "2025-09-27T05:43:53.403Z",
+  "source": "sample",
+  "totalMatches": 20,
+  "liveMatches": 13,
+  "finishedMatches": 7,
+  "upcomingMatches": 0
 }
