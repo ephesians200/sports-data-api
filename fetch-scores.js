@@ -1,10 +1,14 @@
 const https = require('https');
 const fs = require('fs');
 
+const API_KEY = process.env.SPORTS_API_KEY || '7dec5142ebffbe2f8b64d5071bb2a5da';
+
 function fetchData(url, headers = {}) {
     return new Promise((resolve, reject) => {
         const options = {
             headers: {
+                'X-RapidAPI-Key': API_KEY,
+                'X-RapidAPI-Host': 'v3.football.api-sports.io',
                 'User-Agent': 'SureWinSports/1.0',
                 ...headers
             }
@@ -27,95 +31,101 @@ function fetchData(url, headers = {}) {
 function getSampleData() {
     return [
         {
-            homeTeam: { name: "Liverpool" },
-            awayTeam: { name: "Arsenal" },
-            score: { fullTime: { home: 2, away: 1 } },
-            status: "IN_PLAY",
-            competition: { name: "Premier League" },
-            minute: 75
+            teams: { home: { name: "Liverpool" }, away: { name: "Arsenal" } },
+            goals: { home: 2, away: 1 },
+            fixture: { status: { short: "2H" } },
+            league: { name: "Premier League" },
+            fixture_status_elapsed: 75
         },
         {
-            homeTeam: { name: "Chelsea" },
-            awayTeam: { name: "Man City" },
-            score: { fullTime: { home: 0, away: 1 } },
-            status: "IN_PLAY",
-            competition: { name: "Premier League" },
-            minute: 45
+            teams: { home: { name: "Chelsea" }, away: { name: "Man City" } },
+            goals: { home: 0, away: 1 },
+            fixture: { status: { short: "HT" } },
+            league: { name: "Premier League" },
+            fixture_status_elapsed: 45
         },
         {
-            homeTeam: { name: "Barcelona" },
-            awayTeam: { name: "Real Madrid" },
-            score: { fullTime: { home: 1, away: 1 } },
-            status: "IN_PLAY",
-            competition: { name: "La Liga" },
-            minute: 60
+            teams: { home: { name: "Barcelona" }, away: { name: "Real Madrid" } },
+            goals: { home: 1, away: 1 },
+            fixture: { status: { short: "2H" } },
+            league: { name: "La Liga" },
+            fixture_status_elapsed: 60
         },
         {
-            homeTeam: { name: "Bayern Munich" },
-            awayTeam: { name: "Borussia Dortmund" },
-            score: { fullTime: { home: 3, away: 0 } },
-            status: "FINISHED",
-            competition: { name: "Bundesliga" },
-            minute: 90
+            teams: { home: { name: "Bayern Munich" }, away: { name: "Borussia Dortmund" } },
+            goals: { home: 3, away: 0 },
+            fixture: { status: { short: "FT" } },
+            league: { name: "Bundesliga" },
+            fixture_status_elapsed: 90
         },
         {
-            homeTeam: { name: "PSG" },
-            awayTeam: { name: "Marseille" },
-            score: { fullTime: { home: 2, away: 2 } },
-            status: "IN_PLAY",
-            competition: { name: "Ligue 1" },
-            minute: 82
+            teams: { home: { name: "PSG" }, away: { name: "Marseille" } },
+            goals: { home: 2, away: 2 },
+            fixture: { status: { short: "2H" } },
+            league: { name: "Ligue 1" },
+            fixture_status_elapsed: 82
         },
         {
-            homeTeam: { name: "Juventus" },
-            awayTeam: { name: "AC Milan" },
-            score: { fullTime: { home: 1, away: 0 } },
-            status: "IN_PLAY",
-            competition: { name: "Serie A" },
-            minute: 67
+            teams: { home: { name: "Juventus" }, away: { name: "AC Milan" } },
+            goals: { home: 1, away: 0 },
+            fixture: { status: { short: "2H" } },
+            league: { name: "Serie A" },
+            fixture_status_elapsed: 67
         },
         {
-            homeTeam: { name: "Manchester United" },
-            awayTeam: { name: "Tottenham" },
-            score: { fullTime: { home: 0, away: 0 } },
-            status: "SCHEDULED",
-            competition: { name: "Premier League" },
-            utcDate: "2025-09-27T15:00:00Z"
+            teams: { home: { name: "Manchester United" }, away: { name: "Tottenham" } },
+            goals: { home: null, away: null },
+            fixture: { status: { short: "NS" } },
+            league: { name: "Premier League" },
+            fixture_date: "15:00"
         },
         {
-            homeTeam: { name: "Atletico Madrid" },
-            awayTeam: { name: "Valencia" },
-            score: { fullTime: { home: 2, away: 1 } },
-            status: "FINISHED",
-            competition: { name: "La Liga" },
-            minute: 90
+            teams: { home: { name: "Atletico Madrid" }, away: { name: "Valencia" } },
+            goals: { home: 2, away: 1 },
+            fixture: { status: { short: "FT" } },
+            league: { name: "La Liga" },
+            fixture_status_elapsed: 90
         }
     ];
 }
 
-function getStatus(status) {
-    switch(status) {
-        case 'IN_PLAY':
-        case 'PAUSED':
+function getStatus(statusShort) {
+    switch(statusShort) {
+        case '1H':
+        case '2H':
+        case 'HT':
+        case 'ET':
+        case 'BT':
+        case 'P':
             return 'Live';
-        case 'FINISHED':
+        case 'FT':
+        case 'AET':
+        case 'PEN':
             return 'FT';
-        case 'SCHEDULED':
-        case 'TIMED':
+        case 'NS':
+        case 'TBD':
+        case 'SUSP':
+        case 'PST':
+        case 'CANC':
             return 'Not Started';
         default:
-            return status;
+            return statusShort;
     }
 }
 
 function getMatchTime(match) {
-    if (match.status === 'IN_PLAY' || match.status === 'PAUSED') {
-        return match.minute ? `${match.minute}'` : 'Live';
-    } else if (match.status === 'FINISHED') {
+    const status = match.fixture?.status?.short;
+    const elapsed = match.fixture?.status?.elapsed;
+    
+    if (status === '1H' || status === '2H' || status === 'ET') {
+        return elapsed ? `${elapsed}'` : 'Live';
+    } else if (status === 'HT') {
+        return 'HT';
+    } else if (status === 'FT' || status === 'AET' || status === 'PEN') {
         return '90\'';
-    } else if (match.status === 'SCHEDULED' || match.status === 'TIMED') {
-        if (match.utcDate) {
-            const matchTime = new Date(match.utcDate);
+    } else if (status === 'NS' || status === 'TBD') {
+        if (match.fixture?.date) {
+            const matchTime = new Date(match.fixture.date);
             return matchTime.toLocaleTimeString('en-US', { 
                 hour: '2-digit', 
                 minute: '2-digit',
@@ -124,41 +134,54 @@ function getMatchTime(match) {
         }
         return 'TBD';
     }
-    return 'TBD';
+    return status || 'TBD';
 }
 
-async function fetchTodaysMatches() {
-    const today = new Date().toISOString().split('T')[0];
+async function fetchApiFootballData() {
     const allMatches = [];
+    const today = new Date().toISOString().split('T')[0];
     
     try {
-        console.log(`Fetching today's matches (${today}) from Football-Data.org...`);
+        console.log('Fetching live fixtures from API-Football...');
         
-        // Get all of today's matches (live, upcoming, finished)
-        const todayUrl = `https://api.football-data.org/v4/matches?dateFrom=${today}&dateTo=${today}`;
-        const response = await fetchData(todayUrl);
+        // Get live fixtures
+        const liveUrl = 'https://v3.football.api-sports.io/fixtures?live=all';
+        const liveResponse = await fetchData(liveUrl);
         
-        console.log(`Received ${response.matches?.length || 0} matches from API`);
+        console.log(`Received ${liveResponse.response?.length || 0} live matches`);
         
-        if (response.matches && response.matches.length > 0) {
-            response.matches.forEach(match => {
-                if (match.homeTeam && match.awayTeam) {
-                    allMatches.push(match);
-                }
-            });
+        if (liveResponse.response && liveResponse.response.length > 0) {
+            allMatches.push(...liveResponse.response);
+        }
+        
+        // Add delay to avoid rate limiting
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        
+        // Get today's fixtures if we need more matches
+        if (allMatches.length < 20) {
+            console.log(`Fetching today's fixtures (${today})...`);
             
-            console.log(`Processing ${allMatches.length} valid matches`);
+            const todayUrl = `https://v3.football.api-sports.io/fixtures?date=${today}`;
+            const todayResponse = await fetchData(todayUrl);
             
-            // Log match statuses for debugging
-            const statusCounts = {};
-            allMatches.forEach(match => {
-                statusCounts[match.status] = (statusCounts[match.status] || 0) + 1;
-            });
-            console.log('Match statuses:', statusCounts);
+            console.log(`Received ${todayResponse.response?.length || 0} today's matches`);
+            
+            if (todayResponse.response && todayResponse.response.length > 0) {
+                // Add today's fixtures that aren't already included
+                todayResponse.response.forEach(match => {
+                    const exists = allMatches.find(existing => 
+                        existing.fixture?.id === match.fixture?.id
+                    );
+                    if (!exists) {
+                        allMatches.push(match);
+                    }
+                });
+            }
         }
         
     } catch (error) {
-        console.log(`Failed to fetch from Football-Data.org: ${error.message}`);
+        console.log(`Failed to fetch from API-Football: ${error.message}`);
+        throw error;
     }
     
     return allMatches;
@@ -171,9 +194,9 @@ async function main() {
         let allMatches = [];
         
         try {
-            // Fetch today's matches (includes live, upcoming, and finished)
-            const todaysMatches = await fetchTodaysMatches();
-            allMatches = todaysMatches;
+            // Fetch from API-Football
+            const apiFootballMatches = await fetchApiFootballData();
+            allMatches = apiFootballMatches;
             
         } catch (error) {
             console.log('API failed, using sample data:', error.message);
@@ -188,12 +211,12 @@ async function main() {
 
         // Process and format the data
         const processedMatches = allMatches.map(match => ({
-            homeTeam: match.homeTeam?.name || match.homeTeam?.shortName || 'Team A',
-            awayTeam: match.awayTeam?.name || match.awayTeam?.shortName || 'Team B',
-            homeScore: match.score?.fullTime?.home ?? match.score?.home ?? 0,
-            awayScore: match.score?.fullTime?.away ?? match.score?.away ?? 0,
-            status: getStatus(match.status),
-            league: match.competition?.name || 'Football',
+            homeTeam: match.teams?.home?.name || 'Team A',
+            awayTeam: match.teams?.away?.name || 'Team B',
+            homeScore: match.goals?.home ?? 0,
+            awayScore: match.goals?.away ?? 0,
+            status: getStatus(match.fixture?.status?.short),
+            league: match.league?.name || 'Football',
             time: getMatchTime(match)
         }));
 
@@ -209,18 +232,19 @@ async function main() {
             success: true,
             matches: uniqueMatches,
             lastUpdated: new Date().toISOString(),
-            source: allMatches === getSampleData() ? 'sample' : 'football-data',
+            source: allMatches === getSampleData() ? 'sample' : 'api-football',
             totalMatches: uniqueMatches.length,
             liveMatches: uniqueMatches.filter(m => m.status === 'Live').length,
             finishedMatches: uniqueMatches.filter(m => m.status === 'FT').length,
-            upcomingMatches: uniqueMatches.filter(m => m.status === 'Not Started').length
+            upcomingMatches: uniqueMatches.filter(m => m.status === 'Not Started').length,
+            apiCalls: allMatches === getSampleData() ? 0 : (uniqueMatches.length > 20 ? 2 : 1)
         };
 
         // Write to JSON file
         fs.writeFileSync('live-scores.json', JSON.stringify(output, null, 2));
         console.log(`Successfully fetched ${uniqueMatches.length} matches`);
         console.log(`Live: ${output.liveMatches}, Finished: ${output.finishedMatches}, Upcoming: ${output.upcomingMatches}`);
-        console.log(`Source: ${output.source}`);
+        console.log(`Source: ${output.source}, API calls used: ${output.apiCalls}`);
 
     } catch (error) {
         console.error('Error:', error.message);
@@ -230,12 +254,12 @@ async function main() {
         const fallback = {
             success: false,
             matches: sampleMatches.map(match => ({
-                homeTeam: match.homeTeam.name,
-                awayTeam: match.awayTeam.name,
-                homeScore: match.score.fullTime.home,
-                awayScore: match.score.fullTime.away,
-                status: getStatus(match.status),
-                league: match.competition.name,
+                homeTeam: match.teams.home.name,
+                awayTeam: match.teams.away.name,
+                homeScore: match.goals.home ?? 0,
+                awayScore: match.goals.away ?? 0,
+                status: getStatus(match.fixture.status.short),
+                league: match.league.name,
                 time: getMatchTime(match)
             })),
             lastUpdated: new Date().toISOString(),
