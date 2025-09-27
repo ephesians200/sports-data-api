@@ -4,11 +4,11 @@
     {
       "homeTeam": "Tormenta",
       "awayTeam": "Richmond Kickers",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "USL League One",
-      "time": "3'"
+      "time": "26'"
     },
     {
       "homeTeam": "Naples",
@@ -17,34 +17,52 @@
       "awayScore": 0,
       "status": "Live",
       "league": "USL League One",
-      "time": "4'"
+      "time": "27'"
     },
     {
       "homeTeam": "Chattanooga Red Wolves",
       "awayTeam": "Union Omaha",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "USL League One",
-      "time": "5'"
+      "time": "28'"
     },
     {
       "homeTeam": "Detroit City",
       "awayTeam": "Louisville City",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "USL Championship",
-      "time": "5'"
+      "time": "28'"
     },
     {
       "homeTeam": "Indy Eleven",
       "awayTeam": "FC Tulsa",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "USL Championship",
-      "time": "5'"
+      "time": "28'"
+    },
+    {
+      "homeTeam": "Racing Louisville W",
+      "awayTeam": "Angel City W",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NWSL Women",
+      "time": "4'"
+    },
+    {
+      "homeTeam": "Atletico Paranaense",
+      "awayTeam": "Operario-PR",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie B",
+      "time": "4'"
     },
     {
       "homeTeam": "Chile U20",
@@ -53,7 +71,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "World Cup - U20",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Paraguay U20",
@@ -62,34 +80,34 @@
       "awayScore": 1,
       "status": "Live",
       "league": "World Cup - U20",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Puebla",
       "awayTeam": "Guadalajara Chivas",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Liga MX",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Atlas",
       "awayTeam": "Necaxa",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "status": "Live",
       "league": "Liga MX",
-      "time": "8'"
+      "time": "31'"
     },
     {
       "homeTeam": "Pachuca",
       "awayTeam": "Atletico San Luis",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Liga MX",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Marseille",
@@ -116,16 +134,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga Nacional",
-      "time": "6'"
+      "time": "29'"
     },
     {
-      "homeTeam": "Nacional Asuncion",
-      "awayTeam": "Libertad Asuncion",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeTeam": "Deportes Tolima",
+      "awayTeam": "Independiente Medellin",
+      "homeScore": 1,
+      "awayScore": 0,
       "status": "Live",
-      "league": "Division Profesional - Clausura",
-      "time": "41'"
+      "league": "Primera A",
+      "time": "14'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -191,31 +209,31 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Brusque",
-      "awayTeam": "Guarani Campinas",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Serie C",
-      "time": "41'"
-    },
-    {
       "homeTeam": "Diriangén",
       "awayTeam": "Jalapa",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Primera Division",
-      "time": "10'"
+      "time": "33'"
+    },
+    {
+      "homeTeam": "Génesis",
+      "awayTeam": "Lobos Upnfm",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Nacional",
+      "time": "19'"
     },
     {
       "homeTeam": "Universitario",
       "awayTeam": "Cusco",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "Primera División",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Calvary",
@@ -242,34 +260,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "National League - National",
-      "time": "11'"
+      "time": "34'"
     },
     {
-      "homeTeam": "El Nacional",
-      "awayTeam": "Mushuc Runa SC",
-      "homeScore": 0,
-      "awayScore": 4,
-      "status": "Live",
-      "league": "Liga Pro",
-      "time": "78'"
-    },
-    {
-      "homeTeam": "Vasco DA Gama",
-      "awayTeam": "Cruzeiro",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Serie A",
-      "time": "78'"
-    },
-    {
-      "homeTeam": "Juventude",
-      "awayTeam": "Internacional",
+      "homeTeam": "Tristan Suarez",
+      "awayTeam": "Racing Cordoba",
       "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
-      "league": "Serie A",
-      "time": "83'"
+      "league": "Primera Nacional",
+      "time": "59'"
     },
     {
       "homeTeam": "Defensa Y Justicia",
@@ -278,7 +278,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga Profesional Argentina",
-      "time": "51'"
+      "time": "74'"
     },
     {
       "homeTeam": "Moca",
@@ -287,61 +287,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga Mayor",
-      "time": "50'"
+      "time": "73'"
     },
     {
       "homeTeam": "Tritons Vallarta",
       "awayTeam": "Cimarrones",
       "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "49'"
-    },
-    {
-      "homeTeam": "Deportivo Zap",
-      "awayTeam": "FC Santiago",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "49'"
-    },
-    {
-      "homeTeam": "Mexicali FC",
-      "awayTeam": "Montañeses",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "53'"
-    },
-    {
-      "homeTeam": "Aurora",
-      "awayTeam": "Nacional Potosí",
-      "homeScore": 0,
       "awayScore": 2,
       "status": "Live",
-      "league": "Primera División",
-      "time": "80'"
-    },
-    {
-      "homeTeam": "Tristan Suarez",
-      "awayTeam": "Racing Cordoba",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera Nacional",
-      "time": "HT"
+      "league": "Liga Premier Serie A",
+      "time": "72'"
     },
     {
       "homeTeam": "Colima",
       "awayTeam": "Reboceros La Piedad",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "status": "Live",
       "league": "Liga Premier Serie A",
-      "time": "HT"
+      "time": "67'"
     },
     {
       "homeTeam": "Cordobés",
@@ -350,10 +314,46 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga Premier Serie A",
+      "time": "61'"
+    },
+    {
+      "homeTeam": "Deportivo Zap",
+      "awayTeam": "FC Santiago",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "72'"
+    },
+    {
+      "homeTeam": "Mexicali FC",
+      "awayTeam": "Montañeses",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga Premier Serie A",
+      "time": "76'"
+    },
+    {
+      "homeTeam": "Nacional Asuncion",
+      "awayTeam": "Libertad Asuncion",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Division Profesional - Clausura",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Brusque",
+      "awayTeam": "Guarani Campinas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Serie C",
       "time": "HT"
     }
   ],
-  "lastUpdated": "2025-09-27T23:11:19.264Z",
+  "lastUpdated": "2025-09-27T23:34:06.652Z",
   "source": "api-football",
   "totalMatches": 39,
   "liveMatches": 39,
