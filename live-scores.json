@@ -2,13 +2,49 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Urawa Reds W",
-      "awayTeam": "Omiya Ardija Ventus W",
+      "homeTeam": "Gyeongnam FC",
+      "awayTeam": "Ansan Greeners",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
+      "league": "K League 2",
+      "time": "4'"
+    },
+    {
+      "homeTeam": "Hwaseong",
+      "awayTeam": "Busan I Park",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "K League 2",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Jeju United FC",
+      "awayTeam": "Suwon City FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "K League 1",
+      "time": "4'"
+    },
+    {
+      "homeTeam": "FC Anyang",
+      "awayTeam": "Gwangju FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "K League 1",
+      "time": "4'"
+    },
+    {
+      "homeTeam": "Urawa Reds W",
+      "awayTeam": "Omiya Ardija Ventus W",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
       "league": "WE League",
-      "time": "8'"
+      "time": "31'"
     },
     {
       "homeTeam": "Marseille",
@@ -134,7 +170,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Senior Shield",
-      "time": "9'"
+      "time": "33'"
     },
     {
       "homeTeam": "Inter Club",
@@ -173,22 +209,13 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Persipura Jayapura",
-      "awayTeam": "Tornado Pekanbaru",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "40'"
-    },
-    {
       "homeTeam": "Central Stallions",
       "awayTeam": "Khovd",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Premier League",
-      "time": "7'"
+      "time": "31'"
     },
     {
       "homeTeam": "Calvary",
@@ -212,19 +239,19 @@
       "homeTeam": "Kwun Tong",
       "awayTeam": "Shatin",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 3,
       "status": "Live",
       "league": "HKFA 1st Division",
-      "time": "3'"
+      "time": "26'"
     },
     {
       "homeTeam": "Kataller Toyama",
       "awayTeam": "Tokushima Vortis",
-      "homeScore": 0,
-      "awayScore": 2,
+      "homeScore": 1,
+      "awayScore": 3,
       "status": "Live",
       "league": "J2 League",
-      "time": "47'"
+      "time": "70'"
     },
     {
       "homeTeam": "Verspah Oita",
@@ -233,31 +260,22 @@
       "awayScore": 2,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "48'"
+      "time": "71'"
     },
     {
-      "homeTeam": "Tung Sing",
-      "awayTeam": "3 Sing",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeTeam": "Persipura Jayapura",
+      "awayTeam": "Tornado Pekanbaru",
+      "homeScore": 0,
+      "awayScore": 2,
       "status": "Live",
-      "league": "HKFA 1st Division",
-      "time": "87'"
-    },
-    {
-      "homeTeam": "Citizen AA",
-      "awayTeam": "Hoi King",
-      "homeScore": 3,
-      "awayScore": 5,
-      "status": "Live",
-      "league": "HKFA 1st Division",
-      "time": "84'"
+      "league": "Liga 2",
+      "time": "46'"
     }
   ],
-  "lastUpdated": "2025-09-28T07:11:01.382Z",
+  "lastUpdated": "2025-09-28T07:34:03.796Z",
   "source": "api-football",
-  "totalMatches": 28,
-  "liveMatches": 28,
+  "totalMatches": 30,
+  "liveMatches": 30,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
