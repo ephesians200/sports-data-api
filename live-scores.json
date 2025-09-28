@@ -2,13 +2,49 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Club America",
-      "awayTeam": "U.N.A.M. - Pumas",
+      "homeTeam": "Blaublitz Akita",
+      "awayTeam": "V-varen Nagasaki",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga MX",
-      "time": "23'"
+      "league": "J2 League",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Fukushima United",
+      "awayTeam": "Parceiro Nagano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "J3 League",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Matsumoto Yamaga",
+      "awayTeam": "Tochigi SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "J3 League",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Urayasu",
+      "awayTeam": "YSCC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Japan Football League",
+      "time": "14'"
+    },
+    {
+      "homeTeam": "Tokyo Musashino City",
+      "awayTeam": "Porvenir Asuka",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Japan Football League",
+      "time": "12'"
     },
     {
       "homeTeam": "Carrick Rangers",
@@ -45,33 +81,6 @@
       "status": "Live",
       "league": "Ligue 1",
       "time": "Live"
-    },
-    {
-      "homeTeam": "Selangor",
-      "awayTeam": "Melaka",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Super League",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Power Dynamos",
-      "awayTeam": "ZESCO United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Super League",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Dorados",
-      "awayTeam": "CDS Tampico Madero",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Liga de Expansión MX",
-      "time": "34'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -137,66 +146,12 @@
       "time": "Live"
     },
     {
-      "homeTeam": "JS Kabylie",
-      "awayTeam": "MC Alger",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "Live"
-    },
-    {
       "homeTeam": "Yarmanya United",
       "awayTeam": "Shan United",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "National League",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Cultural Santa Rosa",
-      "awayTeam": "Sporting Cristal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Inter Club",
-      "awayTeam": "Jeunesse Unie de Kintélé",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Vegas",
-      "awayTeam": "Kondzo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Étoile du Congo",
-      "awayTeam": "CARA Brazzaville",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Red Stars",
-      "awayTeam": "JS Talangaï",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
       "time": "Live"
     },
     {
@@ -207,6 +162,15 @@
       "status": "Live",
       "league": "Ligue 1",
       "time": "Live"
+    },
+    {
+      "homeTeam": "Ulaanbaatar",
+      "awayTeam": "Falcons",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "12'"
     },
     {
       "homeTeam": "Maroons",
@@ -245,94 +209,31 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Chocorosi",
-      "awayTeam": "Río San Juan Humi",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Nacional B",
-      "time": "Live"
-    },
-    {
-      "homeTeam": "Real Salt Lake",
-      "awayTeam": "Austin",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Monterey Bay",
-      "awayTeam": "Sacramento Republic",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "USL Championship",
-      "time": "71'"
-    },
-    {
-      "homeTeam": "Orange County SC",
-      "awayTeam": "Charleston Battery",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "USL Championship",
-      "time": "65'"
-    },
-    {
-      "homeTeam": "Bay FC",
-      "awayTeam": "Utah Royals W",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "NWSL Women",
-      "time": "69'"
-    },
-    {
-      "homeTeam": "CS Herediano",
-      "awayTeam": "Guadalupe FC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "73'"
-    },
-    {
-      "homeTeam": "Olancho",
-      "awayTeam": "Real Espana",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga Nacional",
-      "time": "46'"
-    },
-    {
       "homeTeam": "Los Angeles Galaxy",
       "awayTeam": "Sporting Kansas City",
-      "homeScore": 3,
+      "homeScore": 4,
       "awayScore": 1,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "HT"
+      "time": "74'"
     },
     {
       "homeTeam": "Portland Timbers",
       "awayTeam": "FC Dallas",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "HT"
+      "time": "75'"
     },
     {
       "homeTeam": "Seattle Sounders",
       "awayTeam": "Vancouver Whitecaps",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 2,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "HT"
+      "time": "69'"
     },
     {
       "homeTeam": "San Diego",
@@ -341,7 +242,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "HT"
+      "time": "74'"
     },
     {
       "homeTeam": "Phoenix Rising",
@@ -350,13 +251,31 @@
       "awayScore": 3,
       "status": "Live",
       "league": "USL Championship",
+      "time": "76'"
+    },
+    {
+      "homeTeam": "Dorados",
+      "awayTeam": "CDS Tampico Madero",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Liga de Expansión MX",
+      "time": "51'"
+    },
+    {
+      "homeTeam": "Club America",
+      "awayTeam": "U.N.A.M. - Pumas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga MX",
       "time": "HT"
     }
   ],
-  "lastUpdated": "2025-09-28T03:34:26.938Z",
+  "lastUpdated": "2025-09-28T04:14:41.611Z",
   "source": "api-football",
-  "totalMatches": 39,
-  "liveMatches": 39,
+  "totalMatches": 30,
+  "liveMatches": 30,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
