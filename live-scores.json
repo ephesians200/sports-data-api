@@ -5,19 +5,19 @@
       "homeTeam": "Kataller Toyama",
       "awayTeam": "Tokushima Vortis",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "J2 League",
-      "time": "14'"
+      "time": "40'"
     },
     {
       "homeTeam": "Verspah Oita",
       "awayTeam": "Criacao Shinjuku",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "15'"
+      "time": "42'"
     },
     {
       "homeTeam": "Marseille",
@@ -110,6 +110,15 @@
       "time": "Live"
     },
     {
+      "homeTeam": "Persipura Jayapura",
+      "awayTeam": "Tornado Pekanbaru",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 2",
+      "time": "14'"
+    },
+    {
       "homeTeam": "Calvary",
       "awayTeam": "Vipers",
       "homeScore": 0,
@@ -130,11 +139,11 @@
     {
       "homeTeam": "Mito Hollyhock",
       "awayTeam": "Fujieda MYFC",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "54'"
+      "time": "81'"
     },
     {
       "homeTeam": "Busan Transportation",
@@ -143,320 +152,41 @@
       "awayScore": 1,
       "status": "Live",
       "league": "K3 League",
+      "time": "83'"
+    },
+    {
+      "homeTeam": "Sham Shui Po",
+      "awayTeam": "Yuen Long",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "HKFA 1st Division",
+      "time": "86'"
+    },
+    {
+      "homeTeam": "Tung Sing",
+      "awayTeam": "3 Sing",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "HKFA 1st Division",
+      "time": "60'"
+    },
+    {
+      "homeTeam": "Citizen AA",
+      "awayTeam": "Hoi King",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "HKFA 1st Division",
       "time": "57'"
-    },
-    {
-      "homeTeam": "Colorado Springs",
-      "awayTeam": "Hartford Athletic",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "USL Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Deportivo Moron",
-      "awayTeam": "Atletico Mitre",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Primera Nacional",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Barcelona SC",
-      "awayTeam": "Aucas",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga Pro",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Atletico-MG",
-      "awayTeam": "Mirassol",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Serie A",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Yenisey II",
-      "awayTeam": "Baltika II",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Second League - Group 2",
-      "time": "24:00"
-    },
-    {
-      "homeTeam": "Sokol Kazan",
-      "awayTeam": "Volna Nizhegorodskaya",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Second League - Group 4",
-      "time": "CANC"
-    },
-    {
-      "homeTeam": "Cibao",
-      "awayTeam": "Salcedo",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga Mayor",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Oriental",
-      "awayTeam": "Deportivo Maldonado",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Segunda División",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Talleres Cordoba",
-      "awayTeam": "Sarmiento Junin",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga Profesional Argentina",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Atenas",
-      "awayTeam": "Tacuarembo",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Segunda División",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Chicago Fire",
-      "awayTeam": "Columbus Crew",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Major League Soccer",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Nashville SC",
-      "awayTeam": "Houston Dynamo",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Major League Soccer",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "St. Louis City",
-      "awayTeam": "Los Angeles FC",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Major League Soccer",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "San Antonio",
-      "awayTeam": "Birmingham Legion",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "USL Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "North Texas",
-      "awayTeam": "Real Monarchs",
-      "homeScore": 2,
-      "awayScore": 4,
-      "status": "FT",
-      "league": "MLS Next Pro",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Metropolitanos FC",
-      "awayTeam": "Portuguesa FC",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Primera División",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Spokane Velocity",
-      "awayTeam": "Greenville Triumph",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "USL League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Lautoka",
-      "awayTeam": "Suva",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "National Football League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Navua",
-      "awayTeam": "Nadi",
-      "homeScore": 5,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "National Football League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Rewa",
-      "awayTeam": "Nasinu",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "National Football League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Monterrey",
-      "awayTeam": "Santos Laguna",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga MX",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Toluca",
-      "awayTeam": "Mazatlán",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga MX",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Isidro Metapán",
-      "awayTeam": "Municipal Limeño",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Primera Division",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Firpo",
-      "awayTeam": "Alianza",
-      "homeScore": 0,
-      "awayScore": 5,
-      "status": "FT",
-      "league": "Primera Division",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Monarcas",
-      "awayTeam": "Atlante FC",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Liga de Expansión MX",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Cancún",
-      "awayTeam": "Tapatío",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga de Expansión MX",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Futbol Consultants Moravia",
-      "awayTeam": "Pitbulls Santa Barbara FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga de Ascenso",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Lobos ULMX",
-      "awayTeam": "Chilpancingo",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga Premier Serie A",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Racing de Veracruz",
-      "awayTeam": "Chapulineros",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga Premier Serie A",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Tapachula",
-      "awayTeam": "Celaya",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga Premier Serie A",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Real Estelí",
-      "awayTeam": "UNAN Managua",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Primera Division",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Coastal Spirit",
-      "awayTeam": "Birkenhead United",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "National League - National",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Colorado Rapids",
-      "awayTeam": "Minnesota United FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Major League Soccer",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Real Salt Lake",
-      "awayTeam": "Austin",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Major League Soccer",
-      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-09-28T06:17:19.633Z",
+  "lastUpdated": "2025-09-28T06:44:00.021Z",
   "source": "api-football",
-  "totalMatches": 50,
-  "liveMatches": 16,
-  "finishedMatches": 32,
-  "upcomingMatches": 2,
-  "apiCalls": 2
+  "totalMatches": 20,
+  "liveMatches": 20,
+  "finishedMatches": 0,
+  "upcomingMatches": 0,
+  "apiCalls": 1
 }
