@@ -4,47 +4,11 @@
     {
       "homeTeam": "Yokohama FC",
       "awayTeam": "Shonan Bellmare",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "J1 League",
-      "time": "11'"
-    },
-    {
-      "homeTeam": "Gyeongnam FC",
-      "awayTeam": "Ansan Greeners",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "K League 2",
-      "time": "44'"
-    },
-    {
-      "homeTeam": "Hwaseong",
-      "awayTeam": "Busan I Park",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "K League 2",
-      "time": "43'"
-    },
-    {
-      "homeTeam": "Jeju United FC",
-      "awayTeam": "Suwon City FC",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "K League 1",
-      "time": "44'"
-    },
-    {
-      "homeTeam": "FC Anyang",
-      "awayTeam": "Gwangju FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "K League 1",
-      "time": "45'"
+      "time": "35'"
     },
     {
       "homeTeam": "Yangpyeong",
@@ -53,7 +17,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "K3 League",
-      "time": "14'"
+      "time": "38'"
+    },
+    {
+      "homeTeam": "Viktoria Žižkov",
+      "awayTeam": "Ústí nad Labem",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "FNL",
+      "time": "24'"
     },
     {
       "homeTeam": "Marseille",
@@ -72,6 +45,60 @@
       "status": "Live",
       "league": "Ligue 1",
       "time": "Live"
+    },
+    {
+      "homeTeam": "SV Kapfenberg",
+      "awayTeam": "First Vienna",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. Liga",
+      "time": "7'"
+    },
+    {
+      "homeTeam": "Malženice",
+      "awayTeam": "Slovan Bratislava II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. liga",
+      "time": "8'"
+    },
+    {
+      "homeTeam": "Petržalka",
+      "awayTeam": "Slávia TU Košice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. liga",
+      "time": "7'"
+    },
+    {
+      "homeTeam": "Žilina II",
+      "awayTeam": "Liptovský Mikuláš",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "2. liga",
+      "time": "8'"
+    },
+    {
+      "homeTeam": "SVG Reichenau",
+      "awayTeam": "Kufstein",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Regionalliga - West",
+      "time": "9'"
+    },
+    {
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Arema FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 1",
+      "time": "9'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -137,13 +164,85 @@
       "time": "Live"
     },
     {
+      "homeTeam": "Slovácko II",
+      "awayTeam": "Zbrojovka Brno II",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "3. liga - MSFL",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Chlumec nad Cidlinou",
+      "awayTeam": "Turnov",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "4. liga - Divizie C",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Meteor Praha",
+      "awayTeam": "Karlovy Vary",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "4. liga - Divizie B",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Velké Meziříčí",
+      "awayTeam": "Chotebor",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "4. liga - Divizie D",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Brumov",
+      "awayTeam": "Kozlovice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "4. liga - Divizie E",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Havířov",
+      "awayTeam": "Nový Jičín",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "4. liga - Divizie F",
+      "time": "23'"
+    },
+    {
       "homeTeam": "Příbram II",
       "awayTeam": "Králův Dvůr",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "3. liga - CFL A",
-      "time": "10'"
+      "time": "35'"
+    },
+    {
+      "homeTeam": "Slovan Liberec II",
+      "awayTeam": "Baník Souš",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. liga - CFL B",
+      "time": "21'"
+    },
+    {
+      "homeTeam": "Trenčín II",
+      "awayTeam": "Baník Prievidza",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "3. liga - West",
+      "time": "9'"
     },
     {
       "homeTeam": "Yarmanya United",
@@ -161,7 +260,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Taiwan Football Premier League",
-      "time": "13'"
+      "time": "37'"
     },
     {
       "homeTeam": "Taichung Futuro",
@@ -170,7 +269,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Taiwan Football Premier League",
-      "time": "13'"
+      "time": "37'"
     },
     {
       "homeTeam": "Changchun Xidu",
@@ -179,16 +278,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "League Two",
-      "time": "13'"
+      "time": "37'"
+    },
+    {
+      "homeTeam": "Hubei Chufeng Heli",
+      "awayTeam": "Guangzhou Dandelion",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "League Two",
+      "time": "8'"
     },
     {
       "homeTeam": "Kaya",
       "awayTeam": "Dynamic Herb Cebu",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "PFL",
-      "time": "13'"
+      "time": "37'"
     },
     {
       "homeTeam": "Kaizer Chiefs U23",
@@ -197,34 +305,70 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Diski Challenge",
-      "time": "4'"
+      "time": "29'"
     },
     {
       "homeTeam": "Mamelodi Sundowns U23",
       "awayTeam": "Richards Bay U23",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Diski Challenge",
-      "time": "13'"
+      "time": "38'"
     },
     {
       "homeTeam": "Polokwane City U23",
       "awayTeam": "Sekhukhune United U23",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Diski Challenge",
-      "time": "12'"
+      "time": "37'"
     },
     {
       "homeTeam": "Maritzburg United U23",
       "awayTeam": "Magesi U23",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "Diski Challenge",
-      "time": "12'"
+      "time": "37'"
+    },
+    {
+      "homeTeam": "Swarovski Tirol II",
+      "awayTeam": "Fügen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Landesliga - Tirol",
+      "time": "5'"
+    },
+    {
+      "homeTeam": "Slovan HAC",
+      "awayTeam": "Schwechat",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Landesliga - Wien",
+      "time": "5'"
+    },
+    {
+      "homeTeam": "Vorwärts Brigittenau",
+      "awayTeam": "Dinamo Helfort",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Landesliga - Wien",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Adhyaksa",
+      "awayTeam": "Persikad Depok FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 2",
+      "time": "8'"
     },
     {
       "homeTeam": "Calvary",
@@ -245,31 +389,58 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Central & Western",
-      "awayTeam": "Metro Gallery Sun Source",
+      "homeTeam": "Videm",
+      "awayTeam": "Rače",
       "homeScore": 0,
-      "awayScore": 3,
+      "awayScore": 0,
       "status": "Live",
-      "league": "HKFA 1st Division",
-      "time": "38'"
-    },
-    {
-      "homeTeam": "WSE",
-      "awayTeam": "South China",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "HKFA 1st Division",
-      "time": "35'"
+      "league": "3. SNL - East",
+      "time": "7'"
     },
     {
       "homeTeam": "Farul Constanţa W",
       "awayTeam": "Vasas Femina W",
-      "homeScore": 2,
+      "homeScore": 5,
       "awayScore": 0,
       "status": "Live",
       "league": "Liga 1 Feminin",
-      "time": "12'"
+      "time": "37'"
+    },
+    {
+      "homeTeam": "Gyeongnam FC",
+      "awayTeam": "Ansan Greeners",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "K League 2",
+      "time": "51'"
+    },
+    {
+      "homeTeam": "Hwaseong",
+      "awayTeam": "Busan I Park",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "K League 2",
+      "time": "51'"
+    },
+    {
+      "homeTeam": "Jeju United FC",
+      "awayTeam": "Suwon City FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "K League 1",
+      "time": "46'"
+    },
+    {
+      "homeTeam": "FC Anyang",
+      "awayTeam": "Gwangju FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "K League 1",
+      "time": "50'"
     },
     {
       "homeTeam": "Urawa Reds W",
@@ -278,49 +449,13 @@
       "awayScore": 0,
       "status": "Live",
       "league": "WE League",
-      "time": "55'"
-    },
-    {
-      "homeTeam": "BC Rangers",
-      "awayTeam": "Kowloon City",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Senior Shield",
-      "time": "55'"
-    },
-    {
-      "homeTeam": "Persipura Jayapura",
-      "awayTeam": "Tornado Pekanbaru",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "86'"
-    },
-    {
-      "homeTeam": "Central Stallions",
-      "awayTeam": "Khovd",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "52'"
-    },
-    {
-      "homeTeam": "Kwun Tong",
-      "awayTeam": "Shatin",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Live",
-      "league": "HKFA 1st Division",
-      "time": "52'"
+      "time": "80'"
     }
   ],
-  "lastUpdated": "2025-09-28T08:14:24.146Z",
+  "lastUpdated": "2025-09-28T08:39:07.199Z",
   "source": "api-football",
-  "totalMatches": 35,
-  "liveMatches": 35,
+  "totalMatches": 50,
+  "liveMatches": 50,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
