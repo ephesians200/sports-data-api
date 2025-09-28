@@ -2,22 +2,13 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Kataller Toyama",
-      "awayTeam": "Tokushima Vortis",
+      "homeTeam": "Urawa Reds W",
+      "awayTeam": "Omiya Ardija Ventus W",
       "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "J2 League",
-      "time": "40'"
-    },
-    {
-      "homeTeam": "Verspah Oita",
-      "awayTeam": "Criacao Shinjuku",
-      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Japan Football League",
-      "time": "42'"
+      "league": "WE League",
+      "time": "8'"
     },
     {
       "homeTeam": "Marseille",
@@ -110,13 +101,94 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Persipura Jayapura",
-      "awayTeam": "Tornado Pekanbaru",
+      "homeTeam": "Cultural Santa Rosa",
+      "awayTeam": "Sporting Cristal",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
+      "league": "Primera División",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Sport Boys",
+      "awayTeam": "Comerciantes Unidos",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera División",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Cienciano",
+      "awayTeam": "Ayacucho FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera División",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "BC Rangers",
+      "awayTeam": "Kowloon City",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Senior Shield",
+      "time": "9'"
+    },
+    {
+      "homeTeam": "Inter Club",
+      "awayTeam": "Jeunesse Unie de Kintélé",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Vegas",
+      "awayTeam": "Kondzo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Étoile du Congo",
+      "awayTeam": "CARA Brazzaville",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Red Stars",
+      "awayTeam": "JS Talangaï",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Persipura Jayapura",
+      "awayTeam": "Tornado Pekanbaru",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
       "league": "Liga 2",
-      "time": "14'"
+      "time": "40'"
+    },
+    {
+      "homeTeam": "Central Stallions",
+      "awayTeam": "Khovd",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "7'"
     },
     {
       "homeTeam": "Calvary",
@@ -137,56 +209,56 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Mito Hollyhock",
-      "awayTeam": "Fujieda MYFC",
-      "homeScore": 2,
+      "homeTeam": "Kwun Tong",
+      "awayTeam": "Shatin",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "J2 League",
-      "time": "81'"
-    },
-    {
-      "homeTeam": "Busan Transportation",
-      "awayTeam": "Gimhae City",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "K3 League",
-      "time": "83'"
-    },
-    {
-      "homeTeam": "Sham Shui Po",
-      "awayTeam": "Yuen Long",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
       "league": "HKFA 1st Division",
-      "time": "86'"
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Kataller Toyama",
+      "awayTeam": "Tokushima Vortis",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "J2 League",
+      "time": "47'"
+    },
+    {
+      "homeTeam": "Verspah Oita",
+      "awayTeam": "Criacao Shinjuku",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Japan Football League",
+      "time": "48'"
     },
     {
       "homeTeam": "Tung Sing",
       "awayTeam": "3 Sing",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "Live",
       "league": "HKFA 1st Division",
-      "time": "60'"
+      "time": "87'"
     },
     {
       "homeTeam": "Citizen AA",
       "awayTeam": "Hoi King",
-      "homeScore": 2,
-      "awayScore": 2,
+      "homeScore": 3,
+      "awayScore": 5,
       "status": "Live",
       "league": "HKFA 1st Division",
-      "time": "57'"
+      "time": "84'"
     }
   ],
-  "lastUpdated": "2025-09-28T06:44:00.021Z",
+  "lastUpdated": "2025-09-28T07:11:01.382Z",
   "source": "api-football",
-  "totalMatches": 20,
-  "liveMatches": 20,
+  "totalMatches": 28,
+  "liveMatches": 28,
   "finishedMatches": 0,
   "upcomingMatches": 0,
-  "apiCalls": 1
+  "apiCalls": 2
 }
