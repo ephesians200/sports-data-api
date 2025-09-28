@@ -2,67 +2,94 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Chicago Fire",
-      "awayTeam": "Columbus Crew",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "24'"
-    },
-    {
-      "homeTeam": "Nashville SC",
-      "awayTeam": "Houston Dynamo",
+      "homeTeam": "Los Angeles Galaxy",
+      "awayTeam": "Sporting Kansas City",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "24'"
+      "time": "10'"
     },
     {
-      "homeTeam": "St. Louis City",
-      "awayTeam": "Los Angeles FC",
+      "homeTeam": "Portland Timbers",
+      "awayTeam": "FC Dallas",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 0,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "24'"
+      "time": "10'"
     },
     {
-      "homeTeam": "San Antonio",
-      "awayTeam": "Birmingham Legion",
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Vancouver Whitecaps",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Major League Soccer",
+      "time": "9'"
+    },
+    {
+      "homeTeam": "San Diego",
+      "awayTeam": "San Jose Earthquakes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Major League Soccer",
+      "time": "9'"
+    },
+    {
+      "homeTeam": "Monterey Bay",
+      "awayTeam": "Sacramento Republic",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "USL Championship",
-      "time": "27'"
+      "time": "43'"
     },
     {
-      "homeTeam": "North Texas",
-      "awayTeam": "Real Monarchs",
-      "homeScore": 1,
+      "homeTeam": "Orange County SC",
+      "awayTeam": "Charleston Battery",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "USL Championship",
+      "time": "43'"
+    },
+    {
+      "homeTeam": "Phoenix Rising",
+      "awayTeam": "Oakland Roots",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "USL Championship",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Bay FC",
+      "awayTeam": "Utah Royals W",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "NWSL Women",
+      "time": "45'"
+    },
+    {
+      "homeTeam": "Carrick Rangers",
+      "awayTeam": "Bangor",
+      "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "MLS Next Pro",
-      "time": "30'"
+      "league": "Premiership",
+      "time": "Live"
     },
     {
-      "homeTeam": "Rewa",
-      "awayTeam": "Nasinu",
-      "homeScore": 0,
+      "homeTeam": "Blackburn",
+      "awayTeam": "Ipswich",
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "National Football League",
-      "time": "3'"
-    },
-    {
-      "homeTeam": "Toluca",
-      "awayTeam": "Mazatlán",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga MX",
-      "time": "2'"
+      "league": "Championship",
+      "time": "Live"
     },
     {
       "homeTeam": "Marseille",
@@ -83,40 +110,31 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Metropolitanos FC",
-      "awayTeam": "Portuguesa FC",
+      "homeTeam": "CS Herediano",
+      "awayTeam": "Guadalupe FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Primera División",
-      "time": "34'"
+      "time": "45'"
     },
     {
-      "homeTeam": "Firpo",
-      "awayTeam": "Alianza",
+      "homeTeam": "Selangor",
+      "awayTeam": "Melaka",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Primera Division",
-      "time": "1'"
+      "league": "Super League",
+      "time": "Live"
     },
     {
-      "homeTeam": "Monarcas",
-      "awayTeam": "Atlante FC",
+      "homeTeam": "Power Dynamos",
+      "awayTeam": "ZESCO United",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga de Expansión MX",
-      "time": "5'"
-    },
-    {
-      "homeTeam": "Cancún",
-      "awayTeam": "Tapatío",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga de Expansión MX",
-      "time": "4'"
+      "league": "Super League",
+      "time": "Live"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -182,22 +200,94 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Futbol Consultants Moravia",
-      "awayTeam": "Pitbulls Santa Barbara FC",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "MC Alger",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga de Ascenso",
-      "time": "4'"
+      "league": "Ligue 1",
+      "time": "Live"
     },
     {
-      "homeTeam": "Lobos ULMX",
-      "awayTeam": "Chilpancingo",
+      "homeTeam": "Yarmanya United",
+      "awayTeam": "Shan United",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "1'"
+      "league": "National League",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Cultural Santa Rosa",
+      "awayTeam": "Sporting Cristal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera División",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Inter Club",
+      "awayTeam": "Jeunesse Unie de Kintélé",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Vegas",
+      "awayTeam": "Kondzo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Étoile du Congo",
+      "awayTeam": "CARA Brazzaville",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Red Stars",
+      "awayTeam": "JS Talangaï",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "RC Bobo-Dioulasso",
+      "awayTeam": "Rahimo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Maroons",
+      "awayTeam": "NEC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Vipers",
+      "awayTeam": "SC Villa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "Live"
     },
     {
       "homeTeam": "Calvary",
@@ -218,190 +308,154 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Coastal Spirit",
-      "awayTeam": "Birkenhead United",
+      "homeTeam": "Chocorosi",
+      "awayTeam": "Río San Juan Humi",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "National League - National",
-      "time": "5'"
+      "league": "Nacional B",
+      "time": "Live"
     },
     {
-      "homeTeam": "Atenas",
-      "awayTeam": "Tacuarembo",
+      "homeTeam": "Colorado Rapids",
+      "awayTeam": "Minnesota United FC",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Segunda División",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Charlotte",
-      "awayTeam": "CF Montreal",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
       "league": "Major League Soccer",
-      "time": "56'"
+      "time": "52'"
     },
     {
-      "homeTeam": "DC United",
-      "awayTeam": "Philadelphia Union",
-      "homeScore": 0,
-      "awayScore": 6,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "64'"
-    },
-    {
-      "homeTeam": "New England Revolution",
-      "awayTeam": "Atlanta United FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "68'"
-    },
-    {
-      "homeTeam": "New York Red Bulls",
-      "awayTeam": "New York City FC",
+      "homeTeam": "Real Salt Lake",
+      "awayTeam": "Austin",
       "homeScore": 2,
-      "awayScore": 2,
+      "awayScore": 0,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "58'"
+      "time": "50'"
     },
     {
-      "homeTeam": "Tormenta",
-      "awayTeam": "Richmond Kickers",
-      "homeScore": 4,
-      "awayScore": 2,
+      "homeTeam": "Spokane Velocity",
+      "awayTeam": "Greenville Triumph",
+      "homeScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "USL League One",
-      "time": "90'"
+      "time": "83'"
     },
     {
-      "homeTeam": "Racing Louisville W",
-      "awayTeam": "Angel City W",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NWSL Women",
-      "time": "74'"
-    },
-    {
-      "homeTeam": "Carolina Core",
-      "awayTeam": "Orlando City II",
+      "homeTeam": "Navua",
+      "awayTeam": "Nadi",
       "homeScore": 3,
-      "awayScore": 3,
+      "awayScore": 2,
       "status": "Live",
-      "league": "MLS Next Pro",
-      "time": "65'"
-    },
-    {
-      "homeTeam": "Atletico Paranaense",
-      "awayTeam": "Operario-PR",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Serie B",
+      "league": "National Football League",
       "time": "75'"
     },
     {
-      "homeTeam": "Atlas",
-      "awayTeam": "Necaxa",
-      "homeScore": 3,
-      "awayScore": 2,
+      "homeTeam": "Rewa",
+      "awayTeam": "Nasinu",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "National Football League",
+      "time": "89'"
+    },
+    {
+      "homeTeam": "Monterrey",
+      "awayTeam": "Santos Laguna",
+      "homeScore": 1,
+      "awayScore": 0,
       "status": "Live",
       "league": "Liga MX",
+      "time": "86'"
+    },
+    {
+      "homeTeam": "Toluca",
+      "awayTeam": "Mazatlán",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga MX",
+      "time": "81'"
+    },
+    {
+      "homeTeam": "Atletico Nacional",
+      "awayTeam": "Millonarios",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera A",
+      "time": "59'"
+    },
+    {
+      "homeTeam": "Isidro Metapán",
+      "awayTeam": "Municipal Limeño",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Primera Division",
       "time": "90'"
     },
     {
-      "homeTeam": "Deportes Tolima",
-      "awayTeam": "Independiente Medellin",
-      "homeScore": 2,
-      "awayScore": 3,
+      "homeTeam": "Firpo",
+      "awayTeam": "Alianza",
+      "homeScore": 0,
+      "awayScore": 5,
       "status": "Live",
-      "league": "Primera A",
-      "time": "78'"
+      "league": "Primera Division",
+      "time": "88'"
     },
     {
-      "homeTeam": "Cibao",
-      "awayTeam": "Salcedo",
-      "homeScore": 0,
+      "homeTeam": "Plaza Amador",
+      "awayTeam": "Independiente de La Chorrera",
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Mayor",
-      "time": "46'"
+      "league": "Liga Panameña de Fútbol",
+      "time": "64'"
     },
     {
-      "homeTeam": "Génesis",
-      "awayTeam": "Lobos Upnfm",
-      "homeScore": 1,
+      "homeTeam": "Monarcas",
+      "awayTeam": "Atlante FC",
+      "homeScore": 0,
       "awayScore": 2,
       "status": "Live",
-      "league": "Liga Nacional",
-      "time": "76'"
+      "league": "Liga de Expansión MX",
+      "time": "88'"
     },
     {
-      "homeTeam": "Colorado Springs",
-      "awayTeam": "Hartford Athletic",
-      "homeScore": 0,
+      "homeTeam": "Cancún",
+      "awayTeam": "Tapatío",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga de Expansión MX",
+      "time": "88'"
+    },
+    {
+      "homeTeam": "Futbol Consultants Moravia",
+      "awayTeam": "Pitbulls Santa Barbara FC",
+      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
-      "league": "USL Championship",
-      "time": "HT"
+      "league": "Liga de Ascenso",
+      "time": "88'"
     },
     {
-      "homeTeam": "Deportivo Moron",
-      "awayTeam": "Atletico Mitre",
+      "homeTeam": "Lobos ULMX",
+      "awayTeam": "Chilpancingo",
       "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera Nacional",
-      "time": "HT"
-    },
-    {
-      "homeTeam": "Barcelona SC",
-      "awayTeam": "Aucas",
-      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
-      "league": "Liga Pro",
-      "time": "HT"
-    },
-    {
-      "homeTeam": "Atletico-MG",
-      "awayTeam": "Mirassol",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Serie A",
-      "time": "HT"
-    },
-    {
-      "homeTeam": "Talleres Cordoba",
-      "awayTeam": "Sarmiento Junin",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Profesional Argentina",
-      "time": "HT"
-    },
-    {
-      "homeTeam": "Oriental",
-      "awayTeam": "Deportivo Maldonado",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Segunda División",
-      "time": "HT"
+      "league": "Liga Premier Serie A",
+      "time": "83'"
     }
   ],
-  "lastUpdated": "2025-09-28T01:04:27.453Z",
+  "lastUpdated": "2025-09-28T02:50:05.815Z",
   "source": "api-football",
-  "totalMatches": 44,
-  "liveMatches": 44,
+  "totalMatches": 50,
+  "liveMatches": 50,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
