@@ -2,112 +2,67 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Tormenta",
-      "awayTeam": "Richmond Kickers",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "USL League One",
-      "time": "26'"
-    },
-    {
-      "homeTeam": "Naples",
-      "awayTeam": "Alta",
+      "homeTeam": "Chicago Fire",
+      "awayTeam": "Columbus Crew",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "USL League One",
-      "time": "27'"
+      "league": "Major League Soccer",
+      "time": "24'"
     },
     {
-      "homeTeam": "Chattanooga Red Wolves",
-      "awayTeam": "Union Omaha",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "USL League One",
-      "time": "28'"
-    },
-    {
-      "homeTeam": "Detroit City",
-      "awayTeam": "Louisville City",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "USL Championship",
-      "time": "28'"
-    },
-    {
-      "homeTeam": "Indy Eleven",
-      "awayTeam": "FC Tulsa",
+      "homeTeam": "Nashville SC",
+      "awayTeam": "Houston Dynamo",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
+      "league": "Major League Soccer",
+      "time": "24'"
+    },
+    {
+      "homeTeam": "St. Louis City",
+      "awayTeam": "Los Angeles FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Major League Soccer",
+      "time": "24'"
+    },
+    {
+      "homeTeam": "San Antonio",
+      "awayTeam": "Birmingham Legion",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
       "league": "USL Championship",
-      "time": "28'"
+      "time": "27'"
     },
     {
-      "homeTeam": "Racing Louisville W",
-      "awayTeam": "Angel City W",
+      "homeTeam": "North Texas",
+      "awayTeam": "Real Monarchs",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "MLS Next Pro",
+      "time": "30'"
+    },
+    {
+      "homeTeam": "Rewa",
+      "awayTeam": "Nasinu",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "NWSL Women",
-      "time": "4'"
+      "league": "National Football League",
+      "time": "3'"
     },
     {
-      "homeTeam": "Atletico Paranaense",
-      "awayTeam": "Operario-PR",
+      "homeTeam": "Toluca",
+      "awayTeam": "Mazatlán",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Serie B",
-      "time": "4'"
-    },
-    {
-      "homeTeam": "Chile U20",
-      "awayTeam": "New Zealand U20",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "World Cup - U20",
-      "time": "33'"
-    },
-    {
-      "homeTeam": "Paraguay U20",
-      "awayTeam": "Panama U20",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "World Cup - U20",
-      "time": "33'"
-    },
-    {
-      "homeTeam": "Puebla",
-      "awayTeam": "Guadalajara Chivas",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
       "league": "Liga MX",
-      "time": "33'"
-    },
-    {
-      "homeTeam": "Atlas",
-      "awayTeam": "Necaxa",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga MX",
-      "time": "31'"
-    },
-    {
-      "homeTeam": "Pachuca",
-      "awayTeam": "Atletico San Luis",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga MX",
-      "time": "33'"
+      "time": "2'"
     },
     {
       "homeTeam": "Marseille",
@@ -128,22 +83,40 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Municipal",
-      "awayTeam": "Achuapa",
+      "homeTeam": "Metropolitanos FC",
+      "awayTeam": "Portuguesa FC",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Nacional",
-      "time": "29'"
+      "league": "Primera División",
+      "time": "34'"
     },
     {
-      "homeTeam": "Deportes Tolima",
-      "awayTeam": "Independiente Medellin",
-      "homeScore": 1,
+      "homeTeam": "Firpo",
+      "awayTeam": "Alianza",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Primera A",
-      "time": "14'"
+      "league": "Primera Division",
+      "time": "1'"
+    },
+    {
+      "homeTeam": "Monarcas",
+      "awayTeam": "Atlante FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga de Expansión MX",
+      "time": "5'"
+    },
+    {
+      "homeTeam": "Cancún",
+      "awayTeam": "Tapatío",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga de Expansión MX",
+      "time": "4'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -209,31 +182,22 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Diriangén",
-      "awayTeam": "Jalapa",
+      "homeTeam": "Futbol Consultants Moravia",
+      "awayTeam": "Pitbulls Santa Barbara FC",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Primera Division",
-      "time": "33'"
+      "league": "Liga de Ascenso",
+      "time": "4'"
     },
     {
-      "homeTeam": "Génesis",
-      "awayTeam": "Lobos Upnfm",
+      "homeTeam": "Lobos ULMX",
+      "awayTeam": "Chilpancingo",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Nacional",
-      "time": "19'"
-    },
-    {
-      "homeTeam": "Universitario",
-      "awayTeam": "Cusco",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primera División",
-      "time": "33'"
+      "league": "Liga Premier Serie A",
+      "time": "1'"
     },
     {
       "homeTeam": "Calvary",
@@ -254,109 +218,190 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Western Springs",
-      "awayTeam": "Western Suburbs",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "National League - National",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Tristan Suarez",
-      "awayTeam": "Racing Cordoba",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primera Nacional",
-      "time": "59'"
-    },
-    {
-      "homeTeam": "Defensa Y Justicia",
-      "awayTeam": "Boca Juniors",
+      "homeTeam": "Coastal Spirit",
+      "awayTeam": "Birkenhead United",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga Profesional Argentina",
+      "league": "National League - National",
+      "time": "5'"
+    },
+    {
+      "homeTeam": "Atenas",
+      "awayTeam": "Tacuarembo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Segunda División",
+      "time": "45'"
+    },
+    {
+      "homeTeam": "Charlotte",
+      "awayTeam": "CF Montreal",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Major League Soccer",
+      "time": "56'"
+    },
+    {
+      "homeTeam": "DC United",
+      "awayTeam": "Philadelphia Union",
+      "homeScore": 0,
+      "awayScore": 6,
+      "status": "Live",
+      "league": "Major League Soccer",
+      "time": "64'"
+    },
+    {
+      "homeTeam": "New England Revolution",
+      "awayTeam": "Atlanta United FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Major League Soccer",
+      "time": "68'"
+    },
+    {
+      "homeTeam": "New York Red Bulls",
+      "awayTeam": "New York City FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Major League Soccer",
+      "time": "58'"
+    },
+    {
+      "homeTeam": "Tormenta",
+      "awayTeam": "Richmond Kickers",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "USL League One",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Racing Louisville W",
+      "awayTeam": "Angel City W",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NWSL Women",
       "time": "74'"
     },
     {
-      "homeTeam": "Moca",
-      "awayTeam": "Atlético Pantoja",
+      "homeTeam": "Carolina Core",
+      "awayTeam": "Orlando City II",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "Live",
+      "league": "MLS Next Pro",
+      "time": "65'"
+    },
+    {
+      "homeTeam": "Atletico Paranaense",
+      "awayTeam": "Operario-PR",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie B",
+      "time": "75'"
+    },
+    {
+      "homeTeam": "Atlas",
+      "awayTeam": "Necaxa",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Liga MX",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Deportes Tolima",
+      "awayTeam": "Independiente Medellin",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "Live",
+      "league": "Primera A",
+      "time": "78'"
+    },
+    {
+      "homeTeam": "Cibao",
+      "awayTeam": "Salcedo",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Liga Mayor",
-      "time": "73'"
+      "time": "46'"
     },
     {
-      "homeTeam": "Tritons Vallarta",
-      "awayTeam": "Cimarrones",
-      "homeScore": 0,
+      "homeTeam": "Génesis",
+      "awayTeam": "Lobos Upnfm",
+      "homeScore": 1,
       "awayScore": 2,
       "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "72'"
-    },
-    {
-      "homeTeam": "Colima",
-      "awayTeam": "Reboceros La Piedad",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "67'"
-    },
-    {
-      "homeTeam": "Cordobés",
-      "awayTeam": "Zacatepec 1948",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "61'"
-    },
-    {
-      "homeTeam": "Deportivo Zap",
-      "awayTeam": "FC Santiago",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
-      "time": "72'"
-    },
-    {
-      "homeTeam": "Mexicali FC",
-      "awayTeam": "Montañeses",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga Premier Serie A",
+      "league": "Liga Nacional",
       "time": "76'"
     },
     {
-      "homeTeam": "Nacional Asuncion",
-      "awayTeam": "Libertad Asuncion",
-      "homeScore": 2,
+      "homeTeam": "Colorado Springs",
+      "awayTeam": "Hartford Athletic",
+      "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "Division Profesional - Clausura",
+      "league": "USL Championship",
       "time": "HT"
     },
     {
-      "homeTeam": "Brusque",
-      "awayTeam": "Guarani Campinas",
+      "homeTeam": "Deportivo Moron",
+      "awayTeam": "Atletico Mitre",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primera Nacional",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Barcelona SC",
+      "awayTeam": "Aucas",
       "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
-      "league": "Serie C",
+      "league": "Liga Pro",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Atletico-MG",
+      "awayTeam": "Mirassol",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie A",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Talleres Cordoba",
+      "awayTeam": "Sarmiento Junin",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga Profesional Argentina",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Oriental",
+      "awayTeam": "Deportivo Maldonado",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Segunda División",
       "time": "HT"
     }
   ],
-  "lastUpdated": "2025-09-27T23:34:06.652Z",
+  "lastUpdated": "2025-09-28T01:04:27.453Z",
   "source": "api-football",
-  "totalMatches": 39,
-  "liveMatches": 39,
+  "totalMatches": 44,
+  "liveMatches": 44,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
