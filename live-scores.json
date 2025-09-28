@@ -8,16 +8,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "10'"
+      "time": "35'"
     },
     {
       "homeTeam": "Fukushima United",
       "awayTeam": "Parceiro Nagano",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "J3 League",
-      "time": "10'"
+      "time": "36'"
     },
     {
       "homeTeam": "Matsumoto Yamaga",
@@ -26,16 +26,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J3 League",
-      "time": "11'"
+      "time": "36'"
     },
     {
       "homeTeam": "Urayasu",
       "awayTeam": "YSCC",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "14'"
+      "time": "38'"
     },
     {
       "homeTeam": "Tokyo Musashino City",
@@ -44,7 +44,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "12'"
+      "time": "36'"
     },
     {
       "homeTeam": "Carrick Rangers",
@@ -170,7 +170,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "12'"
+      "time": "38'"
     },
     {
       "homeTeam": "Maroons",
@@ -209,73 +209,37 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Los Angeles Galaxy",
-      "awayTeam": "Sporting Kansas City",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "74'"
-    },
-    {
-      "homeTeam": "Portland Timbers",
-      "awayTeam": "FC Dallas",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "75'"
-    },
-    {
       "homeTeam": "Seattle Sounders",
       "awayTeam": "Vancouver Whitecaps",
       "homeScore": 2,
       "awayScore": 2,
       "status": "Live",
       "league": "Major League Soccer",
-      "time": "69'"
-    },
-    {
-      "homeTeam": "San Diego",
-      "awayTeam": "San Jose Earthquakes",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Major League Soccer",
-      "time": "74'"
-    },
-    {
-      "homeTeam": "Phoenix Rising",
-      "awayTeam": "Oakland Roots",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Live",
-      "league": "USL Championship",
-      "time": "76'"
-    },
-    {
-      "homeTeam": "Dorados",
-      "awayTeam": "CDS Tampico Madero",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Liga de Expansión MX",
-      "time": "51'"
+      "time": "90'"
     },
     {
       "homeTeam": "Club America",
       "awayTeam": "U.N.A.M. - Pumas",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "Live",
       "league": "Liga MX",
-      "time": "HT"
+      "time": "66'"
+    },
+    {
+      "homeTeam": "Dorados",
+      "awayTeam": "CDS Tampico Madero",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Liga de Expansión MX",
+      "time": "77'"
     }
   ],
-  "lastUpdated": "2025-09-28T04:14:41.611Z",
+  "lastUpdated": "2025-09-28T04:39:21.617Z",
   "source": "api-football",
-  "totalMatches": 30,
-  "liveMatches": 30,
+  "totalMatches": 26,
+  "liveMatches": 26,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
