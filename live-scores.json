@@ -2,49 +2,22 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Blaublitz Akita",
-      "awayTeam": "V-varen Nagasaki",
+      "homeTeam": "Mito Hollyhock",
+      "awayTeam": "Fujieda MYFC",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "35'"
+      "time": "8'"
     },
     {
-      "homeTeam": "Fukushima United",
-      "awayTeam": "Parceiro Nagano",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "J3 League",
-      "time": "36'"
-    },
-    {
-      "homeTeam": "Matsumoto Yamaga",
-      "awayTeam": "Tochigi SC",
+      "homeTeam": "Busan Transportation",
+      "awayTeam": "Gimhae City",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "J3 League",
-      "time": "36'"
-    },
-    {
-      "homeTeam": "Urayasu",
-      "awayTeam": "YSCC",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Japan Football League",
-      "time": "38'"
-    },
-    {
-      "homeTeam": "Tokyo Musashino City",
-      "awayTeam": "Porvenir Asuka",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Japan Football League",
-      "time": "36'"
+      "league": "K3 League",
+      "time": "12'"
     },
     {
       "homeTeam": "Carrick Rangers",
@@ -164,15 +137,6 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Ulaanbaatar",
-      "awayTeam": "Falcons",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "38'"
-    },
-    {
       "homeTeam": "Maroons",
       "awayTeam": "NEC",
       "homeScore": 0,
@@ -209,37 +173,64 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Seattle Sounders",
-      "awayTeam": "Vancouver Whitecaps",
-      "homeScore": 2,
-      "awayScore": 2,
+      "homeTeam": "Blaublitz Akita",
+      "awayTeam": "V-varen Nagasaki",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
-      "league": "Major League Soccer",
-      "time": "90'"
+      "league": "J2 League",
+      "time": "51'"
     },
     {
-      "homeTeam": "Club America",
-      "awayTeam": "U.N.A.M. - Pumas",
-      "homeScore": 2,
+      "homeTeam": "Fukushima United",
+      "awayTeam": "Parceiro Nagano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "J3 League",
+      "time": "50'"
+    },
+    {
+      "homeTeam": "Matsumoto Yamaga",
+      "awayTeam": "Tochigi SC",
+      "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "Liga MX",
-      "time": "66'"
+      "league": "J3 League",
+      "time": "52'"
     },
     {
-      "homeTeam": "Dorados",
-      "awayTeam": "CDS Tampico Madero",
-      "homeScore": 2,
-      "awayScore": 2,
+      "homeTeam": "Urayasu",
+      "awayTeam": "YSCC",
+      "homeScore": 0,
+      "awayScore": 3,
       "status": "Live",
-      "league": "Liga de Expansión MX",
-      "time": "77'"
+      "league": "Japan Football League",
+      "time": "54'"
+    },
+    {
+      "homeTeam": "Tokyo Musashino City",
+      "awayTeam": "Porvenir Asuka",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Japan Football League",
+      "time": "49'"
+    },
+    {
+      "homeTeam": "Ulaanbaatar",
+      "awayTeam": "Falcons",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "50'"
     }
   ],
-  "lastUpdated": "2025-09-28T04:39:21.617Z",
+  "lastUpdated": "2025-09-28T05:12:00.145Z",
   "source": "api-football",
-  "totalMatches": 26,
-  "liveMatches": 26,
+  "totalMatches": 25,
+  "liveMatches": 25,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
