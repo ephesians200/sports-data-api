@@ -8,7 +8,34 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J1 League",
-      "time": "7'"
+      "time": "30'"
+    },
+    {
+      "homeTeam": "Paide II",
+      "awayTeam": "Maardu",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Esiliiga B",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Legion",
+      "awayTeam": "Narva U21",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Esiliiga B",
+      "time": "2'"
+    },
+    {
+      "homeTeam": "Läänemaa Haapsalu",
+      "awayTeam": "Nõmme United II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Esiliiga B",
+      "time": "2'"
     },
     {
       "homeTeam": "Irkutsk",
@@ -17,7 +44,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Second League - Group 2",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Krylya Sovetov II",
@@ -26,7 +53,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Second League - Group 4",
-      "time": "11'"
+      "time": "33'"
     },
     {
       "homeTeam": "Nosta",
@@ -35,7 +62,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Second League - Group 4",
-      "time": "11'"
+      "time": "33'"
     },
     {
       "homeTeam": "Uralets Nizhnyi Tagil",
@@ -44,7 +71,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Second League - Group 4",
-      "time": "10'"
+      "time": "32'"
     },
     {
       "homeTeam": "Marseille",
@@ -65,49 +92,13 @@
       "time": "Live"
     },
     {
-      "homeTeam": "SV Kapfenberg",
-      "awayTeam": "First Vienna",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "2. Liga",
-      "time": "39'"
-    },
-    {
       "homeTeam": "Zabbar St. Patrick",
       "awayTeam": "Gzira United",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "6'"
-    },
-    {
-      "homeTeam": "Malženice",
-      "awayTeam": "Slovan Bratislava II",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "2. liga",
-      "time": "40'"
-    },
-    {
-      "homeTeam": "Petržalka",
-      "awayTeam": "Slávia TU Košice",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "2. liga",
-      "time": "40'"
-    },
-    {
-      "homeTeam": "Žilina II",
-      "awayTeam": "Liptovský Mikuláš",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "2. liga",
-      "time": "41'"
+      "time": "28'"
     },
     {
       "homeTeam": "Dornbirn",
@@ -116,25 +107,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Regionalliga - West",
-      "time": "8'"
+      "time": "31'"
     },
     {
-      "homeTeam": "SVG Reichenau",
-      "awayTeam": "Kufstein",
+      "homeTeam": "Podillya Khmelnytskyi",
+      "awayTeam": "Prykarpattia",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Regionalliga - West",
-      "time": "41'"
-    },
-    {
-      "homeTeam": "Persis Solo",
-      "awayTeam": "Arema FC",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga 1",
-      "time": "41'"
+      "league": "Persha Liga",
+      "time": "1'"
     },
     {
       "homeTeam": "Lecce U20",
@@ -143,7 +125,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Campionato Primavera - 1",
-      "time": "11'"
+      "time": "33'"
+    },
+    {
+      "homeTeam": "Hellas Verona U20",
+      "awayTeam": "Sassuolo U20",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Campionato Primavera - 1",
+      "time": "29'"
     },
     {
       "homeTeam": "Borussia M'bach U19",
@@ -152,16 +143,16 @@
       "awayScore": 2,
       "status": "Live",
       "league": "U19 Bundesliga",
-      "time": "11'"
+      "time": "34'"
     },
     {
       "homeTeam": "HEBC",
       "awayTeam": "Niendorfer TSV",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Oberliga - Hamburg",
-      "time": "25'"
+      "time": "45'"
     },
     {
       "homeTeam": "Novosibirsk",
@@ -170,7 +161,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Second League A - Fall Season Gold",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Hirnyk-Sport",
@@ -179,25 +170,34 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Druha Liga",
-      "time": "9'"
+      "time": "31'"
     },
     {
-      "homeTeam": "Ferencváros II",
-      "awayTeam": "Balatonlelle SE",
+      "homeTeam": "Paksi SE II",
+      "awayTeam": "Iváncsa",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "NB III - Southwest",
-      "time": "12'"
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Ferencváros II",
+      "awayTeam": "Balatonlelle SE",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "NB III - Southwest",
+      "time": "34'"
     },
     {
       "homeTeam": "Puskás II",
       "awayTeam": "Újpest II",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "NB III - Northwest",
-      "time": "9'"
+      "time": "32'"
     },
     {
       "homeTeam": "Gyori ETO II",
@@ -206,16 +206,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "NB III - Northwest",
-      "time": "13'"
+      "time": "36'"
     },
     {
       "homeTeam": "Kisvárda II",
       "awayTeam": "Tarpa",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "NB III - Northeast",
-      "time": "11'"
+      "time": "34'"
     },
     {
       "homeTeam": "Al-Nahda",
@@ -281,13 +281,31 @@
       "time": "Live"
     },
     {
-      "homeTeam": "Trenčín II",
-      "awayTeam": "Baník Prievidza",
-      "homeScore": 1,
+      "homeTeam": "Ceahlăul Piatra Neamţ",
+      "awayTeam": "Chindia Targoviste",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "3. liga - West",
-      "time": "41'"
+      "league": "Liga II",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "La Unión Atlético",
+      "awayTeam": "Melilla",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Segunda División RFEF - Group 4",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Dagon",
+      "awayTeam": "Dagon Port",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "National League",
+      "time": "4'"
     },
     {
       "homeTeam": "Yarmanya United",
@@ -305,25 +323,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Lao League",
-      "time": "10'"
-    },
-    {
-      "homeTeam": "Hubei Chufeng Heli",
-      "awayTeam": "Guangzhou Dandelion",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League Two",
-      "time": "40'"
+      "time": "32'"
     },
     {
       "homeTeam": "Radnički Obrenovac",
       "awayTeam": "Brodarac",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Srpska Liga - Belgrade",
-      "time": "7'"
+      "time": "30'"
     },
     {
       "homeTeam": "Savannakhet",
@@ -332,7 +341,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Lao League",
-      "time": "10'"
+      "time": "33'"
     },
     {
       "homeTeam": "Ingolstadt",
@@ -341,7 +350,52 @@
       "awayScore": 0,
       "status": "Live",
       "league": "DFB Pokal - Women",
-      "time": "9'"
+      "time": "31'"
+    },
+    {
+      "homeTeam": "Santurtzi",
+      "awayTeam": "Aurrerá Vitoria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Tercera División RFEF - Group 4",
+      "time": "16'"
+    },
+    {
+      "homeTeam": "AD Parla",
+      "awayTeam": "Villanueva Pardillo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Tercera División RFEF - Group 7",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Carabanchel",
+      "awayTeam": "Las Rozas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Tercera División RFEF - Group 7",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Trival Valderas",
+      "awayTeam": "Leganés II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Tercera División RFEF - Group 7",
+      "time": "3'"
+    },
+    {
+      "homeTeam": "Torrejón",
+      "awayTeam": "Pozuelo Alarcón",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Tercera División RFEF - Group 7",
+      "time": "3'"
     },
     {
       "homeTeam": "Straßwalchen",
@@ -350,34 +404,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Landesliga - Salzburg",
-      "time": "5'"
-    },
-    {
-      "homeTeam": "Swarovski Tirol II",
-      "awayTeam": "Fügen",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Landesliga - Tirol",
-      "time": "37'"
-    },
-    {
-      "homeTeam": "Slovan HAC",
-      "awayTeam": "Schwechat",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Landesliga - Wien",
-      "time": "37'"
-    },
-    {
-      "homeTeam": "Vorwärts Brigittenau",
-      "awayTeam": "Dinamo Helfort",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Landesliga - Wien",
-      "time": "35'"
+      "time": "28'"
     },
     {
       "homeTeam": "Hellas Kagran",
@@ -386,7 +413,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Landesliga - Wien",
-      "time": "9'"
+      "time": "31'"
     },
     {
       "homeTeam": "FC UFA",
@@ -395,16 +422,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "First League",
-      "time": "10'"
-    },
-    {
-      "homeTeam": "Adhyaksa",
-      "awayTeam": "Persikad Depok FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "41'"
+      "time": "33'"
     },
     {
       "homeTeam": "Bà Ria Vũng Tàu",
@@ -413,7 +431,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "V.League 2",
-      "time": "9'"
+      "time": "32'"
     },
     {
       "homeTeam": "Calvary",
@@ -432,27 +450,9 @@
       "status": "Live",
       "league": "Premier League",
       "time": "Live"
-    },
-    {
-      "homeTeam": "Lucky Mile",
-      "awayTeam": "Resources Capital",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "HKFA 1st Division",
-      "time": "11'"
-    },
-    {
-      "homeTeam": "Videm",
-      "awayTeam": "Rače",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "3. SNL - East",
-      "time": "39'"
     }
   ],
-  "lastUpdated": "2025-09-28T09:11:09.561Z",
+  "lastUpdated": "2025-09-28T09:33:50.861Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 50,
