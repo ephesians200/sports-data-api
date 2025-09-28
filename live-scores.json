@@ -4,11 +4,11 @@
     {
       "homeTeam": "Mito Hollyhock",
       "awayTeam": "Fujieda MYFC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "8'"
+      "time": "33'"
     },
     {
       "homeTeam": "Busan Transportation",
@@ -17,7 +17,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "K3 League",
-      "time": "12'"
+      "time": "37'"
     },
     {
       "homeTeam": "Carrick Rangers",
@@ -179,25 +179,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "J2 League",
-      "time": "51'"
+      "time": "76'"
     },
     {
       "homeTeam": "Fukushima United",
       "awayTeam": "Parceiro Nagano",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 4,
       "status": "Live",
       "league": "J3 League",
-      "time": "50'"
+      "time": "75'"
     },
     {
       "homeTeam": "Matsumoto Yamaga",
       "awayTeam": "Tochigi SC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
       "league": "J3 League",
-      "time": "52'"
+      "time": "77'"
     },
     {
       "homeTeam": "Urayasu",
@@ -206,7 +206,7 @@
       "awayScore": 3,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "54'"
+      "time": "79'"
     },
     {
       "homeTeam": "Tokyo Musashino City",
@@ -215,7 +215,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Japan Football League",
-      "time": "49'"
+      "time": "74'"
     },
     {
       "homeTeam": "Ulaanbaatar",
@@ -224,10 +224,10 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Premier League",
-      "time": "50'"
+      "time": "75'"
     }
   ],
-  "lastUpdated": "2025-09-28T05:12:00.145Z",
+  "lastUpdated": "2025-09-28T05:36:51.533Z",
   "source": "api-football",
   "totalMatches": 25,
   "liveMatches": 25,
