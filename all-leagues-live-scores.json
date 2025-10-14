@@ -1,1 +1,84 @@
-
+{
+  "success": true,
+  "matches": [
+    {
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Chelsea",
+      "awayTeam": "Man City",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Madrid",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "La Liga",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Borussia Dortmund",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Bundesliga",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "PSG",
+      "awayTeam": "Marseille",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Juventus",
+      "awayTeam": "AC Milan",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie A",
+      "time": "Live"
+    },
+    {
+      "homeTeam": "Manchester United",
+      "awayTeam": "Tottenham",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "TBD"
+    },
+    {
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Valencia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "La Liga",
+      "time": "90'"
+    }
+  ],
+  "lastUpdated": "2025-10-14T02:23:13.460Z",
+  "source": "api-football",
+  "totalMatches": 8,
+  "liveMatches": 5,
+  "finishedMatches": 2,
+  "upcomingMatches": 1,
+  "apiCalls": 1
+}
