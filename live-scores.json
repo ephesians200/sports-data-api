@@ -11,22 +11,13 @@
       "time": "16'"
     },
     {
-      "homeTeam": "CD Marathon",
-      "awayTeam": "Olancho",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga Nacional",
-      "time": "84'"
-    },
-    {
-      "homeTeam": "Spanish Town Police",
-      "awayTeam": "Treasure Beach",
-      "homeScore": 1,
+      "homeTeam": "Inter Moengotapoe",
+      "awayTeam": "Leo Victor",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Premier League",
-      "time": "80'"
+      "league": "Eerste Divisie",
+      "time": "7'"
     },
     {
       "homeTeam": "Municipal",
@@ -450,13 +441,22 @@
       "status": "FT",
       "league": "Pro League",
       "time": "90'"
+    },
+    {
+      "homeTeam": "Dibba Al-Fujairah",
+      "awayTeam": "Al-Wasl FC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T22:41:37.088Z",
+  "lastUpdated": "2025-12-28T23:13:01.844Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 3,
-  "finishedMatches": 47,
+  "liveMatches": 2,
+  "finishedMatches": 48,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
