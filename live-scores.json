@@ -11,13 +11,31 @@
       "time": "16'"
     },
     {
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Rio Ave",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primeira Liga",
+      "time": "82'"
+    },
+    {
+      "homeTeam": "Notch",
+      "awayTeam": "FC Inter Wanica",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Eerste Divisie",
+      "time": "75'"
+    },
+    {
       "homeTeam": "CD Marathon",
       "awayTeam": "Olancho",
       "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
       "league": "Liga Nacional",
-      "time": "38'"
+      "time": "55'"
     },
     {
       "homeTeam": "Spanish Town Police",
@@ -26,70 +44,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "35'"
-    },
-    {
-      "homeTeam": "Ivory Coast",
-      "awayTeam": "Cameroon",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "78'"
-    },
-    {
-      "homeTeam": "Atalanta",
-      "awayTeam": "Inter",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Serie A",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Sporting CP",
-      "awayTeam": "Rio Ave",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primeira Liga",
-      "time": "47'"
-    },
-    {
-      "homeTeam": "Harbour View",
-      "awayTeam": "Cavalier",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "77'"
-    },
-    {
-      "homeTeam": "Montego Bay United",
-      "awayTeam": "Mount Pleasant Academy",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "67'"
-    },
-    {
-      "homeTeam": "Portmore United",
-      "awayTeam": "Dunbeholden",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "77'"
-    },
-    {
-      "homeTeam": "Notch",
-      "awayTeam": "FC Inter Wanica",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Eerste Divisie",
-      "time": "HT"
+      "time": "52'"
     },
     {
       "homeTeam": "Municipal",
@@ -450,13 +405,58 @@
       "status": "FT",
       "league": "Azadegan League",
       "time": "90'"
+    },
+    {
+      "homeTeam": "Pattani",
+      "awayTeam": "Ratchaburi",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "League Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Hong Kong",
+      "awayTeam": "Guangdong XI",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Guangdong - Hong Kong Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Selangor",
+      "awayTeam": "Melaka",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Super League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Gabon",
+      "awayTeam": "Mozambique",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "National Bank of Egypt",
+      "awayTeam": "Enppi",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Cup",
+      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T21:37:41.607Z",
+  "lastUpdated": "2025-12-28T22:13:05.972Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 10,
-  "finishedMatches": 40,
+  "liveMatches": 5,
+  "finishedMatches": 45,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
