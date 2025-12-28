@@ -14,10 +14,19 @@
       "homeTeam": "Inter Moengotapoe",
       "awayTeam": "Leo Victor",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Eerste Divisie",
-      "time": "7'"
+      "time": "33'"
+    },
+    {
+      "homeTeam": "Waterhouse",
+      "awayTeam": "Molynes United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "6'"
     },
     {
       "homeTeam": "Municipal",
@@ -441,22 +450,13 @@
       "status": "FT",
       "league": "Pro League",
       "time": "90'"
-    },
-    {
-      "homeTeam": "Dibba Al-Fujairah",
-      "awayTeam": "Al-Wasl FC",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Pro League",
-      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T23:13:01.844Z",
+  "lastUpdated": "2025-12-28T23:38:27.700Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 2,
-  "finishedMatches": 48,
+  "liveMatches": 3,
+  "finishedMatches": 47,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
