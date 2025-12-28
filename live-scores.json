@@ -2,21 +2,57 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Keçiörengücü",
-      "awayTeam": "Ümraniyespor",
+      "homeTeam": "Academico Viseu",
+      "awayTeam": "Benfica B",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
+      "league": "Segunda Liga",
+      "time": "7'"
+    },
+    {
+      "homeTeam": "Keçiörengücü",
+      "awayTeam": "Ümraniyespor",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
       "league": "1. Lig",
-      "time": "10'"
+      "time": "39'"
     },
     {
       "homeTeam": "Serik Belediyespor",
       "awayTeam": "Boluspor",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "1. Lig",
+      "time": "41'"
+    },
+    {
+      "homeTeam": "NagaWorld",
+      "awayTeam": "Dangkor Senchey",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "C-League",
+      "time": "12'"
+    },
+    {
+      "homeTeam": "Angkor Tiger",
+      "awayTeam": "Kirivong Sok Sen Chey",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "C-League",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Visakha",
+      "awayTeam": "Kompong Dewa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "C-League",
       "time": "12'"
     },
     {
@@ -29,22 +65,40 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Erzin Spor",
-      "awayTeam": "Ankaragücü",
+      "homeTeam": "Esan Pattaya",
+      "awayTeam": "Bangkok United",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
+      "league": "League Cup",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Mahasarakham United",
+      "awayTeam": "Rayong FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "League Cup",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Erzin Spor",
+      "awayTeam": "Ankaragücü",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
       "league": "2. Lig",
-      "time": "42'"
+      "time": "52'"
     },
     {
       "homeTeam": "Kepez Belediyespor",
       "awayTeam": "Batman Petrolspor",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "status": "Live",
       "league": "2. Lig",
-      "time": "42'"
+      "time": "52'"
     },
     {
       "homeTeam": "Erbaaspor",
@@ -53,34 +107,25 @@
       "awayScore": 1,
       "status": "Live",
       "league": "2. Lig",
-      "time": "41'"
+      "time": "50'"
     },
     {
       "homeTeam": "Samut Sakhon City",
       "awayTeam": "Prachuap",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "League Cup",
-      "time": "42'"
+      "time": "52'"
     },
     {
       "homeTeam": "Customs United",
       "awayTeam": "Sukhothai FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
       "league": "League Cup",
-      "time": "42'"
-    },
-    {
-      "homeTeam": "Satun United",
-      "awayTeam": "Lamphun Warrior",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "League Cup",
-      "time": "81'"
+      "time": "53'"
     },
     {
       "homeTeam": "Municipal",
@@ -94,11 +139,11 @@
     {
       "homeTeam": "Green City",
       "awayTeam": "Ottos Rangers",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "Not Started",
+      "status": "FT",
       "league": "Premier Division",
-      "time": "24:00"
+      "time": "90'"
     },
     {
       "homeTeam": "CD Olimpia",
@@ -200,58 +245,13 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Academico Viseu",
-      "awayTeam": "Benfica B",
+      "homeTeam": "Satun United",
+      "awayTeam": "Lamphun Warrior",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Segunda Liga",
-      "time": "11:00"
-    },
-    {
-      "homeTeam": "NagaWorld",
-      "awayTeam": "Dangkor Senchey",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "C-League",
-      "time": "11:00"
-    },
-    {
-      "homeTeam": "Angkor Tiger",
-      "awayTeam": "Kirivong Sok Sen Chey",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "C-League",
-      "time": "11:00"
-    },
-    {
-      "homeTeam": "Visakha",
-      "awayTeam": "Kompong Dewa",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "C-League",
-      "time": "11:00"
-    },
-    {
-      "homeTeam": "Esan Pattaya",
-      "awayTeam": "Bangkok United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
+      "awayScore": 2,
+      "status": "FT",
       "league": "League Cup",
-      "time": "11:00"
-    },
-    {
-      "homeTeam": "Mahasarakham United",
-      "awayTeam": "Rayong FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "League Cup",
-      "time": "11:00"
+      "time": "90'"
     },
     {
       "homeTeam": "AC Milan",
@@ -452,11 +452,11 @@
       "time": "12:50"
     }
   ],
-  "lastUpdated": "2025-12-28T10:42:49.953Z",
+  "lastUpdated": "2025-12-28T11:11:45.437Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 9,
-  "finishedMatches": 13,
-  "upcomingMatches": 28,
+  "liveMatches": 14,
+  "finishedMatches": 15,
+  "upcomingMatches": 21,
   "apiCalls": 2
 }
