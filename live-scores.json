@@ -2,22 +2,13 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Equatorial Guinea",
-      "awayTeam": "Sudan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "38'"
-    },
-    {
       "homeTeam": "Arouca",
       "awayTeam": "GIL Vicente",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "status": "Live",
       "league": "Primeira Liga",
-      "time": "8'"
+      "time": "45'"
     },
     {
       "homeTeam": "Casa Pia",
@@ -26,7 +17,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Primeira Liga",
-      "time": "8'"
+      "time": "45'"
+    },
+    {
+      "homeTeam": "Amed",
+      "awayTeam": "76 Iğdır Belediyespor",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "1. Lig",
+      "time": "16'"
     },
     {
       "homeTeam": "Rayners Lane",
@@ -38,184 +38,148 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Plateau United",
-      "awayTeam": "Abia Warriors",
+      "homeTeam": "Shabab Al Ordon",
+      "awayTeam": "Al Salt",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NPFL",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "Enyimba",
-      "awayTeam": "Shooting Stars",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NPFL",
-      "time": "37'"
-    },
-    {
-      "homeTeam": "Niger Tornadoes",
-      "awayTeam": "Barau FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NPFL",
-      "time": "32'"
-    },
-    {
-      "homeTeam": "Kun Khalifat FC",
-      "awayTeam": "Katsina United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NPFL",
-      "time": "37'"
-    },
-    {
-      "homeTeam": "Bayelsa United",
-      "awayTeam": "El Kanemi Warriors",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NPFL",
-      "time": "34'"
-    },
-    {
-      "homeTeam": "Rivers United",
-      "awayTeam": "Enugu Rangers",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NPFL",
-      "time": "36'"
-    },
-    {
-      "homeTeam": "Warri Wolves",
-      "awayTeam": "Wikki Tourist",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "NPFL",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "Young Apostles",
-      "awayTeam": "Aduana Stars",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "36'"
-    },
-    {
-      "homeTeam": "Berekum Chelsea",
-      "awayTeam": "Eleven Wonders",
-      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
-      "league": "Premier League",
-      "time": "39'"
+      "league": "Shield Cup",
+      "time": "15'"
     },
     {
-      "homeTeam": "Bibiani Gold Stars",
-      "awayTeam": "Dreams",
+      "homeTeam": "Al Faisaly",
+      "awayTeam": "Al Wihdat",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Shield Cup",
+      "time": "16'"
+    },
+    {
+      "homeTeam": "Al Kuwait",
+      "awayTeam": "Al Fahaheel",
+      "homeScore": 3,
+      "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "37'"
+      "time": "31'"
+    },
+    {
+      "homeTeam": "Muharraq",
+      "awayTeam": "Al Najma",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "14'"
     },
     {
       "homeTeam": "Asante Kotoko",
       "awayTeam": "Bechem United",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "5'"
+      "time": "43'"
     },
     {
-      "homeTeam": "Swedru All Blacks",
-      "awayTeam": "Karela",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "37'"
-    },
-    {
-      "homeTeam": "Great Olympics",
-      "awayTeam": "Okwawu",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division One League",
-      "time": "37'"
-    },
-    {
-      "homeTeam": "Real Tamale",
-      "awayTeam": "Northern City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division One League",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "Al Zawra'a",
-      "awayTeam": "Al Minaa Basra",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Iraqi League",
-      "time": "38'"
-    },
-    {
-      "homeTeam": "Cremonese",
-      "awayTeam": "Napoli",
-      "homeScore": 0,
+      "homeTeam": "Al Nasr",
+      "awayTeam": "Al Ain",
+      "homeScore": 1,
       "awayScore": 2,
       "status": "Live",
-      "league": "Serie A",
-      "time": "76'"
+      "league": "Pro League",
+      "time": "31'"
     },
     {
-      "homeTeam": "Sunderland",
-      "awayTeam": "Leeds",
+      "homeTeam": "Al-Shabab",
+      "awayTeam": "Dhofar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Sultan Cup",
+      "time": "26'"
+    },
+    {
+      "homeTeam": "Brikama United",
+      "awayTeam": "GPA",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
+      "time": "16'"
+    },
+    {
+      "homeTeam": "Dutch Lions",
+      "awayTeam": "Falcons",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
+      "time": "15'"
+    },
+    {
+      "homeTeam": "Hart Acedemy",
+      "awayTeam": "Fortune",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Samger",
+      "awayTeam": "TMT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Mali Coura",
+      "awayTeam": "Afrique Football Élite",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Première Division",
+      "time": "16'"
+    },
+    {
+      "homeTeam": "USFAS Bamako",
+      "awayTeam": "ASKO",
       "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
+      "league": "Première Division",
+      "time": "16'"
+    },
+    {
+      "homeTeam": "AC Douane",
+      "awayTeam": "Kaédi",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
       "league": "Premier League",
-      "time": "76'"
+      "time": "15'"
+    },
+    {
+      "homeTeam": "Equatorial Guinea",
+      "awayTeam": "Sudan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "50'"
     },
     {
       "homeTeam": "Al-Duhail SC",
       "awayTeam": "Qatar SC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Stars League",
-      "time": "46'"
-    },
-    {
-      "homeTeam": "Pacos Ferreira",
-      "awayTeam": "Farense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Segunda Liga",
-      "time": "82'"
-    },
-    {
-      "homeTeam": "Kano Pillars",
-      "awayTeam": "Nasarawa United",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "NPFL",
-      "time": "49'"
+      "league": "Stars League",
+      "time": "84'"
     },
     {
       "homeTeam": "Al-Sailiya",
@@ -224,13 +188,148 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Stars League",
-      "time": "HT"
+      "time": "83'"
+    },
+    {
+      "homeTeam": "Plateau United",
+      "awayTeam": "Abia Warriors",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "51'"
+    },
+    {
+      "homeTeam": "Kano Pillars",
+      "awayTeam": "Nasarawa United",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "87'"
+    },
+    {
+      "homeTeam": "Enyimba",
+      "awayTeam": "Shooting Stars",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "52'"
+    },
+    {
+      "homeTeam": "Niger Tornadoes",
+      "awayTeam": "Barau FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "50'"
+    },
+    {
+      "homeTeam": "Kun Khalifat FC",
+      "awayTeam": "Katsina United",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "53'"
+    },
+    {
+      "homeTeam": "Bayelsa United",
+      "awayTeam": "El Kanemi Warriors",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "49'"
+    },
+    {
+      "homeTeam": "Rivers United",
+      "awayTeam": "Enugu Rangers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "52'"
+    },
+    {
+      "homeTeam": "Warri Wolves",
+      "awayTeam": "Wikki Tourist",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "56'"
+    },
+    {
+      "homeTeam": "Young Apostles",
+      "awayTeam": "Aduana Stars",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "51'"
+    },
+    {
+      "homeTeam": "Berekum Chelsea",
+      "awayTeam": "Eleven Wonders",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "58'"
+    },
+    {
+      "homeTeam": "Bibiani Gold Stars",
+      "awayTeam": "Dreams",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "53'"
+    },
+    {
+      "homeTeam": "Swedru All Blacks",
+      "awayTeam": "Karela",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "52'"
+    },
+    {
+      "homeTeam": "Great Olympics",
+      "awayTeam": "Okwawu",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Division One League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Real Tamale",
+      "awayTeam": "Northern City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Division One League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Zawra'a",
+      "awayTeam": "Al Minaa Basra",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Iraqi League",
+      "time": "57'"
     }
   ],
-  "lastUpdated": "2025-12-28T15:38:21.918Z",
+  "lastUpdated": "2025-12-28T16:16:01.469Z",
   "source": "api-football",
-  "totalMatches": 25,
-  "liveMatches": 25,
+  "totalMatches": 36,
+  "liveMatches": 36,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
