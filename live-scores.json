@@ -2,40 +2,31 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "AC Milan",
+      "awayTeam": "Verona",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie A",
+      "time": "2'"
+    },
+    {
       "homeTeam": "Academico Viseu",
       "awayTeam": "Benfica B",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Segunda Liga",
-      "time": "7'"
-    },
-    {
-      "homeTeam": "Keçiörengücü",
-      "awayTeam": "Ümraniyespor",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "1. Lig",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "Serik Belediyespor",
-      "awayTeam": "Boluspor",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "1. Lig",
-      "time": "41'"
+      "time": "31'"
     },
     {
       "homeTeam": "NagaWorld",
       "awayTeam": "Dangkor Senchey",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "C-League",
-      "time": "12'"
+      "time": "36'"
     },
     {
       "homeTeam": "Angkor Tiger",
@@ -44,7 +35,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "C-League",
-      "time": "11'"
+      "time": "35'"
     },
     {
       "homeTeam": "Visakha",
@@ -53,7 +44,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "C-League",
-      "time": "12'"
+      "time": "36'"
     },
     {
       "homeTeam": "Rayners Lane",
@@ -71,61 +62,88 @@
       "awayScore": 0,
       "status": "Live",
       "league": "League Cup",
-      "time": "11'"
+      "time": "35'"
     },
     {
       "homeTeam": "Mahasarakham United",
       "awayTeam": "Rayong FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "League Cup",
+      "time": "35'"
+    },
+    {
+      "homeTeam": "Chainat",
+      "awayTeam": "Port FC",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "League Cup",
-      "time": "11'"
+      "time": "6'"
     },
     {
       "homeTeam": "Erzin Spor",
       "awayTeam": "Ankaragücü",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 2,
       "status": "Live",
       "league": "2. Lig",
-      "time": "52'"
+      "time": "76'"
     },
     {
       "homeTeam": "Kepez Belediyespor",
       "awayTeam": "Batman Petrolspor",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 3,
       "status": "Live",
       "league": "2. Lig",
-      "time": "52'"
+      "time": "76'"
     },
     {
       "homeTeam": "Erbaaspor",
       "awayTeam": "Halide Edip Adıvar",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "2. Lig",
-      "time": "50'"
+      "time": "74'"
     },
     {
       "homeTeam": "Samut Sakhon City",
       "awayTeam": "Prachuap",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "League Cup",
-      "time": "52'"
+      "time": "76'"
     },
     {
       "homeTeam": "Customs United",
       "awayTeam": "Sukhothai FC",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 2,
+      "awayScore": 2,
       "status": "Live",
       "league": "League Cup",
-      "time": "53'"
+      "time": "77'"
+    },
+    {
+      "homeTeam": "Keçiörengücü",
+      "awayTeam": "Ümraniyespor",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "1. Lig",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Serik Belediyespor",
+      "awayTeam": "Boluspor",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "1. Lig",
+      "time": "HT"
     },
     {
       "homeTeam": "Municipal",
@@ -252,24 +270,6 @@
       "status": "FT",
       "league": "League Cup",
       "time": "90'"
-    },
-    {
-      "homeTeam": "AC Milan",
-      "awayTeam": "Verona",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Serie A",
-      "time": "11:30"
-    },
-    {
-      "homeTeam": "Chainat",
-      "awayTeam": "Port FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "League Cup",
-      "time": "11:30"
     },
     {
       "homeTeam": "Persepam Madura Utd",
@@ -452,11 +452,11 @@
       "time": "12:50"
     }
   ],
-  "lastUpdated": "2025-12-28T11:11:45.437Z",
+  "lastUpdated": "2025-12-28T11:35:57.510Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 14,
+  "liveMatches": 16,
   "finishedMatches": 15,
-  "upcomingMatches": 21,
+  "upcomingMatches": 19,
   "apiCalls": 2
 }
