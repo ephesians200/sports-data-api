@@ -2,22 +2,13 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Cremonese",
-      "awayTeam": "Napoli",
+      "homeTeam": "Equatorial Guinea",
+      "awayTeam": "Sudan",
       "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Serie A",
-      "time": "39'"
-    },
-    {
-      "homeTeam": "Sunderland",
-      "awayTeam": "Leeds",
-      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Premier League",
-      "time": "40'"
+      "league": "Africa Cup of Nations",
+      "time": "12'"
     },
     {
       "homeTeam": "Al-Duhail SC",
@@ -26,7 +17,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Stars League",
-      "time": "10'"
+      "time": "42'"
     },
     {
       "homeTeam": "Al-Sailiya",
@@ -35,16 +26,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Stars League",
-      "time": "11'"
-    },
-    {
-      "homeTeam": "Pacos Ferreira",
-      "awayTeam": "Farense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Segunda Liga",
-      "time": "41'"
+      "time": "43'"
     },
     {
       "homeTeam": "Rayners Lane",
@@ -56,8 +38,35 @@
       "time": "16'"
     },
     {
+      "homeTeam": "Plateau United",
+      "awayTeam": "Abia Warriors",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "14'"
+    },
+    {
       "homeTeam": "Kano Pillars",
       "awayTeam": "Nasarawa United",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "43'"
+    },
+    {
+      "homeTeam": "Enyimba",
+      "awayTeam": "Shooting Stars",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "12'"
+    },
+    {
+      "homeTeam": "Niger Tornadoes",
+      "awayTeam": "Barau FC",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
@@ -65,398 +74,137 @@
       "time": "7'"
     },
     {
-      "homeTeam": "Erzurum BB",
-      "awayTeam": "Yeni Çorumspor",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "1. Lig",
-      "time": "77'"
-    },
-    {
-      "homeTeam": "Al Buqa'a",
-      "awayTeam": "Al Jazeera",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Shield Cup",
-      "time": "83'"
-    },
-    {
-      "homeTeam": "Al Tadhamon",
-      "awayTeam": "Al Arabi",
+      "homeTeam": "Kun Khalifat FC",
+      "awayTeam": "Katsina United",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Bayelsa United",
+      "awayTeam": "El Kanemi Warriors",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "9'"
+    },
+    {
+      "homeTeam": "Rivers United",
+      "awayTeam": "Enugu Rangers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Warri Wolves",
+      "awayTeam": "Wikki Tourist",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "NPFL",
+      "time": "14'"
+    },
+    {
+      "homeTeam": "Young Apostles",
+      "awayTeam": "Aduana Stars",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "74'"
+      "time": "10'"
     },
     {
-      "homeTeam": "Musanze",
-      "awayTeam": "Gorilla",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "National Soccer League",
-      "time": "80'"
-    },
-    {
-      "homeTeam": "Al Wahda FC",
-      "awayTeam": "Khorfakkan",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Pro League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Dibba Al-Fujairah",
-      "awayTeam": "Al-Wasl FC",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Live",
-      "league": "Pro League",
-      "time": "88'"
-    },
-    {
-      "homeTeam": "Esteghlal FC",
-      "awayTeam": "Gol Gohar",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Persian Gulf Pro League",
-      "time": "79'"
-    },
-    {
-      "homeTeam": "Bahla",
-      "awayTeam": "Sur",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Sultan Cup",
-      "time": "83'"
-    },
-    {
-      "homeTeam": "National Bank of Egypt",
-      "awayTeam": "Enppi",
+      "homeTeam": "Berekum Chelsea",
+      "awayTeam": "Eleven Wonders",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Cup",
-      "time": "94'"
+      "league": "Premier League",
+      "time": "14'"
     },
     {
-      "homeTeam": "Municipal",
-      "awayTeam": "Antigua GFC",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga Nacional",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Green City",
-      "awayTeam": "Ottos Rangers",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Premier Division",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "CD Olimpia",
-      "awayTeam": "Real Espana",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga Nacional",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Inter San Carlos",
-      "awayTeam": "AD Cofutpa",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga de Ascenso",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Melbourne City W",
-      "awayTeam": "Perth Glory FC W",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "A-League Women",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Metro Gallery Sun Source",
-      "awayTeam": "Sham Shui Po",
-      "homeScore": 5,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "HKFA 1st Division",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Malut United",
-      "awayTeam": "Pusamania Borneo",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Liga 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Dauphins Noirs",
-      "awayTeam": "JSK",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Ligue 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Melbourne City",
-      "awayTeam": "Perth Glory",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "A-League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Uttaradit",
-      "awayTeam": "Bangkok Glass",
-      "homeScore": 0,
-      "awayScore": 4,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Lopburi City",
-      "awayTeam": "Nakhon Ratchasima FC",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Persiku Kudus",
-      "awayTeam": "Deltras",
-      "homeScore": 2,
-      "awayScore": 4,
-      "status": "FT",
-      "league": "Liga 2",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Persebaya Surabaya",
-      "awayTeam": "Persijap",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Satun United",
-      "awayTeam": "Lamphun Warrior",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Erzin Spor",
-      "awayTeam": "Ankaragücü",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Kepez Belediyespor",
-      "awayTeam": "Batman Petrolspor",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Erbaaspor",
-      "awayTeam": "Halide Edip Adıvar",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Samut Sakhon City",
-      "awayTeam": "Prachuap",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Customs United",
-      "awayTeam": "Sukhothai FC",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Keçiörengücü",
-      "awayTeam": "Ümraniyespor",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "1. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Serik Belediyespor",
-      "awayTeam": "Boluspor",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "FT",
-      "league": "1. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Academico Viseu",
-      "awayTeam": "Benfica B",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Segunda Liga",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "NagaWorld",
-      "awayTeam": "Dangkor Senchey",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "C-League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Angkor Tiger",
-      "awayTeam": "Kirivong Sok Sen Chey",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "C-League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Visakha",
-      "awayTeam": "Kompong Dewa",
+      "homeTeam": "Bibiani Gold Stars",
+      "awayTeam": "Dreams",
       "homeScore": 0,
       "awayScore": 1,
-      "status": "FT",
-      "league": "C-League",
-      "time": "90'"
+      "status": "Live",
+      "league": "Premier League",
+      "time": "11'"
     },
     {
-      "homeTeam": "Esan Pattaya",
-      "awayTeam": "Bangkok United",
+      "homeTeam": "Swedru All Blacks",
+      "awayTeam": "Karela",
       "homeScore": 0,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Mahasarakham United",
-      "awayTeam": "Rayong FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "AC Milan",
-      "awayTeam": "Verona",
-      "homeScore": 3,
       "awayScore": 0,
-      "status": "FT",
+      "status": "Live",
+      "league": "Premier League",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Great Olympics",
+      "awayTeam": "Okwawu",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Division One League",
+      "time": "12'"
+    },
+    {
+      "homeTeam": "Real Tamale",
+      "awayTeam": "Northern City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Division One League",
+      "time": "14'"
+    },
+    {
+      "homeTeam": "Al Zawra'a",
+      "awayTeam": "Al Minaa Basra",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Iraqi League",
+      "time": "12'"
+    },
+    {
+      "homeTeam": "Cremonese",
+      "awayTeam": "Napoli",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
       "league": "Serie A",
-      "time": "90'"
+      "time": "50'"
     },
     {
-      "homeTeam": "Chainat",
-      "awayTeam": "Port FC",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Leeds",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "50'"
+    },
+    {
+      "homeTeam": "Pacos Ferreira",
+      "awayTeam": "Farense",
       "homeScore": 0,
-      "awayScore": 5,
-      "status": "FT",
-      "league": "League Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Persepam Madura Utd",
-      "awayTeam": "Semen Padang",
-      "homeScore": 5,
       "awayScore": 1,
-      "status": "FT",
-      "league": "Liga 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "24 Erzincanspor",
-      "awayTeam": "Elazığspor",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Muğlaspor",
-      "awayTeam": "Kastamonuspor 1966",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Tuzlaspor",
-      "awayTeam": "Karaman Belediyespor",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Buca FK",
-      "awayTeam": "Karacabey Belediyespor",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
+      "status": "Live",
+      "league": "Segunda Liga",
+      "time": "56'"
     }
   ],
-  "lastUpdated": "2025-12-28T14:40:46.948Z",
+  "lastUpdated": "2025-12-28T15:12:50.740Z",
   "source": "api-football",
-  "totalMatches": 50,
-  "liveMatches": 16,
-  "finishedMatches": 34,
+  "totalMatches": 22,
+  "liveMatches": 22,
+  "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
