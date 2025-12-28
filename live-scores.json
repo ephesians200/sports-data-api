@@ -11,40 +11,22 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Sporting CP",
-      "awayTeam": "Rio Ave",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primeira Liga",
-      "time": "82'"
-    },
-    {
-      "homeTeam": "Notch",
-      "awayTeam": "FC Inter Wanica",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Eerste Divisie",
-      "time": "75'"
-    },
-    {
       "homeTeam": "CD Marathon",
       "awayTeam": "Olancho",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "Live",
       "league": "Liga Nacional",
-      "time": "55'"
+      "time": "84'"
     },
     {
       "homeTeam": "Spanish Town Police",
       "awayTeam": "Treasure Beach",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "52'"
+      "time": "80'"
     },
     {
       "homeTeam": "Municipal",
@@ -450,13 +432,31 @@
       "status": "FT",
       "league": "Cup",
       "time": "90'"
+    },
+    {
+      "homeTeam": "Zamalek SC",
+      "awayTeam": "Baladiyyat Al Mehalla",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Wahda FC",
+      "awayTeam": "Khorfakkan",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T22:13:05.972Z",
+  "lastUpdated": "2025-12-28T22:41:37.088Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 5,
-  "finishedMatches": 45,
+  "liveMatches": 3,
+  "finishedMatches": 47,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
