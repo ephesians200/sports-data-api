@@ -2,22 +2,13 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Algeria",
-      "awayTeam": "Burkina Faso",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "45'"
-    },
-    {
       "homeTeam": "SC Braga",
       "awayTeam": "Benfica",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "status": "Live",
       "league": "Primeira Liga",
-      "time": "17'"
+      "time": "45'"
     },
     {
       "homeTeam": "Rayners Lane",
@@ -35,34 +26,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Super Cup",
-      "time": "18'"
+      "time": "45'"
+    },
+    {
+      "homeTeam": "Algeria",
+      "awayTeam": "Burkina Faso",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "55'"
     },
     {
       "homeTeam": "Bologna",
       "awayTeam": "Sassuolo",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Serie A",
-      "time": "59'"
-    },
-    {
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Tottenham",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al-Arabi SC",
-      "awayTeam": "Al-Rayyan SC",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Stars League",
-      "time": "90'"
+      "time": "88'"
     },
     {
       "homeTeam": "Ikorodu City",
@@ -71,70 +53,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "NPFL",
-      "time": "57'"
-    },
-    {
-      "homeTeam": "Al Ahli",
-      "awayTeam": "Sitra",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "AJEL",
-      "awayTeam": "Wally Daan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "88'"
-    },
-    {
-      "homeTeam": "AS Camberene",
-      "awayTeam": "Guédiawaye",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Ligue 1",
       "time": "86'"
-    },
-    {
-      "homeTeam": "HLM",
-      "awayTeam": "Teungueth",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "87'"
-    },
-    {
-      "homeTeam": "DSC",
-      "awayTeam": "Sonacos",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "La Linguère",
-      "awayTeam": "Jaraaf",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Gorée",
-      "awayTeam": "Casa Sport",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "90'"
     },
     {
       "homeTeam": "Municipal",
@@ -450,13 +369,94 @@
       "status": "FT",
       "league": "2. Lig",
       "time": "90'"
+    },
+    {
+      "homeTeam": "PSS Sleman",
+      "awayTeam": "Persipal",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Liga 2",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Persiba Balikpapan",
+      "awayTeam": "Tornado Pekanbaru",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Liga 2",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "New Jack",
+      "awayTeam": "Anges Verts",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Racing",
+      "awayTeam": "Reyady Abaseya",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Sanat Naft",
+      "awayTeam": "Niroye Zamini",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Azadegan League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Pattani",
+      "awayTeam": "Ratchaburi",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "League Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Hong Kong",
+      "awayTeam": "Guangdong XI",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Guangdong - Hong Kong Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Selangor",
+      "awayTeam": "Melaka",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Super League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Gabon",
+      "awayTeam": "Mozambique",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T18:19:42.966Z",
+  "lastUpdated": "2025-12-28T18:48:41.846Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 15,
-  "finishedMatches": 35,
+  "liveMatches": 6,
+  "finishedMatches": 44,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
