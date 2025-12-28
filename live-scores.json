@@ -11,31 +11,22 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Algeria",
-      "awayTeam": "Burkina Faso",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeTeam": "SC Braga",
+      "awayTeam": "Benfica",
+      "homeScore": 2,
+      "awayScore": 2,
       "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "77'"
+      "league": "Primeira Liga",
+      "time": "68'"
     },
     {
       "homeTeam": "Egnatia Rrogozhinë",
       "awayTeam": "Dinamo Tirana",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 2,
       "status": "Live",
       "league": "Super Cup",
-      "time": "50'"
-    },
-    {
-      "homeTeam": "SC Braga",
-      "awayTeam": "Benfica",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Primeira Liga",
-      "time": "HT"
+      "time": "74'"
     },
     {
       "homeTeam": "Municipal",
@@ -450,13 +441,22 @@
       "status": "FT",
       "league": "Cup",
       "time": "90'"
+    },
+    {
+      "homeTeam": "Zamalek SC",
+      "awayTeam": "Baladiyyat Al Mehalla",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Cup",
+      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T19:10:48.992Z",
+  "lastUpdated": "2025-12-28T19:34:40.682Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 4,
-  "finishedMatches": 45,
+  "liveMatches": 3,
+  "finishedMatches": 46,
   "upcomingMatches": 1,
   "apiCalls": 2
 }
