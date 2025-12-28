@@ -8,16 +8,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Africa Cup of Nations",
-      "time": "15'"
+      "time": "41'"
     },
     {
-      "homeTeam": "Atalanta",
-      "awayTeam": "Inter",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Rio Ave",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Serie A",
-      "time": "30'"
+      "league": "Primeira Liga",
+      "time": "10'"
     },
     {
       "homeTeam": "Rayners Lane",
@@ -29,13 +29,22 @@
       "time": "16'"
     },
     {
+      "homeTeam": "Notch",
+      "awayTeam": "FC Inter Wanica",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Eerste Divisie",
+      "time": "3'"
+    },
+    {
       "homeTeam": "Harbour View",
       "awayTeam": "Cavalier",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "14'"
+      "time": "41'"
     },
     {
       "homeTeam": "Montego Bay United",
@@ -44,7 +53,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "2'"
+      "time": "29'"
     },
     {
       "homeTeam": "Portmore United",
@@ -53,7 +62,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "14'"
+      "time": "41'"
+    },
+    {
+      "homeTeam": "Atalanta",
+      "awayTeam": "Inter",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie A",
+      "time": "HT"
     },
     {
       "homeTeam": "Municipal",
@@ -432,31 +450,13 @@
       "status": "FT",
       "league": "Guangdong - Hong Kong Cup",
       "time": "90'"
-    },
-    {
-      "homeTeam": "Selangor",
-      "awayTeam": "Melaka",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Super League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Gabon",
-      "awayTeam": "Mozambique",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Africa Cup of Nations",
-      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T20:15:16.692Z",
+  "lastUpdated": "2025-12-28T20:41:48.121Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 6,
-  "finishedMatches": 44,
+  "liveMatches": 8,
+  "finishedMatches": 42,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
