@@ -5,19 +5,37 @@
       "homeTeam": "Cremonese",
       "awayTeam": "Napoli",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Serie A",
-      "time": "11'"
+      "time": "39'"
     },
     {
       "homeTeam": "Sunderland",
       "awayTeam": "Leeds",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "12'"
+      "time": "40'"
+    },
+    {
+      "homeTeam": "Al-Duhail SC",
+      "awayTeam": "Qatar SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Stars League",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Al-Sailiya",
+      "awayTeam": "Al Wakrah",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Stars League",
+      "time": "11'"
     },
     {
       "homeTeam": "Pacos Ferreira",
@@ -26,7 +44,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Segunda Liga",
-      "time": "13'"
+      "time": "41'"
     },
     {
       "homeTeam": "Rayners Lane",
@@ -38,22 +56,22 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Gabon",
-      "awayTeam": "Mozambique",
-      "homeScore": 2,
-      "awayScore": 3,
+      "homeTeam": "Kano Pillars",
+      "awayTeam": "Nasarawa United",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "81'"
+      "league": "NPFL",
+      "time": "7'"
     },
     {
       "homeTeam": "Erzurum BB",
       "awayTeam": "Yeni Çorumspor",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "1. Lig",
-      "time": "49'"
+      "time": "77'"
     },
     {
       "homeTeam": "Al Buqa'a",
@@ -62,16 +80,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Shield Cup",
-      "time": "55'"
+      "time": "83'"
     },
     {
       "homeTeam": "Al Tadhamon",
       "awayTeam": "Al Arabi",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Premier League",
-      "time": "46'"
+      "time": "74'"
     },
     {
       "homeTeam": "Musanze",
@@ -80,7 +98,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "National Soccer League",
-      "time": "52'"
+      "time": "80'"
     },
     {
       "homeTeam": "Al Wahda FC",
@@ -89,16 +107,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Pro League",
-      "time": "63'"
+      "time": "90'"
     },
     {
       "homeTeam": "Dibba Al-Fujairah",
       "awayTeam": "Al-Wasl FC",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "status": "Live",
       "league": "Pro League",
-      "time": "61'"
+      "time": "88'"
     },
     {
       "homeTeam": "Esteghlal FC",
@@ -107,7 +125,16 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Persian Gulf Pro League",
-      "time": "51'"
+      "time": "79'"
+    },
+    {
+      "homeTeam": "Bahla",
+      "awayTeam": "Sur",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Sultan Cup",
+      "time": "83'"
     },
     {
       "homeTeam": "National Bank of Egypt",
@@ -116,25 +143,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Cup",
-      "time": "78'"
-    },
-    {
-      "homeTeam": "Zamalek SC",
-      "awayTeam": "Baladiyyat Al Mehalla",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Cup",
-      "time": "78'"
-    },
-    {
-      "homeTeam": "Bahla",
-      "awayTeam": "Sur",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Sultan Cup",
-      "time": "55'"
+      "time": "94'"
     },
     {
       "homeTeam": "Municipal",
@@ -441,22 +450,13 @@
       "status": "FT",
       "league": "2. Lig",
       "time": "90'"
-    },
-    {
-      "homeTeam": "İnegölspor",
-      "awayTeam": "Altınordu",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "2. Lig",
-      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T14:13:04.290Z",
+  "lastUpdated": "2025-12-28T14:40:46.948Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 15,
-  "finishedMatches": 35,
+  "liveMatches": 16,
+  "finishedMatches": 34,
   "upcomingMatches": 0,
   "apiCalls": 2
 }
