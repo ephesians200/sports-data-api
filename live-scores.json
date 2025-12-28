@@ -2,6 +2,24 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "Ivory Coast",
+      "awayTeam": "Cameroon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "15'"
+    },
+    {
+      "homeTeam": "Atalanta",
+      "awayTeam": "Inter",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Serie A",
+      "time": "30'"
+    },
+    {
       "homeTeam": "Rayners Lane",
       "awayTeam": "Hitchin Town",
       "homeScore": 0,
@@ -11,22 +29,31 @@
       "time": "16'"
     },
     {
-      "homeTeam": "SC Braga",
-      "awayTeam": "Benfica",
-      "homeScore": 2,
-      "awayScore": 2,
+      "homeTeam": "Harbour View",
+      "awayTeam": "Cavalier",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
-      "league": "Primeira Liga",
-      "time": "68'"
+      "league": "Premier League",
+      "time": "14'"
     },
     {
-      "homeTeam": "Egnatia Rrogozhinë",
-      "awayTeam": "Dinamo Tirana",
-      "homeScore": 1,
-      "awayScore": 2,
+      "homeTeam": "Montego Bay United",
+      "awayTeam": "Mount Pleasant Academy",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
-      "league": "Super Cup",
-      "time": "74'"
+      "league": "Premier League",
+      "time": "2'"
+    },
+    {
+      "homeTeam": "Portmore United",
+      "awayTeam": "Dunbeholden",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "14'"
     },
     {
       "homeTeam": "Municipal",
@@ -423,40 +450,13 @@
       "status": "FT",
       "league": "Africa Cup of Nations",
       "time": "90'"
-    },
-    {
-      "homeTeam": "Haras El Hodood",
-      "awayTeam": "Smouha SC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Cup",
-      "time": "PST"
-    },
-    {
-      "homeTeam": "National Bank of Egypt",
-      "awayTeam": "Enppi",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Zamalek SC",
-      "awayTeam": "Baladiyyat Al Mehalla",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Cup",
-      "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T19:34:40.682Z",
+  "lastUpdated": "2025-12-28T20:15:16.692Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 3,
-  "finishedMatches": 46,
-  "upcomingMatches": 1,
+  "liveMatches": 6,
+  "finishedMatches": 44,
+  "upcomingMatches": 0,
   "apiCalls": 2
 }
