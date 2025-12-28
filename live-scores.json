@@ -2,6 +2,24 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "Keçiörengücü",
+      "awayTeam": "Ümraniyespor",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "1. Lig",
+      "time": "10'"
+    },
+    {
+      "homeTeam": "Serik Belediyespor",
+      "awayTeam": "Boluspor",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "1. Lig",
+      "time": "12'"
+    },
+    {
       "homeTeam": "Rayners Lane",
       "awayTeam": "Hitchin Town",
       "homeScore": 0,
@@ -17,7 +35,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "2. Lig",
-      "time": "13'"
+      "time": "42'"
     },
     {
       "homeTeam": "Kepez Belediyespor",
@@ -26,16 +44,16 @@
       "awayScore": 1,
       "status": "Live",
       "league": "2. Lig",
-      "time": "13'"
+      "time": "42'"
     },
     {
       "homeTeam": "Erbaaspor",
       "awayTeam": "Halide Edip Adıvar",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "2. Lig",
-      "time": "13'"
+      "time": "41'"
     },
     {
       "homeTeam": "Samut Sakhon City",
@@ -44,34 +62,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "League Cup",
-      "time": "14'"
+      "time": "42'"
     },
     {
       "homeTeam": "Customs United",
       "awayTeam": "Sukhothai FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "League Cup",
-      "time": "13'"
-    },
-    {
-      "homeTeam": "Persiku Kudus",
-      "awayTeam": "Deltras",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "83'"
-    },
-    {
-      "homeTeam": "Persebaya Surabaya",
-      "awayTeam": "Persijap",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga 1",
-      "time": "84'"
+      "time": "42'"
     },
     {
       "homeTeam": "Satun United",
@@ -80,7 +80,7 @@
       "awayScore": 2,
       "status": "Live",
       "league": "League Cup",
-      "time": "52'"
+      "time": "81'"
     },
     {
       "homeTeam": "Municipal",
@@ -182,22 +182,22 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Keçiörengücü",
-      "awayTeam": "Ümraniyespor",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "1. Lig",
-      "time": "10:30"
+      "homeTeam": "Persiku Kudus",
+      "awayTeam": "Deltras",
+      "homeScore": 2,
+      "awayScore": 4,
+      "status": "FT",
+      "league": "Liga 2",
+      "time": "90'"
     },
     {
-      "homeTeam": "Serik Belediyespor",
-      "awayTeam": "Boluspor",
-      "homeScore": 0,
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Persijap",
+      "homeScore": 4,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "1. Lig",
-      "time": "10:30"
+      "status": "FT",
+      "league": "Liga 1",
+      "time": "90'"
     },
     {
       "homeTeam": "Academico Viseu",
@@ -452,11 +452,11 @@
       "time": "12:50"
     }
   ],
-  "lastUpdated": "2025-12-28T10:13:58.555Z",
+  "lastUpdated": "2025-12-28T10:42:49.953Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 9,
-  "finishedMatches": 11,
-  "upcomingMatches": 30,
+  "finishedMatches": 13,
+  "upcomingMatches": 28,
   "apiCalls": 2
 }
