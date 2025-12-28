@@ -2,15 +2,6 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Sporting CP",
-      "awayTeam": "Rio Ave",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primeira Liga",
-      "time": "40'"
-    },
-    {
       "homeTeam": "Rayners Lane",
       "awayTeam": "Hitchin Town",
       "homeScore": 0,
@@ -20,22 +11,13 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Notch",
-      "awayTeam": "FC Inter Wanica",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Eerste Divisie",
-      "time": "34'"
-    },
-    {
       "homeTeam": "CD Marathon",
       "awayTeam": "Olancho",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
       "league": "Liga Nacional",
-      "time": "13'"
+      "time": "38'"
     },
     {
       "homeTeam": "Spanish Town Police",
@@ -44,16 +26,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "10'"
+      "time": "35'"
     },
     {
       "homeTeam": "Ivory Coast",
       "awayTeam": "Cameroon",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Africa Cup of Nations",
-      "time": "52'"
+      "time": "78'"
     },
     {
       "homeTeam": "Atalanta",
@@ -62,16 +44,34 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Serie A",
-      "time": "70'"
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Rio Ave",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primeira Liga",
+      "time": "47'"
     },
     {
       "homeTeam": "Harbour View",
       "awayTeam": "Cavalier",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Premier League",
-      "time": "52'"
+      "time": "77'"
+    },
+    {
+      "homeTeam": "Montego Bay United",
+      "awayTeam": "Mount Pleasant Academy",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "67'"
     },
     {
       "homeTeam": "Portmore United",
@@ -80,15 +80,15 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "52'"
+      "time": "77'"
     },
     {
-      "homeTeam": "Montego Bay United",
-      "awayTeam": "Mount Pleasant Academy",
-      "homeScore": 0,
+      "homeTeam": "Notch",
+      "awayTeam": "FC Inter Wanica",
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Premier League",
+      "league": "Eerste Divisie",
       "time": "HT"
     },
     {
@@ -452,7 +452,7 @@
       "time": "90'"
     }
   ],
-  "lastUpdated": "2025-12-28T21:12:24.889Z",
+  "lastUpdated": "2025-12-28T21:37:41.607Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 10,
