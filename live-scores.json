@@ -2,112 +2,22 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Al Taawon",
-      "awayTeam": "Al Najma",
+      "homeTeam": "Coventry",
+      "awayTeam": "Ipswich",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Pro League",
-      "time": "10'"
-    },
-    {
-      "homeTeam": "Al Riyadh",
-      "awayTeam": "Al-Hazm",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Pro League",
-      "time": "10'"
-    },
-    {
-      "homeTeam": "Génération Foot",
-      "awayTeam": "Pikine",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "40'"
-    },
-    {
-      "homeTeam": "Angola",
-      "awayTeam": "Egypt",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "82'"
-    },
-    {
-      "homeTeam": "Zimbabwe",
-      "awayTeam": "South Africa",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "82'"
+      "league": "Championship",
+      "time": "20'"
     },
     {
       "homeTeam": "Al Ahli Doha",
       "awayTeam": "UMM Salal",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 3,
       "status": "Live",
       "league": "Stars League",
-      "time": "49'"
-    },
-    {
-      "homeTeam": "MC Oran",
-      "awayTeam": "CR Belouizdad",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "75'"
-    },
-    {
-      "homeTeam": "Khalidiya",
-      "awayTeam": "Budaiya",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "79'"
-    },
-    {
-      "homeTeam": "Al Hilal Omdurman",
-      "awayTeam": "AS Kigali",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "National Soccer League",
-      "time": "81'"
-    },
-    {
-      "homeTeam": "Al Seeb",
-      "awayTeam": "Jaalan",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Sultan Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Bombada",
-      "awayTeam": "Real de Banjul",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "GFA League",
-      "time": "81'"
-    },
-    {
-      "homeTeam": "Medina United",
-      "awayTeam": "Team Rhino",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "GFA League",
-      "time": "71'"
+      "time": "89'"
     },
     {
       "homeTeam": "Ouakam",
@@ -116,16 +26,34 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "51'"
+      "time": "90'"
     },
     {
-      "homeTeam": "Pompiers",
-      "awayTeam": "SNIM",
-      "homeScore": 1,
+      "homeTeam": "Génération Foot",
+      "awayTeam": "Pikine",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "57'"
+    },
+    {
+      "homeTeam": "Al Taawon",
+      "awayTeam": "Al Najma",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Pro League",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Al Riyadh",
+      "awayTeam": "Al-Hazm",
+      "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
-      "league": "Premier League",
-      "time": "78'"
+      "league": "Pro League",
+      "time": "HT"
     },
     {
       "homeTeam": "All Saints United",
@@ -371,13 +299,85 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Coventry",
-      "awayTeam": "Ipswich",
+      "homeTeam": "Al Seeb",
+      "awayTeam": "Jaalan",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Sultan Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Angola",
+      "awayTeam": "Egypt",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "Championship",
-      "time": "18:00"
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Zimbabwe",
+      "awayTeam": "South Africa",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "MC Oran",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Khalidiya",
+      "awayTeam": "Budaiya",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Hilal Omdurman",
+      "awayTeam": "AS Kigali",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "National Soccer League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Bombada",
+      "awayTeam": "Real de Banjul",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "GFA League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Medina United",
+      "awayTeam": "Team Rhino",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "GFA League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Pompiers",
+      "awayTeam": "SNIM",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
     },
     {
       "homeTeam": "MC Alger",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T17:40:48.425Z",
+  "lastUpdated": "2025-12-29T18:21:09.767Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 14,
-  "finishedMatches": 24,
-  "upcomingMatches": 12,
+  "liveMatches": 6,
+  "finishedMatches": 33,
+  "upcomingMatches": 11,
   "apiCalls": 2
 }
