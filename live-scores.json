@@ -8,7 +8,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "28'"
+      "time": "50'"
     },
     {
       "homeTeam": "Welwalo Adigrat Uni",
@@ -17,7 +17,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "31'"
+      "time": "54'"
     },
     {
       "homeTeam": "Al-Ittihad Kalba",
@@ -26,7 +26,16 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Pro League",
-      "time": "42'"
+      "time": "63'"
+    },
+    {
+      "homeTeam": "Al Musannah",
+      "awayTeam": "Al-Nahda",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "Live",
+      "league": "Sultan Cup",
+      "time": "66'"
     },
     {
       "homeTeam": "Muhanga",
@@ -35,34 +44,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "National Soccer League",
-      "time": "31'"
-    },
-    {
-      "homeTeam": "Al Musannah",
-      "awayTeam": "Al-Nahda",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Sultan Cup",
-      "time": "42'"
-    },
-    {
-      "homeTeam": "Persija",
-      "awayTeam": "Bhayangkara FC",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga 1",
-      "time": "70'"
-    },
-    {
-      "homeTeam": "Welayta Dicha",
-      "awayTeam": "Arba Minch Kenema",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "76'"
+      "time": "HT"
     },
     {
       "homeTeam": "All Saints United",
@@ -161,6 +143,24 @@
       "awayScore": 0,
       "status": "FT",
       "league": "Azadegan League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Persija",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Liga 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Welayta Dicha",
+      "awayTeam": "Arba Minch Kenema",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Premier League",
       "time": "90'"
     },
     {
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T13:32:26.332Z",
+  "lastUpdated": "2025-12-29T14:15:24.862Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 7,
-  "finishedMatches": 11,
+  "liveMatches": 5,
+  "finishedMatches": 13,
   "upcomingMatches": 32,
   "apiCalls": 2
 }
