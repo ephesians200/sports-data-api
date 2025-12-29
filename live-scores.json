@@ -11,6 +11,15 @@
       "time": "16'"
     },
     {
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Wellington Phoenix",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "A-League",
+      "time": "19'"
+    },
+    {
       "homeTeam": "All Saints United",
       "awayTeam": "Garden Stars",
       "homeScore": 2,
@@ -18,15 +27,6 @@
       "status": "FT",
       "league": "Premier Division",
       "time": "90'"
-    },
-    {
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Wellington Phoenix",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "A-League",
-      "time": "08:00"
     },
     {
       "homeTeam": "PSIM Yogyakarta",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T07:44:31.870Z",
+  "lastUpdated": "2025-12-29T08:21:55.988Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 1,
+  "liveMatches": 2,
   "finishedMatches": 1,
-  "upcomingMatches": 48,
+  "upcomingMatches": 47,
   "apiCalls": 2
 }
