@@ -2,24 +2,6 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "PSIM Yogyakarta",
-      "awayTeam": "PSBS Biak Numfor",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga 1",
-      "time": "22'"
-    },
-    {
-      "homeTeam": "Bali United",
-      "awayTeam": "Dewa United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga 1",
-      "time": "22'"
-    },
-    {
       "homeTeam": "Rayners Lane",
       "awayTeam": "Hitchin Town",
       "homeScore": 0,
@@ -29,30 +11,57 @@
       "time": "16'"
     },
     {
+      "homeTeam": "I.S.P.E",
+      "awayTeam": "Yarmanya United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "National League",
+      "time": "23'"
+    },
+    {
+      "homeTeam": "Garudayaksa",
+      "awayTeam": "Persiraja Banda Aceh",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga 2",
+      "time": "33'"
+    },
+    {
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Wellington Phoenix",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "A-League",
+      "time": "61'"
+    },
+    {
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "PSBS Biak Numfor",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Liga 1",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Bali United",
+      "awayTeam": "Dewa United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 1",
+      "time": "HT"
+    },
+    {
       "homeTeam": "Sumsel United",
       "awayTeam": "Bekasi City",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Liga 2",
-      "time": "22'"
-    },
-    {
-      "homeTeam": "Garudayaksa",
-      "awayTeam": "Persiraja Banda Aceh",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "2'"
-    },
-    {
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Wellington Phoenix",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "A-League",
       "time": "HT"
     },
     {
@@ -63,15 +72,6 @@
       "status": "FT",
       "league": "Premier Division",
       "time": "90'"
-    },
-    {
-      "homeTeam": "I.S.P.E",
-      "awayTeam": "Yarmanya United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "National League",
-      "time": "09:00"
     },
     {
       "homeTeam": "Rakhine United",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T08:52:25.191Z",
+  "lastUpdated": "2025-12-29T09:23:18.712Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 6,
+  "liveMatches": 7,
   "finishedMatches": 1,
-  "upcomingMatches": 43,
+  "upcomingMatches": 42,
   "apiCalls": 2
 }
