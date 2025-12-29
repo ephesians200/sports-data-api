@@ -5,10 +5,10 @@
       "homeTeam": "Al Shamal",
       "awayTeam": "Al Sadd",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Stars League",
-      "time": "11'"
+      "time": "39'"
     },
     {
       "homeTeam": "Al Khaleej Saihat",
@@ -17,34 +17,34 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Pro League",
-      "time": "3'"
+      "time": "31'"
     },
     {
-      "homeTeam": "Mostaganem",
-      "awayTeam": "Ben Aknoun",
-      "homeScore": 0,
+      "homeTeam": "Police National",
+      "awayTeam": "Eleven Wise",
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
-      "league": "Ligue 1",
-      "time": "80'"
+      "league": "Division One League",
+      "time": "15'"
     },
     {
-      "homeTeam": "Welwalo Adigrat Uni",
-      "awayTeam": "Bahardar",
+      "homeTeam": "Mekelle Kenema",
+      "awayTeam": "Kedus Giorgis",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "83'"
+      "time": "15'"
     },
     {
-      "homeTeam": "Al-Ittihad Kalba",
-      "awayTeam": "Al-Jazira",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeTeam": "Muhanga",
+      "awayTeam": "Al Merreikh",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
-      "league": "Pro League",
-      "time": "90'"
+      "league": "National Soccer League",
+      "time": "74'"
     },
     {
       "homeTeam": "All Saints United",
@@ -164,12 +164,30 @@
       "time": "90'"
     },
     {
+      "homeTeam": "Al-Ittihad Kalba",
+      "awayTeam": "Al-Jazira",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
+    },
+    {
       "homeTeam": "Al Musannah",
       "awayTeam": "Al-Nahda",
       "homeScore": 1,
       "awayScore": 3,
       "status": "FT",
       "league": "Sultan Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Mostaganem",
+      "awayTeam": "Ben Aknoun",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Ligue 1",
       "time": "90'"
     },
     {
@@ -191,6 +209,15 @@
       "time": "PST"
     },
     {
+      "homeTeam": "Welwalo Adigrat Uni",
+      "awayTeam": "Bahardar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
       "homeTeam": "Saint-Luc",
       "awayTeam": "Don Bosco",
       "homeScore": 0,
@@ -198,33 +225,6 @@
       "status": "Not Started",
       "league": "Ligue 1",
       "time": "13:00"
-    },
-    {
-      "homeTeam": "Muhanga",
-      "awayTeam": "Al Merreikh",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "LIVE",
-      "league": "National Soccer League",
-      "time": "LIVE"
-    },
-    {
-      "homeTeam": "Police National",
-      "awayTeam": "Eleven Wise",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Division One League",
-      "time": "15:00"
-    },
-    {
-      "homeTeam": "Mekelle Kenema",
-      "awayTeam": "Kedus Giorgis",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Premier League",
-      "time": "15:00"
     },
     {
       "homeTeam": "Rahimo",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T14:44:46.208Z",
+  "lastUpdated": "2025-12-29T15:15:15.745Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 5,
-  "finishedMatches": 14,
-  "upcomingMatches": 30,
+  "finishedMatches": 17,
+  "upcomingMatches": 28,
   "apiCalls": 2
 }
