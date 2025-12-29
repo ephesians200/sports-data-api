@@ -2,40 +2,31 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "Zambia",
+      "awayTeam": "Morocco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "11'"
+    },
+    {
+      "homeTeam": "Comoros",
+      "awayTeam": "Mali",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "11'"
+    },
+    {
       "homeTeam": "MC Alger",
       "awayTeam": "ES Setif",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "21'"
-    },
-    {
-      "homeTeam": "Al Taawon",
-      "awayTeam": "Al Najma",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Pro League",
-      "time": "60'"
-    },
-    {
-      "homeTeam": "Al Riyadh",
-      "awayTeam": "Al-Hazm",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Pro League",
-      "time": "61'"
-    },
-    {
-      "homeTeam": "Génération Foot",
-      "awayTeam": "Pikine",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "87'"
+      "time": "42'"
     },
     {
       "homeTeam": "Coventry",
@@ -44,7 +35,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Championship",
-      "time": "HT"
+      "time": "52'"
+    },
+    {
+      "homeTeam": "Al Taawon",
+      "awayTeam": "Al Najma",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Pro League",
+      "time": "81'"
+    },
+    {
+      "homeTeam": "Al Riyadh",
+      "awayTeam": "Al-Hazm",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Pro League",
+      "time": "81'"
     },
     {
       "homeTeam": "All Saints United",
@@ -389,22 +398,13 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Zambia",
-      "awayTeam": "Morocco",
+      "homeTeam": "Génération Foot",
+      "awayTeam": "Pikine",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "Africa Cup of Nations",
-      "time": "19:00"
-    },
-    {
-      "homeTeam": "Comoros",
-      "awayTeam": "Mali",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Africa Cup of Nations",
-      "time": "19:00"
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
     },
     {
       "homeTeam": "Newport County",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T18:50:50.678Z",
+  "lastUpdated": "2025-12-29T19:11:27.567Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 5,
-  "finishedMatches": 35,
-  "upcomingMatches": 10,
+  "liveMatches": 6,
+  "finishedMatches": 36,
+  "upcomingMatches": 8,
   "apiCalls": 2
 }
