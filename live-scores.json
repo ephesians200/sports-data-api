@@ -2,31 +2,49 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Angola",
-      "awayTeam": "Egypt",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Zimbabwe",
-      "awayTeam": "South Africa",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Africa Cup of Nations",
-      "time": "45'"
-    },
-    {
       "homeTeam": "Al Ahli Doha",
       "awayTeam": "UMM Salal",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Stars League",
-      "time": "17'"
+      "time": "43'"
+    },
+    {
+      "homeTeam": "Ouakam",
+      "awayTeam": "Stade de Mbour",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "42'"
+    },
+    {
+      "homeTeam": "Génération Foot",
+      "awayTeam": "Pikine",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "12'"
+    },
+    {
+      "homeTeam": "Angola",
+      "awayTeam": "Egypt",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "55'"
+    },
+    {
+      "homeTeam": "Zimbabwe",
+      "awayTeam": "South Africa",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "54'"
     },
     {
       "homeTeam": "MC Oran",
@@ -35,7 +53,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "43'"
+      "time": "48'"
     },
     {
       "homeTeam": "Khalidiya",
@@ -44,52 +62,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Premier League",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Al Hilal Omdurman",
-      "awayTeam": "AS Kigali",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "National Soccer League",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Bombada",
-      "awayTeam": "Real de Banjul",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "GFA League",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Medina United",
-      "awayTeam": "Team Rhino",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "GFA League",
-      "time": "45'"
-    },
-    {
-      "homeTeam": "Ouakam",
-      "awayTeam": "Stade de Mbour",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "16'"
-    },
-    {
-      "homeTeam": "Pompiers",
-      "awayTeam": "SNIM",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "45'"
+      "time": "52'"
     },
     {
       "homeTeam": "Rahimo",
@@ -98,34 +71,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "51'"
-    },
-    {
-      "homeTeam": "Police National",
-      "awayTeam": "Eleven Wise",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division One League",
-      "time": "87'"
-    },
-    {
-      "homeTeam": "Mekelle Kenema",
-      "awayTeam": "Kedus Giorgis",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "90'"
+      "time": "77'"
     },
     {
       "homeTeam": "Al-Dhafra",
       "awayTeam": "Baniyas SC",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Pro League",
-      "time": "HT"
+      "time": "70'"
+    },
+    {
+      "homeTeam": "Al Hilal Omdurman",
+      "awayTeam": "AS Kigali",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "National Soccer League",
+      "time": "53'"
     },
     {
       "homeTeam": "Al Seeb",
@@ -134,6 +98,33 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Sultan Cup",
+      "time": "64'"
+    },
+    {
+      "homeTeam": "Bombada",
+      "awayTeam": "Real de Banjul",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
+      "time": "54'"
+    },
+    {
+      "homeTeam": "Pompiers",
+      "awayTeam": "SNIM",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "50'"
+    },
+    {
+      "homeTeam": "Medina United",
+      "awayTeam": "Team Rhino",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
       "time": "HT"
     },
     {
@@ -344,13 +335,22 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Génération Foot",
-      "awayTeam": "Pikine",
-      "homeScore": 0,
+      "homeTeam": "Police National",
+      "awayTeam": "Eleven Wise",
+      "homeScore": 3,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "Ligue 1",
-      "time": "17:00"
+      "status": "FT",
+      "league": "Division One League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Mekelle Kenema",
+      "awayTeam": "Kedus Giorgis",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
     },
     {
       "homeTeam": "Al Taawon",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T16:47:14.476Z",
+  "lastUpdated": "2025-12-29T17:13:05.766Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 15,
-  "finishedMatches": 20,
-  "upcomingMatches": 15,
+  "liveMatches": 14,
+  "finishedMatches": 22,
+  "upcomingMatches": 14,
   "apiCalls": 2
 }
