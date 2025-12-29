@@ -11,40 +11,22 @@
       "time": "16'"
     },
     {
-      "homeTeam": "I.S.P.E",
-      "awayTeam": "Yarmanya United",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeTeam": "Rakhine United",
+      "awayTeam": "Ayeyawady United",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
       "league": "National League",
-      "time": "23'"
-    },
-    {
-      "homeTeam": "Garudayaksa",
-      "awayTeam": "Persiraja Banda Aceh",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "33'"
-    },
-    {
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Wellington Phoenix",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "A-League",
-      "time": "61'"
+      "time": "19'"
     },
     {
       "homeTeam": "PSIM Yogyakarta",
       "awayTeam": "PSBS Biak Numfor",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 2,
       "status": "Live",
       "league": "Liga 1",
-      "time": "HT"
+      "time": "60'"
     },
     {
       "homeTeam": "Bali United",
@@ -53,13 +35,40 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga 1",
-      "time": "HT"
+      "time": "61'"
+    },
+    {
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Wellington Phoenix",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "A-League",
+      "time": "87'"
     },
     {
       "homeTeam": "Sumsel United",
       "awayTeam": "Bekasi City",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 2",
+      "time": "61'"
+    },
+    {
+      "homeTeam": "I.S.P.E",
+      "awayTeam": "Yarmanya United",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "National League",
+      "time": "HT"
+    },
+    {
+      "homeTeam": "Garudayaksa",
+      "awayTeam": "Persiraja Banda Aceh",
+      "homeScore": 1,
+      "awayScore": 1,
       "status": "Live",
       "league": "Liga 2",
       "time": "HT"
@@ -72,15 +81,6 @@
       "status": "FT",
       "league": "Premier Division",
       "time": "90'"
-    },
-    {
-      "homeTeam": "Rakhine United",
-      "awayTeam": "Ayeyawady United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "National League",
-      "time": "09:30"
     },
     {
       "homeTeam": "Fasil Ketema",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T09:23:18.712Z",
+  "lastUpdated": "2025-12-29T09:49:52.062Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 7,
+  "liveMatches": 8,
   "finishedMatches": 1,
-  "upcomingMatches": 42,
+  "upcomingMatches": 41,
   "apiCalls": 2
 }
