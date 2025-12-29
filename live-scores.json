@@ -5,19 +5,10 @@
       "homeTeam": "AS Roma",
       "awayTeam": "Genoa",
       "homeScore": 3,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Serie A",
-      "time": "67'"
-    },
-    {
-      "homeTeam": "Newport County",
-      "awayTeam": "Crewe",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League Two",
-      "time": "86'"
+      "time": "90'"
     },
     {
       "homeTeam": "Accrington ST",
@@ -26,25 +17,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "League Two",
-      "time": "69'"
-    },
-    {
-      "homeTeam": "Bristol Rovers",
-      "awayTeam": "Barnet",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League Two",
-      "time": "70'"
+      "time": "90'"
     },
     {
       "homeTeam": "Cheltenham",
       "awayTeam": "Swindon Town",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "League Two",
-      "time": "68'"
+      "time": "90'"
     },
     {
       "homeTeam": "Chesterfield",
@@ -53,7 +35,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "League Two",
-      "time": "65'"
+      "time": "90'"
     },
     {
       "homeTeam": "Crawley Town",
@@ -62,43 +44,34 @@
       "awayScore": 3,
       "status": "Live",
       "league": "League Two",
-      "time": "69'"
+      "time": "90'"
     },
     {
       "homeTeam": "Gillingham",
       "awayTeam": "Colchester",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "status": "Live",
       "league": "League Two",
-      "time": "72'"
+      "time": "90'"
     },
     {
       "homeTeam": "Grimsby",
       "awayTeam": "Shrewsbury",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "League Two",
-      "time": "70'"
+      "time": "90'"
     },
     {
       "homeTeam": "Milton Keynes Dons",
       "awayTeam": "Notts County",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
       "league": "League Two",
-      "time": "66'"
-    },
-    {
-      "homeTeam": "Salford City",
-      "awayTeam": "Fleetwood Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League Two",
-      "time": "71'"
+      "time": "90'"
     },
     {
       "homeTeam": "Tranmere",
@@ -107,7 +80,7 @@
       "awayScore": 3,
       "status": "Live",
       "league": "League Two",
-      "time": "70'"
+      "time": "90'"
     },
     {
       "homeTeam": "Walsall",
@@ -116,16 +89,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "League Two",
-      "time": "65'"
-    },
-    {
-      "homeTeam": "Sheffield Wednesday",
-      "awayTeam": "Blackburn",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "71'"
+      "time": "90'"
     },
     {
       "homeTeam": "West Brom",
@@ -134,7 +98,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Championship",
-      "time": "69'"
+      "time": "90'"
     },
     {
       "homeTeam": "Stoke City",
@@ -143,7 +107,7 @@
       "awayScore": 2,
       "status": "Live",
       "league": "Championship",
-      "time": "68'"
+      "time": "90'"
     },
     {
       "homeTeam": "Middlesbrough",
@@ -152,7 +116,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Championship",
-      "time": "68'"
+      "time": "90'"
     },
     {
       "homeTeam": "Oxford United",
@@ -161,16 +125,16 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Championship",
-      "time": "70'"
+      "time": "90'"
     },
     {
       "homeTeam": "Millwall",
       "awayTeam": "Bristol City",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "Live",
       "league": "Championship",
-      "time": "71'"
+      "time": "90'"
     },
     {
       "homeTeam": "Leicester",
@@ -179,16 +143,16 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Championship",
-      "time": "67'"
+      "time": "90'"
     },
     {
       "homeTeam": "Wrexham",
       "awayTeam": "Preston",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "status": "Live",
       "league": "Championship",
-      "time": "66'"
+      "time": "90'"
     },
     {
       "homeTeam": "Portsmouth",
@@ -197,16 +161,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Championship",
-      "time": "70'"
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Birmingham",
+      "awayTeam": "Southampton",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Championship",
+      "time": "65'"
     },
     {
       "homeTeam": "Norwich",
       "awayTeam": "Watford",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Championship",
-      "time": "68'"
+      "time": "90'"
     },
     {
       "homeTeam": "AFC Wimbledon",
@@ -215,16 +188,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "League One",
-      "time": "69'"
-    },
-    {
-      "homeTeam": "Barnsley",
-      "awayTeam": "Lincoln",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "71'"
+      "time": "90'"
     },
     {
       "homeTeam": "Blackpool",
@@ -233,43 +197,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "League One",
-      "time": "64'"
-    },
-    {
-      "homeTeam": "Bolton",
-      "awayTeam": "Mansfield Town",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "70'"
+      "time": "90'"
     },
     {
       "homeTeam": "Bradford",
       "awayTeam": "Port Vale",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "66'"
-    },
-    {
-      "homeTeam": "Burton Albion",
-      "awayTeam": "Wigan",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "72'"
-    },
-    {
-      "homeTeam": "Huddersfield",
-      "awayTeam": "Northampton",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "League One",
-      "time": "64'"
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Huddersfield",
+      "awayTeam": "Northampton",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "League One",
+      "time": "90'"
     },
     {
       "homeTeam": "Luton",
@@ -278,16 +224,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "League One",
-      "time": "66'"
+      "time": "90'"
     },
     {
       "homeTeam": "Peterborough",
       "awayTeam": "Reading",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "Live",
       "league": "League One",
-      "time": "66'"
+      "time": "90'"
     },
     {
       "homeTeam": "Plymouth",
@@ -296,34 +242,43 @@
       "awayScore": 1,
       "status": "Live",
       "league": "League One",
-      "time": "64'"
+      "time": "90'"
     },
     {
       "homeTeam": "Stockport County",
       "awayTeam": "Doncaster",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 2,
       "status": "Live",
       "league": "League One",
-      "time": "69'"
+      "time": "90'"
     },
     {
       "homeTeam": "Cardiff",
       "awayTeam": "Stevenage",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "status": "Live",
       "league": "League One",
-      "time": "70'"
+      "time": "90'"
+    },
+    {
+      "homeTeam": "FC Porto",
+      "awayTeam": "AVS",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Primeira Liga",
+      "time": "61'"
     },
     {
       "homeTeam": "Chelmsford City",
       "awayTeam": "Dagenham & Redbridge",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "National League - South",
-      "time": "63'"
+      "time": "89'"
     },
     {
       "homeTeam": "Tivoli Gardens",
@@ -332,31 +287,13 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "54'"
-    },
-    {
-      "homeTeam": "Birmingham",
-      "awayTeam": "Southampton",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "HT"
-    },
-    {
-      "homeTeam": "FC Porto",
-      "awayTeam": "AVS",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primeira Liga",
-      "time": "HT"
+      "time": "80'"
     }
   ],
-  "lastUpdated": "2025-12-29T21:12:49.641Z",
+  "lastUpdated": "2025-12-29T21:38:21.895Z",
   "source": "api-football",
-  "totalMatches": 39,
-  "liveMatches": 39,
+  "totalMatches": 32,
+  "liveMatches": 32,
   "finishedMatches": 0,
   "upcomingMatches": 0,
   "apiCalls": 2
