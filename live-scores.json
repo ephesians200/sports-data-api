@@ -2,11 +2,425 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "All Saints United",
+      "awayTeam": "Garden Stars",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Premier Division",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Wellington Phoenix",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "A-League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "PSBS Biak Numfor",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Liga 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Bali United",
+      "awayTeam": "Dewa United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Liga 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Sumsel United",
+      "awayTeam": "Bekasi City",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Liga 2",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Garudayaksa",
+      "awayTeam": "Persiraja Banda Aceh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Liga 2",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "I.S.P.E",
+      "awayTeam": "Yarmanya United",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "National League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Rakhine United",
+      "awayTeam": "Ayeyawady United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "National League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Fasil Ketema",
+      "awayTeam": "Mebrat Hayl",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Adana Demirspor",
+      "awayTeam": "İstanbulspor",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "FT",
+      "league": "1. Lig",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Havadar",
+      "awayTeam": "Shenavarsazi Qeshm",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Azadegan League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Persija",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Liga 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Welayta Dicha",
+      "awayTeam": "Arba Minch Kenema",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al-Ittihad Kalba",
+      "awayTeam": "Al-Jazira",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Musannah",
+      "awayTeam": "Al-Nahda",
+      "homeScore": 1,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Sultan Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Mostaganem",
+      "awayTeam": "Ben Aknoun",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Gicumbi",
+      "awayTeam": "Kiyovu Sports",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "National Soccer League",
+      "time": "PST"
+    },
+    {
+      "homeTeam": "Rutsiro",
+      "awayTeam": "Mukura",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "National Soccer League",
+      "time": "PST"
+    },
+    {
+      "homeTeam": "Welwalo Adigrat Uni",
+      "awayTeam": "Bahardar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Saint-Luc",
+      "awayTeam": "Don Bosco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Ligue 1",
+      "time": "13:00"
+    },
+    {
+      "homeTeam": "Muhanga",
+      "awayTeam": "Al Merreikh",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "National Soccer League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Shamal",
+      "awayTeam": "Al Sadd",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Stars League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Khaleej Saihat",
+      "awayTeam": "Al-Fateh",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Police National",
+      "awayTeam": "Eleven Wise",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Division One League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Mekelle Kenema",
+      "awayTeam": "Kedus Giorgis",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Rahimo",
+      "awayTeam": "Douanes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al-Dhafra",
+      "awayTeam": "Baniyas SC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Seeb",
+      "awayTeam": "Jaalan",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Sultan Cup",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Angola",
+      "awayTeam": "Egypt",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Zimbabwe",
+      "awayTeam": "South Africa",
+      "homeScore": 2,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "MC Oran",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Khalidiya",
+      "awayTeam": "Budaiya",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Hilal Omdurman",
+      "awayTeam": "AS Kigali",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "National Soccer League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Bombada",
+      "awayTeam": "Real de Banjul",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "GFA League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Medina United",
+      "awayTeam": "Team Rhino",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "GFA League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Pompiers",
+      "awayTeam": "SNIM",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Premier League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Ahli Doha",
+      "awayTeam": "UMM Salal",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Stars League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Ouakam",
+      "awayTeam": "Stade de Mbour",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Génération Foot",
+      "awayTeam": "Pikine",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Taawon",
+      "awayTeam": "Al Najma",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Al Riyadh",
+      "awayTeam": "Al-Hazm",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Pro League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Coventry",
+      "awayTeam": "Ipswich",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Championship",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "MC Alger",
+      "awayTeam": "ES Setif",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Zambia",
+      "awayTeam": "Morocco",
+      "homeScore": 0,
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Comoros",
+      "awayTeam": "Mali",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Africa Cup of Nations",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Newport County",
+      "awayTeam": "Crewe",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "League Two",
+      "time": "90'"
+    },
+    {
       "homeTeam": "AS Roma",
       "awayTeam": "Genoa",
       "homeScore": 3,
       "awayScore": 1,
-      "status": "Live",
+      "status": "FT",
       "league": "Serie A",
       "time": "90'"
     },
@@ -15,7 +429,16 @@
       "awayTeam": "Harrogate Town",
       "homeScore": 1,
       "awayScore": 0,
-      "status": "Live",
+      "status": "FT",
+      "league": "League Two",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Bristol Rovers",
+      "awayTeam": "Barnet",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FT",
       "league": "League Two",
       "time": "90'"
     },
@@ -24,277 +447,16 @@
       "awayTeam": "Swindon Town",
       "homeScore": 0,
       "awayScore": 2,
-      "status": "Live",
+      "status": "FT",
       "league": "League Two",
       "time": "90'"
-    },
-    {
-      "homeTeam": "Chesterfield",
-      "awayTeam": "Cambridge United",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Crawley Town",
-      "awayTeam": "Bromley",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Live",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Gillingham",
-      "awayTeam": "Colchester",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Grimsby",
-      "awayTeam": "Shrewsbury",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Milton Keynes Dons",
-      "awayTeam": "Notts County",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Tranmere",
-      "awayTeam": "Barrow",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "Live",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Walsall",
-      "awayTeam": "Oldham",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "West Brom",
-      "awayTeam": "QPR",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Stoke City",
-      "awayTeam": "Sheffield Utd",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Middlesbrough",
-      "awayTeam": "Hull City",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Oxford United",
-      "awayTeam": "Swansea",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Millwall",
-      "awayTeam": "Bristol City",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Leicester",
-      "awayTeam": "Derby",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Wrexham",
-      "awayTeam": "Preston",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Portsmouth",
-      "awayTeam": "Charlton",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Birmingham",
-      "awayTeam": "Southampton",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "65'"
-    },
-    {
-      "homeTeam": "Norwich",
-      "awayTeam": "Watford",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Championship",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "AFC Wimbledon",
-      "awayTeam": "Exeter City",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Blackpool",
-      "awayTeam": "Rotherham",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Bradford",
-      "awayTeam": "Port Vale",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Huddersfield",
-      "awayTeam": "Northampton",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Luton",
-      "awayTeam": "Leyton Orient",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Peterborough",
-      "awayTeam": "Reading",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Plymouth",
-      "awayTeam": "Wycombe",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Stockport County",
-      "awayTeam": "Doncaster",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Cardiff",
-      "awayTeam": "Stevenage",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "League One",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "FC Porto",
-      "awayTeam": "AVS",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Primeira Liga",
-      "time": "61'"
-    },
-    {
-      "homeTeam": "Chelmsford City",
-      "awayTeam": "Dagenham & Redbridge",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "National League - South",
-      "time": "89'"
-    },
-    {
-      "homeTeam": "Tivoli Gardens",
-      "awayTeam": "Chapelton",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "80'"
     }
   ],
-  "lastUpdated": "2025-12-29T21:38:21.895Z",
+  "lastUpdated": "2025-12-29T22:13:43.583Z",
   "source": "api-football",
-  "totalMatches": 32,
-  "liveMatches": 32,
-  "finishedMatches": 0,
-  "upcomingMatches": 0,
+  "totalMatches": 50,
+  "liveMatches": 0,
+  "finishedMatches": 47,
+  "upcomingMatches": 3,
   "apiCalls": 2
 }
