@@ -11,22 +11,13 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Waterhouse",
-      "awayTeam": "Molynes United",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "79'"
-    },
-    {
       "homeTeam": "All Saints United",
       "awayTeam": "Garden Stars",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
       "league": "Premier Division",
-      "time": "24:00"
+      "time": "90'"
     },
     {
       "homeTeam": "Melbourne Victory",
@@ -450,13 +441,22 @@
       "status": "Not Started",
       "league": "League Two",
       "time": "19:45"
+    },
+    {
+      "homeTeam": "Bristol Rovers",
+      "awayTeam": "Barnet",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "League Two",
+      "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T01:12:20.185Z",
+  "lastUpdated": "2025-12-29T03:20:01.285Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 2,
-  "finishedMatches": 0,
+  "liveMatches": 1,
+  "finishedMatches": 1,
   "upcomingMatches": 48,
   "apiCalls": 2
 }
