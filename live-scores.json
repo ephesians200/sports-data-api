@@ -2,6 +2,24 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "PSBS Biak Numfor",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga 1",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Bali United",
+      "awayTeam": "Dewa United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 1",
+      "time": "22'"
+    },
+    {
       "homeTeam": "Rayners Lane",
       "awayTeam": "Hitchin Town",
       "homeScore": 0,
@@ -11,13 +29,31 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Wellington Phoenix",
-      "homeScore": 1,
+      "homeTeam": "Sumsel United",
+      "awayTeam": "Bekasi City",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
+      "league": "Liga 2",
+      "time": "22'"
+    },
+    {
+      "homeTeam": "Garudayaksa",
+      "awayTeam": "Persiraja Banda Aceh",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Liga 2",
+      "time": "2'"
+    },
+    {
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Wellington Phoenix",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
       "league": "A-League",
-      "time": "19'"
+      "time": "HT"
     },
     {
       "homeTeam": "All Saints United",
@@ -27,42 +63,6 @@
       "status": "FT",
       "league": "Premier Division",
       "time": "90'"
-    },
-    {
-      "homeTeam": "PSIM Yogyakarta",
-      "awayTeam": "PSBS Biak Numfor",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Liga 1",
-      "time": "08:30"
-    },
-    {
-      "homeTeam": "Bali United",
-      "awayTeam": "Dewa United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Liga 1",
-      "time": "08:30"
-    },
-    {
-      "homeTeam": "Sumsel United",
-      "awayTeam": "Bekasi City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Liga 2",
-      "time": "08:30"
-    },
-    {
-      "homeTeam": "Garudayaksa",
-      "awayTeam": "Persiraja Banda Aceh",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Liga 2",
-      "time": "08:30"
     },
     {
       "homeTeam": "I.S.P.E",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T08:21:55.988Z",
+  "lastUpdated": "2025-12-29T08:52:25.191Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 2,
+  "liveMatches": 6,
   "finishedMatches": 1,
-  "upcomingMatches": 47,
+  "upcomingMatches": 43,
   "apiCalls": 2
 }
