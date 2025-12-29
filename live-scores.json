@@ -2,22 +2,22 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Al Ahli Doha",
-      "awayTeam": "UMM Salal",
+      "homeTeam": "Al Taawon",
+      "awayTeam": "Al Najma",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Stars League",
-      "time": "43'"
+      "league": "Pro League",
+      "time": "10'"
     },
     {
-      "homeTeam": "Ouakam",
-      "awayTeam": "Stade de Mbour",
-      "homeScore": 1,
+      "homeTeam": "Al Riyadh",
+      "awayTeam": "Al-Hazm",
+      "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Ligue 1",
-      "time": "42'"
+      "league": "Pro League",
+      "time": "10'"
     },
     {
       "homeTeam": "Génération Foot",
@@ -26,7 +26,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "12'"
+      "time": "40'"
     },
     {
       "homeTeam": "Angola",
@@ -35,97 +35,97 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Africa Cup of Nations",
-      "time": "55'"
+      "time": "82'"
     },
     {
       "homeTeam": "Zimbabwe",
       "awayTeam": "South Africa",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 2,
       "status": "Live",
       "league": "Africa Cup of Nations",
-      "time": "54'"
+      "time": "82'"
+    },
+    {
+      "homeTeam": "Al Ahli Doha",
+      "awayTeam": "UMM Salal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Stars League",
+      "time": "49'"
     },
     {
       "homeTeam": "MC Oran",
       "awayTeam": "CR Belouizdad",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "48'"
+      "time": "75'"
     },
     {
       "homeTeam": "Khalidiya",
       "awayTeam": "Budaiya",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
       "status": "Live",
       "league": "Premier League",
-      "time": "52'"
-    },
-    {
-      "homeTeam": "Rahimo",
-      "awayTeam": "Douanes",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "77'"
-    },
-    {
-      "homeTeam": "Al-Dhafra",
-      "awayTeam": "Baniyas SC",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Pro League",
-      "time": "70'"
+      "time": "79'"
     },
     {
       "homeTeam": "Al Hilal Omdurman",
       "awayTeam": "AS Kigali",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
       "status": "Live",
       "league": "National Soccer League",
-      "time": "53'"
+      "time": "81'"
     },
     {
       "homeTeam": "Al Seeb",
       "awayTeam": "Jaalan",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "Sultan Cup",
-      "time": "64'"
+      "time": "90'"
     },
     {
       "homeTeam": "Bombada",
       "awayTeam": "Real de Banjul",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "status": "Live",
       "league": "GFA League",
-      "time": "54'"
-    },
-    {
-      "homeTeam": "Pompiers",
-      "awayTeam": "SNIM",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "50'"
+      "time": "81'"
     },
     {
       "homeTeam": "Medina United",
       "awayTeam": "Team Rhino",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "status": "Live",
       "league": "GFA League",
-      "time": "HT"
+      "time": "71'"
+    },
+    {
+      "homeTeam": "Ouakam",
+      "awayTeam": "Stade de Mbour",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "51'"
+    },
+    {
+      "homeTeam": "Pompiers",
+      "awayTeam": "SNIM",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "78'"
     },
     {
       "homeTeam": "All Saints United",
@@ -353,22 +353,22 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Al Taawon",
-      "awayTeam": "Al Najma",
-      "homeScore": 0,
+      "homeTeam": "Rahimo",
+      "awayTeam": "Douanes",
+      "homeScore": 2,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "Pro League",
-      "time": "17:30"
+      "status": "FT",
+      "league": "Ligue 1",
+      "time": "90'"
     },
     {
-      "homeTeam": "Al Riyadh",
-      "awayTeam": "Al-Hazm",
+      "homeTeam": "Al-Dhafra",
+      "awayTeam": "Baniyas SC",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
+      "awayScore": 2,
+      "status": "FT",
       "league": "Pro League",
-      "time": "17:30"
+      "time": "90'"
     },
     {
       "homeTeam": "Coventry",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T17:13:05.766Z",
+  "lastUpdated": "2025-12-29T17:40:48.425Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 14,
-  "finishedMatches": 22,
-  "upcomingMatches": 14,
+  "finishedMatches": 24,
+  "upcomingMatches": 12,
   "apiCalls": 2
 }
