@@ -2,40 +2,13 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Coventry",
-      "awayTeam": "Ipswich",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Championship",
-      "time": "20'"
-    },
-    {
-      "homeTeam": "Al Ahli Doha",
-      "awayTeam": "UMM Salal",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "Live",
-      "league": "Stars League",
-      "time": "89'"
-    },
-    {
-      "homeTeam": "Ouakam",
-      "awayTeam": "Stade de Mbour",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Ligue 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Génération Foot",
-      "awayTeam": "Pikine",
+      "homeTeam": "MC Alger",
+      "awayTeam": "ES Setif",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "57'"
+      "time": "21'"
     },
     {
       "homeTeam": "Al Taawon",
@@ -44,15 +17,33 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Pro League",
-      "time": "HT"
+      "time": "60'"
     },
     {
       "homeTeam": "Al Riyadh",
       "awayTeam": "Al-Hazm",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "status": "Live",
       "league": "Pro League",
+      "time": "61'"
+    },
+    {
+      "homeTeam": "Génération Foot",
+      "awayTeam": "Pikine",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "87'"
+    },
+    {
+      "homeTeam": "Coventry",
+      "awayTeam": "Ipswich",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Championship",
       "time": "HT"
     },
     {
@@ -380,13 +371,22 @@
       "time": "90'"
     },
     {
-      "homeTeam": "MC Alger",
-      "awayTeam": "ES Setif",
+      "homeTeam": "Al Ahli Doha",
+      "awayTeam": "UMM Salal",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
+      "awayScore": 3,
+      "status": "FT",
+      "league": "Stars League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Ouakam",
+      "awayTeam": "Stade de Mbour",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
       "league": "Ligue 1",
-      "time": "18:30"
+      "time": "90'"
     },
     {
       "homeTeam": "Zambia",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T18:21:09.767Z",
+  "lastUpdated": "2025-12-29T18:50:50.678Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 6,
-  "finishedMatches": 33,
-  "upcomingMatches": 11,
+  "liveMatches": 5,
+  "finishedMatches": 35,
+  "upcomingMatches": 10,
   "apiCalls": 2
 }
