@@ -2,22 +2,31 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Adana Demirspor",
-      "awayTeam": "İstanbulspor",
+      "homeTeam": "Persija",
+      "awayTeam": "Bhayangkara FC",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "1. Lig",
-      "time": "9'"
+      "league": "Liga 1",
+      "time": "30'"
     },
     {
-      "homeTeam": "Rayners Lane",
-      "awayTeam": "Hitchin Town",
+      "homeTeam": "Welayta Dicha",
+      "awayTeam": "Arba Minch Kenema",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Non League Div One - Southern Central",
-      "time": "16'"
+      "league": "Premier League",
+      "time": "30'"
+    },
+    {
+      "homeTeam": "Adana Demirspor",
+      "awayTeam": "İstanbulspor",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "1. Lig",
+      "time": "HT"
     },
     {
       "homeTeam": "Havadar",
@@ -26,16 +35,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Azadegan League",
-      "time": "8'"
-    },
-    {
-      "homeTeam": "Fasil Ketema",
-      "awayTeam": "Mebrat Hayl",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "76'"
+      "time": "HT"
     },
     {
       "homeTeam": "All Saints United",
@@ -110,22 +110,13 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Persija",
-      "awayTeam": "Bhayangkara FC",
-      "homeScore": 0,
+      "homeTeam": "Fasil Ketema",
+      "awayTeam": "Mebrat Hayl",
+      "homeScore": 1,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "Liga 1",
-      "time": "12:00"
-    },
-    {
-      "homeTeam": "Welayta Dicha",
-      "awayTeam": "Arba Minch Kenema",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
+      "status": "FT",
       "league": "Premier League",
-      "time": "12:00"
+      "time": "90'"
     },
     {
       "homeTeam": "Al-Ittihad Kalba",
@@ -450,13 +441,22 @@
       "status": "Not Started",
       "league": "League Two",
       "time": "19:45"
+    },
+    {
+      "homeTeam": "Cheltenham",
+      "awayTeam": "Swindon Town",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "League Two",
+      "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T11:38:51.655Z",
+  "lastUpdated": "2025-12-29T12:30:27.996Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 4,
-  "finishedMatches": 8,
-  "upcomingMatches": 38,
+  "finishedMatches": 9,
+  "upcomingMatches": 37,
   "apiCalls": 2
 }
