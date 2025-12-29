@@ -2,49 +2,49 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "Rahimo",
+      "awayTeam": "Douanes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "9'"
+    },
+    {
+      "homeTeam": "Police National",
+      "awayTeam": "Eleven Wise",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Division One League",
+      "time": "41'"
+    },
+    {
+      "homeTeam": "Mekelle Kenema",
+      "awayTeam": "Kedus Giorgis",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "44'"
+    },
+    {
       "homeTeam": "Al Shamal",
       "awayTeam": "Al Sadd",
       "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
       "league": "Stars League",
-      "time": "39'"
+      "time": "HT"
     },
     {
       "homeTeam": "Al Khaleej Saihat",
       "awayTeam": "Al-Fateh",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "status": "Live",
       "league": "Pro League",
-      "time": "31'"
-    },
-    {
-      "homeTeam": "Police National",
-      "awayTeam": "Eleven Wise",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division One League",
-      "time": "15'"
-    },
-    {
-      "homeTeam": "Mekelle Kenema",
-      "awayTeam": "Kedus Giorgis",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Premier League",
-      "time": "15'"
-    },
-    {
-      "homeTeam": "Muhanga",
-      "awayTeam": "Al Merreikh",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "National Soccer League",
-      "time": "74'"
+      "time": "HT"
     },
     {
       "homeTeam": "All Saints United",
@@ -227,13 +227,13 @@
       "time": "13:00"
     },
     {
-      "homeTeam": "Rahimo",
-      "awayTeam": "Douanes",
+      "homeTeam": "Muhanga",
+      "awayTeam": "Al Merreikh",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "Ligue 1",
-      "time": "15:30"
+      "status": "FT",
+      "league": "National Soccer League",
+      "time": "90'"
     },
     {
       "homeTeam": "Al-Dhafra",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T15:15:15.745Z",
+  "lastUpdated": "2025-12-29T15:41:58.819Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 5,
-  "finishedMatches": 17,
-  "upcomingMatches": 28,
+  "finishedMatches": 18,
+  "upcomingMatches": 27,
   "apiCalls": 2
 }
