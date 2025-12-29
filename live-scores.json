@@ -2,40 +2,112 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "Angola",
+      "awayTeam": "Egypt",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "17'"
+    },
+    {
+      "homeTeam": "Zimbabwe",
+      "awayTeam": "South Africa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Africa Cup of Nations",
+      "time": "17'"
+    },
+    {
+      "homeTeam": "MC Oran",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Ligue 1",
+      "time": "13'"
+    },
+    {
+      "homeTeam": "Khalidiya",
+      "awayTeam": "Budaiya",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "17'"
+    },
+    {
       "homeTeam": "Rahimo",
       "awayTeam": "Douanes",
       "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Ligue 1",
-      "time": "9'"
+      "time": "44'"
     },
     {
-      "homeTeam": "Police National",
-      "awayTeam": "Eleven Wise",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Division One League",
-      "time": "41'"
-    },
-    {
-      "homeTeam": "Mekelle Kenema",
-      "awayTeam": "Kedus Giorgis",
+      "homeTeam": "Al-Dhafra",
+      "awayTeam": "Baniyas SC",
       "homeScore": 0,
       "awayScore": 1,
       "status": "Live",
+      "league": "Pro League",
+      "time": "32'"
+    },
+    {
+      "homeTeam": "Al Hilal Omdurman",
+      "awayTeam": "AS Kigali",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "National Soccer League",
+      "time": "17'"
+    },
+    {
+      "homeTeam": "Al Seeb",
+      "awayTeam": "Jaalan",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Sultan Cup",
+      "time": "26'"
+    },
+    {
+      "homeTeam": "Bombada",
+      "awayTeam": "Real de Banjul",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
+      "time": "17'"
+    },
+    {
+      "homeTeam": "Medina United",
+      "awayTeam": "Team Rhino",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "GFA League",
+      "time": "16'"
+    },
+    {
+      "homeTeam": "Pompiers",
+      "awayTeam": "SNIM",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
       "league": "Premier League",
-      "time": "44'"
+      "time": "17'"
     },
     {
       "homeTeam": "Al Shamal",
       "awayTeam": "Al Sadd",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "status": "Live",
       "league": "Stars League",
-      "time": "HT"
+      "time": "78'"
     },
     {
       "homeTeam": "Al Khaleej Saihat",
@@ -44,7 +116,25 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Pro League",
-      "time": "HT"
+      "time": "75'"
+    },
+    {
+      "homeTeam": "Police National",
+      "awayTeam": "Eleven Wise",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Division One League",
+      "time": "57'"
+    },
+    {
+      "homeTeam": "Mekelle Kenema",
+      "awayTeam": "Kedus Giorgis",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "61'"
     },
     {
       "homeTeam": "All Saints United",
@@ -236,96 +326,6 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Al-Dhafra",
-      "awayTeam": "Baniyas SC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Pro League",
-      "time": "15:45"
-    },
-    {
-      "homeTeam": "Al Seeb",
-      "awayTeam": "Jaalan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Sultan Cup",
-      "time": "15:50"
-    },
-    {
-      "homeTeam": "Angola",
-      "awayTeam": "Egypt",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Africa Cup of Nations",
-      "time": "16:00"
-    },
-    {
-      "homeTeam": "Zimbabwe",
-      "awayTeam": "South Africa",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Africa Cup of Nations",
-      "time": "16:00"
-    },
-    {
-      "homeTeam": "MC Oran",
-      "awayTeam": "CR Belouizdad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Ligue 1",
-      "time": "16:00"
-    },
-    {
-      "homeTeam": "Khalidiya",
-      "awayTeam": "Budaiya",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Premier League",
-      "time": "16:00"
-    },
-    {
-      "homeTeam": "Al Hilal Omdurman",
-      "awayTeam": "AS Kigali",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "National Soccer League",
-      "time": "16:00"
-    },
-    {
-      "homeTeam": "Bombada",
-      "awayTeam": "Real de Banjul",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "GFA League",
-      "time": "16:00"
-    },
-    {
-      "homeTeam": "Medina United",
-      "awayTeam": "Team Rhino",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "GFA League",
-      "time": "16:00"
-    },
-    {
-      "homeTeam": "Pompiers",
-      "awayTeam": "SNIM",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Premier League",
-      "time": "16:00"
-    },
-    {
       "homeTeam": "Al Ahli Doha",
       "awayTeam": "UMM Salal",
       "homeScore": 0,
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T15:41:58.819Z",
+  "lastUpdated": "2025-12-29T16:17:09.721Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 5,
+  "liveMatches": 15,
   "finishedMatches": 18,
-  "upcomingMatches": 27,
+  "upcomingMatches": 17,
   "apiCalls": 2
 }
