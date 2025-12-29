@@ -2,13 +2,58 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "Persija",
-      "awayTeam": "Bhayangkara FC",
+      "homeTeam": "Mostaganem",
+      "awayTeam": "Ben Aknoun",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
+      "league": "Ligue 1",
+      "time": "28'"
+    },
+    {
+      "homeTeam": "Welwalo Adigrat Uni",
+      "awayTeam": "Bahardar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "31'"
+    },
+    {
+      "homeTeam": "Al-Ittihad Kalba",
+      "awayTeam": "Al-Jazira",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Pro League",
+      "time": "42'"
+    },
+    {
+      "homeTeam": "Muhanga",
+      "awayTeam": "Al Merreikh",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "National Soccer League",
+      "time": "31'"
+    },
+    {
+      "homeTeam": "Al Musannah",
+      "awayTeam": "Al-Nahda",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "Live",
+      "league": "Sultan Cup",
+      "time": "42'"
+    },
+    {
+      "homeTeam": "Persija",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "Live",
       "league": "Liga 1",
-      "time": "30'"
+      "time": "70'"
     },
     {
       "homeTeam": "Welayta Dicha",
@@ -17,25 +62,7 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "30'"
-    },
-    {
-      "homeTeam": "Adana Demirspor",
-      "awayTeam": "İstanbulspor",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "1. Lig",
-      "time": "HT"
-    },
-    {
-      "homeTeam": "Havadar",
-      "awayTeam": "Shenavarsazi Qeshm",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Azadegan League",
-      "time": "HT"
+      "time": "76'"
     },
     {
       "homeTeam": "All Saints United",
@@ -119,31 +146,22 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Al-Ittihad Kalba",
-      "awayTeam": "Al-Jazira",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Pro League",
-      "time": "12:50"
+      "homeTeam": "Adana Demirspor",
+      "awayTeam": "İstanbulspor",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "FT",
+      "league": "1. Lig",
+      "time": "90'"
     },
     {
-      "homeTeam": "Al Musannah",
-      "awayTeam": "Al-Nahda",
-      "homeScore": 0,
+      "homeTeam": "Havadar",
+      "awayTeam": "Shenavarsazi Qeshm",
+      "homeScore": 2,
       "awayScore": 0,
-      "status": "Not Started",
-      "league": "Sultan Cup",
-      "time": "12:50"
-    },
-    {
-      "homeTeam": "Mostaganem",
-      "awayTeam": "Ben Aknoun",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Ligue 1",
-      "time": "13:00"
+      "status": "FT",
+      "league": "Azadegan League",
+      "time": "90'"
     },
     {
       "homeTeam": "Gicumbi",
@@ -164,30 +182,12 @@
       "time": "PST"
     },
     {
-      "homeTeam": "Welwalo Adigrat Uni",
-      "awayTeam": "Bahardar",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Premier League",
-      "time": "13:00"
-    },
-    {
       "homeTeam": "Saint-Luc",
       "awayTeam": "Don Bosco",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Not Started",
       "league": "Ligue 1",
-      "time": "13:00"
-    },
-    {
-      "homeTeam": "Muhanga",
-      "awayTeam": "Al Merreikh",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "National Soccer League",
       "time": "13:00"
     },
     {
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T12:30:27.996Z",
+  "lastUpdated": "2025-12-29T13:32:26.332Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 4,
-  "finishedMatches": 9,
-  "upcomingMatches": 37,
+  "liveMatches": 7,
+  "finishedMatches": 11,
+  "upcomingMatches": 32,
   "apiCalls": 2
 }
