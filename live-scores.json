@@ -17,7 +17,16 @@
       "awayScore": 0,
       "status": "Live",
       "league": "National League",
-      "time": "19'"
+      "time": "45'"
+    },
+    {
+      "homeTeam": "Fasil Ketema",
+      "awayTeam": "Mebrat Hayl",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "Premier League",
+      "time": "14'"
     },
     {
       "homeTeam": "PSIM Yogyakarta",
@@ -26,7 +35,7 @@
       "awayScore": 2,
       "status": "Live",
       "league": "Liga 1",
-      "time": "60'"
+      "time": "86'"
     },
     {
       "homeTeam": "Bali United",
@@ -35,34 +44,25 @@
       "awayScore": 0,
       "status": "Live",
       "league": "Liga 1",
-      "time": "61'"
-    },
-    {
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Wellington Phoenix",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "A-League",
-      "time": "87'"
-    },
-    {
-      "homeTeam": "Sumsel United",
-      "awayTeam": "Bekasi City",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "61'"
+      "time": "88'"
     },
     {
       "homeTeam": "I.S.P.E",
       "awayTeam": "Yarmanya United",
-      "homeScore": 3,
+      "homeScore": 4,
       "awayScore": 2,
       "status": "Live",
       "league": "National League",
-      "time": "HT"
+      "time": "58'"
+    },
+    {
+      "homeTeam": "Sumsel United",
+      "awayTeam": "Bekasi City",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "Live",
+      "league": "Liga 2",
+      "time": "88'"
     },
     {
       "homeTeam": "Garudayaksa",
@@ -71,7 +71,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Liga 2",
-      "time": "HT"
+      "time": "67'"
     },
     {
       "homeTeam": "All Saints United",
@@ -83,13 +83,13 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Fasil Ketema",
-      "awayTeam": "Mebrat Hayl",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Premier League",
-      "time": "10:00"
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Wellington Phoenix",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "A-League",
+      "time": "90'"
     },
     {
       "homeTeam": "Adana Demirspor",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T09:49:52.062Z",
+  "lastUpdated": "2025-12-29T10:16:29.654Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 8,
-  "finishedMatches": 1,
-  "upcomingMatches": 41,
+  "finishedMatches": 2,
+  "upcomingMatches": 40,
   "apiCalls": 2
 }
