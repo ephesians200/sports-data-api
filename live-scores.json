@@ -11,58 +11,31 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Rakhine United",
-      "awayTeam": "Ayeyawady United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Live",
-      "league": "National League",
-      "time": "45'"
-    },
-    {
       "homeTeam": "Fasil Ketema",
       "awayTeam": "Mebrat Hayl",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "14'"
+      "time": "40'"
     },
     {
-      "homeTeam": "PSIM Yogyakarta",
-      "awayTeam": "PSBS Biak Numfor",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "Live",
-      "league": "Liga 1",
-      "time": "86'"
-    },
-    {
-      "homeTeam": "Bali United",
-      "awayTeam": "Dewa United",
+      "homeTeam": "Rakhine United",
+      "awayTeam": "Ayeyawady United",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Live",
-      "league": "Liga 1",
-      "time": "88'"
+      "league": "National League",
+      "time": "55'"
     },
     {
       "homeTeam": "I.S.P.E",
       "awayTeam": "Yarmanya United",
-      "homeScore": 4,
+      "homeScore": 5,
       "awayScore": 2,
       "status": "Live",
       "league": "National League",
-      "time": "58'"
-    },
-    {
-      "homeTeam": "Sumsel United",
-      "awayTeam": "Bekasi City",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "Live",
-      "league": "Liga 2",
-      "time": "88'"
+      "time": "83'"
     },
     {
       "homeTeam": "Garudayaksa",
@@ -71,7 +44,7 @@
       "awayScore": 1,
       "status": "Live",
       "league": "Liga 2",
-      "time": "67'"
+      "time": "90'"
     },
     {
       "homeTeam": "All Saints United",
@@ -89,6 +62,33 @@
       "awayScore": 1,
       "status": "FT",
       "league": "A-League",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "PSBS Biak Numfor",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
+      "league": "Liga 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Bali United",
+      "awayTeam": "Dewa United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "league": "Liga 1",
+      "time": "90'"
+    },
+    {
+      "homeTeam": "Sumsel United",
+      "awayTeam": "Bekasi City",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "Liga 2",
       "time": "90'"
     },
     {
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T10:16:29.654Z",
+  "lastUpdated": "2025-12-29T10:46:29.077Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 8,
-  "finishedMatches": 2,
+  "liveMatches": 5,
+  "finishedMatches": 5,
   "upcomingMatches": 40,
   "apiCalls": 2
 }
