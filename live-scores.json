@@ -2,6 +2,15 @@
   "success": true,
   "matches": [
     {
+      "homeTeam": "Adana Demirspor",
+      "awayTeam": "İstanbulspor",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Live",
+      "league": "1. Lig",
+      "time": "9'"
+    },
+    {
       "homeTeam": "Rayners Lane",
       "awayTeam": "Hitchin Town",
       "homeScore": 0,
@@ -11,22 +20,22 @@
       "time": "16'"
     },
     {
-      "homeTeam": "Rakhine United",
-      "awayTeam": "Ayeyawady United",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeTeam": "Havadar",
+      "awayTeam": "Shenavarsazi Qeshm",
+      "homeScore": 0,
+      "awayScore": 0,
       "status": "Live",
-      "league": "National League",
-      "time": "86'"
+      "league": "Azadegan League",
+      "time": "8'"
     },
     {
       "homeTeam": "Fasil Ketema",
       "awayTeam": "Mebrat Hayl",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "Live",
       "league": "Premier League",
-      "time": "51'"
+      "time": "76'"
     },
     {
       "homeTeam": "All Saints United",
@@ -92,22 +101,13 @@
       "time": "90'"
     },
     {
-      "homeTeam": "Adana Demirspor",
-      "awayTeam": "İstanbulspor",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "1. Lig",
-      "time": "11:30"
-    },
-    {
-      "homeTeam": "Havadar",
-      "awayTeam": "Shenavarsazi Qeshm",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Azadegan League",
-      "time": "11:30"
+      "homeTeam": "Rakhine United",
+      "awayTeam": "Ayeyawady United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "league": "National League",
+      "time": "90'"
     },
     {
       "homeTeam": "Persija",
@@ -452,11 +452,11 @@
       "time": "19:45"
     }
   ],
-  "lastUpdated": "2025-12-29T11:13:22.162Z",
+  "lastUpdated": "2025-12-29T11:38:51.655Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 3,
-  "finishedMatches": 7,
-  "upcomingMatches": 40,
+  "liveMatches": 4,
+  "finishedMatches": 8,
+  "upcomingMatches": 38,
   "apiCalls": 2
 }
