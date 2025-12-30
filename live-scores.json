@@ -2,179 +2,179 @@
   "success": true,
   "matches": [
     {
-      "homeTeam": "All Saints United",
-      "awayTeam": "Garden Stars",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Premier Division",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Wellington Phoenix",
-      "homeScore": 5,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "A-League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "PSIM Yogyakarta",
-      "awayTeam": "PSBS Biak Numfor",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Liga 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Bali United",
-      "awayTeam": "Dewa United",
+      "homeTeam": "Arnett Gardens",
+      "awayTeam": "Racing United",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "FT",
-      "league": "Liga 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Sumsel United",
-      "awayTeam": "Bekasi City",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga 2",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Garudayaksa",
-      "awayTeam": "Persiraja Banda Aceh",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Liga 2",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "I.S.P.E",
-      "awayTeam": "Yarmanya United",
-      "homeScore": 5,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "National League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Rakhine United",
-      "awayTeam": "Ayeyawady United",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "National League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Fasil Ketema",
-      "awayTeam": "Mebrat Hayl",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
+      "status": "Live",
       "league": "Premier League",
-      "time": "90'"
+      "time": "37'"
     },
     {
-      "homeTeam": "Adana Demirspor",
-      "awayTeam": "İstanbulspor",
-      "homeScore": 1,
-      "awayScore": 5,
-      "status": "FT",
-      "league": "1. Lig",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Havadar",
-      "awayTeam": "Shenavarsazi Qeshm",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Azadegan League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Persija",
-      "awayTeam": "Bhayangkara FC",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Liga 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Welayta Dicha",
-      "awayTeam": "Arba Minch Kenema",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Premier League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al-Ittihad Kalba",
-      "awayTeam": "Al-Jazira",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Pro League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al Musannah",
-      "awayTeam": "Al-Nahda",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Sultan Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Mostaganem",
-      "awayTeam": "Ben Aknoun",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Ligue 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Gicumbi",
-      "awayTeam": "Kiyovu Sports",
+      "homeTeam": "Western Sydney Wanderers W",
+      "awayTeam": "Wellington Phoenix W",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Not Started",
-      "league": "National Soccer League",
-      "time": "PST"
+      "league": "A-League Women",
+      "time": "08:00"
     },
     {
-      "homeTeam": "Rutsiro",
-      "awayTeam": "Mukura",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Persita",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Not Started",
-      "league": "National Soccer League",
-      "time": "PST"
+      "league": "Liga 1",
+      "time": "08:30"
     },
     {
-      "homeTeam": "Welwalo Adigrat Uni",
-      "awayTeam": "Bahardar",
+      "homeTeam": "Abahani",
+      "awayTeam": "Rahmatgonj MFS",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "FT",
-      "league": "Premier League",
-      "time": "90'"
+      "status": "Not Started",
+      "league": "Federation Cup",
+      "time": "08:30"
     },
     {
-      "homeTeam": "Saint-Luc",
-      "awayTeam": "Don Bosco",
+      "homeTeam": "Bangladesh Police",
+      "awayTeam": "Fortis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Federation Cup",
+      "time": "08:30"
+    },
+    {
+      "homeTeam": "Brothers Union",
+      "awayTeam": "PWD Sports Club",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Federation Cup",
+      "time": "08:30"
+    },
+    {
+      "homeTeam": "Arambagh",
+      "awayTeam": "Bashundhara Kings",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Federation Cup",
+      "time": "08:30"
+    },
+    {
+      "homeTeam": "Yadanarbon",
+      "awayTeam": "Dagon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "National League",
+      "time": "09:00"
+    },
+    {
+      "homeTeam": "Dagon Port",
+      "awayTeam": "Thitsar Arman",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "National League",
+      "time": "09:30"
+    },
+    {
+      "homeTeam": "Dire Dawa Kenema",
+      "awayTeam": "Negelle Arsi",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "10:00"
+    },
+    {
+      "homeTeam": "Awassa Kenema",
+      "awayTeam": "Hadiya Hosaena",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "12:00"
+    },
+    {
+      "homeTeam": "Al Ansar",
+      "awayTeam": "Bourj",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "12:15"
+    },
+    {
+      "homeTeam": "Safa",
+      "awayTeam": "Shabab Al Sahel",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "12:15"
+    },
+    {
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Al Wehda Club",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Division 1",
+      "time": "12:25"
+    },
+    {
+      "homeTeam": "Al Ula",
+      "awayTeam": "Al Anwar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Division 1",
+      "time": "12:45"
+    },
+    {
+      "homeTeam": "Al Hamriyah",
+      "awayTeam": "Al Arabi",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Division 1",
+      "time": "12:55"
+    },
+    {
+      "homeTeam": "Ittifaq",
+      "awayTeam": "Al Urooba",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Division 1",
+      "time": "12:55"
+    },
+    {
+      "homeTeam": "Tractor Sazi",
+      "awayTeam": "Malavan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Persian Gulf Pro League",
+      "time": "13:00"
+    },
+    {
+      "homeTeam": "Suhul Shire",
+      "awayTeam": "Adama Kenema",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "13:00"
+    },
+    {
+      "homeTeam": "Panda B5",
+      "awayTeam": "Sanga Balende",
       "homeScore": 0,
       "awayScore": 0,
       "status": "Not Started",
@@ -182,281 +182,281 @@
       "time": "13:00"
     },
     {
-      "homeTeam": "Muhanga",
-      "awayTeam": "Al Merreikh",
+      "homeTeam": "Maniema Union",
+      "awayTeam": "Dauphins Noirs",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "FT",
-      "league": "National Soccer League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al Shamal",
-      "awayTeam": "Al Sadd",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Stars League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al Khaleej Saihat",
-      "awayTeam": "Al-Fateh",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Pro League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Police National",
-      "awayTeam": "Eleven Wise",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Division One League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Mekelle Kenema",
-      "awayTeam": "Kedus Giorgis",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Premier League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Rahimo",
-      "awayTeam": "Douanes",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
+      "status": "Not Started",
       "league": "Ligue 1",
-      "time": "90'"
+      "time": "13:00"
     },
     {
-      "homeTeam": "Al-Dhafra",
-      "awayTeam": "Baniyas SC",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Pro League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al Seeb",
-      "awayTeam": "Jaalan",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Sultan Cup",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Angola",
-      "awayTeam": "Egypt",
+      "homeTeam": "Diyala",
+      "awayTeam": "Al-Qasim",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "FT",
-      "league": "Africa Cup of Nations",
-      "time": "90'"
+      "status": "Not Started",
+      "league": "Iraqi League",
+      "time": "13:00"
     },
     {
-      "homeTeam": "Zimbabwe",
-      "awayTeam": "South Africa",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Africa Cup of Nations",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "MC Oran",
-      "awayTeam": "CR Belouizdad",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
+      "homeTeam": "FC Renaissance",
+      "awayTeam": "New Jack",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
       "league": "Ligue 1",
-      "time": "90'"
+      "time": "14:00"
     },
     {
-      "homeTeam": "Khalidiya",
-      "awayTeam": "Budaiya",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Premier League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al Hilal Omdurman",
-      "awayTeam": "AS Kigali",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "National Soccer League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Bombada",
-      "awayTeam": "Real de Banjul",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "GFA League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Medina United",
-      "awayTeam": "Team Rhino",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "GFA League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Pompiers",
-      "awayTeam": "SNIM",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Premier League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al Ahli Doha",
-      "awayTeam": "UMM Salal",
-      "homeScore": 0,
-      "awayScore": 3,
-      "status": "FT",
-      "league": "Stars League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Ouakam",
-      "awayTeam": "Stade de Mbour",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Ligue 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Génération Foot",
-      "awayTeam": "Pikine",
+      "homeTeam": "Al-Markhiya",
+      "awayTeam": "Al-Khor",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "FT",
-      "league": "Ligue 1",
-      "time": "90'"
+      "status": "Not Started",
+      "league": "Second Division",
+      "time": "14:30"
     },
     {
-      "homeTeam": "Al Taawon",
-      "awayTeam": "Al Najma",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Pro League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Al Riyadh",
-      "awayTeam": "Al-Hazm",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "Pro League",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Coventry",
-      "awayTeam": "Ipswich",
+      "homeTeam": "Al Bidda SC",
+      "awayTeam": "Lusail City",
       "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Second Division",
+      "time": "14:30"
+    },
+    {
+      "homeTeam": "Al Waab",
+      "awayTeam": "Al Kharaitiyat",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Second Division",
+      "time": "14:30"
+    },
+    {
+      "homeTeam": "Muaither SC",
+      "awayTeam": "Al Mesaimeer",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Second Division",
+      "time": "14:30"
+    },
+    {
+      "homeTeam": "Al-Adalah",
+      "awayTeam": "Al Jabalain",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Division 1",
+      "time": "14:40"
+    },
+    {
+      "homeTeam": "Ballinamallard United",
+      "awayTeam": "Queen's University",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
       "league": "Championship",
-      "time": "90'"
+      "time": "15:00"
     },
     {
-      "homeTeam": "MC Alger",
-      "awayTeam": "ES Setif",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "Ligue 1",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Zambia",
-      "awayTeam": "Morocco",
+      "homeTeam": "Sidama Bunna",
+      "awayTeam": "Sheger Ketema",
       "homeScore": 0,
-      "awayScore": 3,
-      "status": "FT",
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "15:00"
+    },
+    {
+      "homeTeam": "El Geish",
+      "awayTeam": "Ghazl El Mehalla",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "League Cup",
+      "time": "15:00"
+    },
+    {
+      "homeTeam": "Al Ahly",
+      "awayTeam": "El Mokawloon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "League Cup",
+      "time": "15:00"
+    },
+    {
+      "homeTeam": "Al-Ahli Jeddah",
+      "awayTeam": "Al-Fayha",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Pro League",
+      "time": "15:30"
+    },
+    {
+      "homeTeam": "Al Quwa Al Jawiya",
+      "awayTeam": "Duhok",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Iraqi League",
+      "time": "15:30"
+    },
+    {
+      "homeTeam": "Baghdad",
+      "awayTeam": "Al Shorta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Iraqi League",
+      "time": "15:30"
+    },
+    {
+      "homeTeam": "Uganda",
+      "awayTeam": "Nigeria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
       "league": "Africa Cup of Nations",
-      "time": "90'"
+      "time": "16:00"
     },
     {
-      "homeTeam": "Comoros",
-      "awayTeam": "Mali",
+      "homeTeam": "Tanzania",
+      "awayTeam": "Tunisia",
       "homeScore": 0,
       "awayScore": 0,
-      "status": "FT",
+      "status": "Not Started",
       "league": "Africa Cup of Nations",
-      "time": "90'"
+      "time": "16:00"
     },
     {
-      "homeTeam": "Newport County",
-      "awayTeam": "Crewe",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "AS Roma",
-      "awayTeam": "Genoa",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "league": "Serie A",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Accrington ST",
-      "awayTeam": "Harrogate Town",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "league": "League Two",
-      "time": "90'"
-    },
-    {
-      "homeTeam": "Bristol Rovers",
-      "awayTeam": "Barnet",
+      "homeTeam": "Heaven Eleven",
+      "awayTeam": "Jubilee",
       "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "League Two",
-      "time": "90'"
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "LFA First Division",
+      "time": "16:00"
     },
     {
-      "homeTeam": "Cheltenham",
-      "awayTeam": "Swindon Town",
+      "homeTeam": "Nouakchott King's",
+      "awayTeam": "Chemal",
       "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "league": "League Two",
-      "time": "90'"
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "16:00"
+    },
+    {
+      "homeTeam": "Ksar",
+      "awayTeam": "Gendrim",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "16:00"
+    },
+    {
+      "homeTeam": "Maccabi Bnei Raina",
+      "awayTeam": "Ironi Kiryat Shmona",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Ligat Ha'al",
+      "time": "17:00"
+    },
+    {
+      "homeTeam": "Hapoel Haifa",
+      "awayTeam": "Bnei Sakhnin",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Ligat Ha'al",
+      "time": "17:30"
+    },
+    {
+      "homeTeam": "Al-Ettifaq",
+      "awayTeam": "Al-Nassr",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Pro League",
+      "time": "17:30"
+    },
+    {
+      "homeTeam": "Al Okhdood",
+      "awayTeam": "Damac",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Pro League",
+      "time": "17:30"
+    },
+    {
+      "homeTeam": "Maccabi Tel Aviv",
+      "awayTeam": "Ironi Tiberias",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Ligat Ha'al",
+      "time": "18:00"
+    },
+    {
+      "homeTeam": "Smouha SC",
+      "awayTeam": "Kahraba Ismailia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "League Cup",
+      "time": "18:00"
+    },
+    {
+      "homeTeam": "Benin",
+      "awayTeam": "Senegal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Africa Cup of Nations",
+      "time": "19:00"
+    },
+    {
+      "homeTeam": "Botswana",
+      "awayTeam": "Congo DR",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Africa Cup of Nations",
+      "time": "19:00"
+    },
+    {
+      "homeTeam": "Burnley",
+      "awayTeam": "Newcastle",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "19:30"
+    },
+    {
+      "homeTeam": "Chelsea",
+      "awayTeam": "Bournemouth",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Premier League",
+      "time": "19:30"
     }
   ],
-  "lastUpdated": "2025-12-29T23:38:10.246Z",
+  "lastUpdated": "2025-12-30T01:06:58.173Z",
   "source": "api-football",
   "totalMatches": 50,
-  "liveMatches": 0,
-  "finishedMatches": 47,
-  "upcomingMatches": 3,
+  "liveMatches": 1,
+  "finishedMatches": 0,
+  "upcomingMatches": 49,
   "apiCalls": 2
 }
