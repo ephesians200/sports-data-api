@@ -92,6 +92,15 @@
       "time": "10:00"
     },
     {
+      "homeTeam": "Tractor Sazi",
+      "awayTeam": "Malavan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "Not Started",
+      "league": "Persian Gulf Pro League",
+      "time": "11:30"
+    },
+    {
       "homeTeam": "Awassa Kenema",
       "awayTeam": "Hadiya Hosaena",
       "homeScore": 0,
@@ -153,15 +162,6 @@
       "status": "Not Started",
       "league": "Division 1",
       "time": "12:55"
-    },
-    {
-      "homeTeam": "Tractor Sazi",
-      "awayTeam": "Malavan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "Not Started",
-      "league": "Persian Gulf Pro League",
-      "time": "13:00"
     },
     {
       "homeTeam": "Suhul Shire",
@@ -452,7 +452,7 @@
       "time": "19:30"
     }
   ],
-  "lastUpdated": "2025-12-30T03:10:10.615Z",
+  "lastUpdated": "2025-12-30T04:12:03.687Z",
   "source": "api-football",
   "totalMatches": 50,
   "liveMatches": 0,
